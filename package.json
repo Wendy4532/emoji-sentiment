@@ -2,14 +2,6 @@
   "name": "emoji-sentiment",
   "version": "0.0.0",
   "description": "Emoji sentiment data",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/dematerializer/emoji-sentiment.git"
-  },
   "keywords": [
     "emoji",
     "sentiment",
@@ -17,8 +9,16 @@
   ],
   "author": "Andreas Tietz (https://github.com/dematerializer)",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dematerializer/emoji-sentiment.git"
+  },
   "bugs": {
     "url": "https://github.com/dematerializer/emoji-sentiment/issues"
   },
-  "homepage": "https://github.com/dematerializer/emoji-sentiment#readme"
+  "homepage": "https://github.com/dematerializer/emoji-sentiment#readme",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
 }
