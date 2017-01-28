@@ -23,7 +23,7 @@ function* buildForPreset(preset) {
 
 	logUpdate('⇣ write sentiment data file');
 
-	fs.writeFileSync(`res/emoji-sentiment-data-v${preset.sentimentVersion}.${preset.tag}.json`, JSON.stringify(sentimentData.data, null, 2));
+	fs.writeFileSync(`res/emoji-sentiment-data.${preset.tag}.json`, JSON.stringify(sentimentData.data, null, 2));
 
 	logUpdate('✓ write data file');
 	logUpdate.done();

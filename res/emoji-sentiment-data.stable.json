@@ -5,7 +5,8 @@
     "position": 0.805100583,
     "negative": 3614,
     "neutral": 4163,
-    "positive": 6845
+    "positive": 6845,
+    "score": 0.22096840377513335
   },
   {
     "sequence": "2764",
@@ -13,7 +14,8 @@
     "position": 0.746943086,
     "negative": 355,
     "neutral": 1334,
-    "positive": 6361
+    "positive": 6361,
+    "score": 0.7460869565217392
   },
   {
     "sequence": "2665",
@@ -21,7 +23,8 @@
     "position": 0.753806008,
     "negative": 252,
     "neutral": 1942,
-    "positive": 4950
+    "positive": 4950,
+    "score": 0.6576147816349384
   },
   {
     "sequence": "1F60D",
@@ -29,7 +32,8 @@
     "position": 0.765292366,
     "negative": 329,
     "neutral": 1390,
-    "positive": 4640
+    "positive": 4640,
+    "score": 0.6779367825129737
   },
   {
     "sequence": "1F62D",
@@ -37,7 +41,8 @@
     "position": 0.803351976,
     "negative": 2412,
     "neutral": 1218,
-    "positive": 1896
+    "positive": 1896,
+    "score": -0.09337676438653637
   },
   {
     "sequence": "1F618",
@@ -45,7 +50,8 @@
     "position": 0.854480172,
     "negative": 193,
     "neutral": 702,
-    "positive": 2753
+    "positive": 2753,
+    "score": 0.7017543859649122
   },
   {
     "sequence": "1F60A",
@@ -53,7 +59,8 @@
     "position": 0.813302436,
     "negative": 189,
     "neutral": 754,
-    "positive": 2243
+    "positive": 2243,
+    "score": 0.6446955430006277
   },
   {
     "sequence": "1F44C",
@@ -61,7 +68,8 @@
     "position": 0.805222883,
     "negative": 274,
     "neutral": 728,
-    "positive": 1923
+    "positive": 1923,
+    "score": 0.5637606837606838
   },
   {
     "sequence": "1F495",
@@ -69,7 +77,8 @@
     "position": 0.765725889,
     "negative": 99,
     "neutral": 683,
-    "positive": 1618
+    "positive": 1618,
+    "score": 0.6329166666666667
   },
   {
     "sequence": "1F44F",
@@ -77,7 +86,8 @@
     "position": 0.787130164,
     "negative": 243,
     "neutral": 634,
-    "positive": 1459
+    "positive": 1459,
+    "score": 0.5205479452054794
   },
   {
     "sequence": "1F601",
@@ -85,7 +95,8 @@
     "position": 0.796151187,
     "negative": 278,
     "neutral": 648,
-    "positive": 1263
+    "positive": 1263,
+    "score": 0.4499771585198721
   },
   {
     "sequence": "263A",
@@ -93,7 +104,8 @@
     "position": 0.798633582,
     "negative": 128,
     "neutral": 449,
-    "positive": 1485
+    "positive": 1485,
+    "score": 0.6580989330746848
   },
   {
     "sequence": "2661",
@@ -101,7 +113,8 @@
     "position": 0.763695423,
     "negative": 102,
     "neutral": 448,
-    "positive": 1425
+    "positive": 1425,
+    "score": 0.669873417721519
   },
   {
     "sequence": "1F44D",
@@ -109,7 +122,8 @@
     "position": 0.812125626,
     "negative": 213,
     "neutral": 460,
-    "positive": 1181
+    "positive": 1181,
+    "score": 0.5221143473570659
   },
   {
     "sequence": "1F629",
@@ -117,7 +131,8 @@
     "position": 0.826213985,
     "negative": 1069,
     "neutral": 336,
-    "positive": 403
+    "positive": 403,
+    "score": -0.36836283185840707
   },
   {
     "sequence": "1F64F",
@@ -125,7 +140,8 @@
     "position": 0.793847592,
     "negative": 124,
     "neutral": 648,
-    "positive": 767
+    "positive": 767,
+    "score": 0.41780376868096164
   },
   {
     "sequence": "270C",
@@ -133,7 +149,8 @@
     "position": 0.790480332,
     "negative": 173,
     "neutral": 476,
-    "positive": 885
+    "positive": 885,
+    "score": 0.4641460234680574
   },
   {
     "sequence": "1F60F",
@@ -141,7 +158,8 @@
     "position": 0.764977294,
     "negative": 170,
     "neutral": 676,
-    "positive": 676
+    "positive": 676,
+    "score": 0.3324572930354796
   },
   {
     "sequence": "1F609",
@@ -149,7 +167,8 @@
     "position": 0.844832651,
     "negative": 151,
     "neutral": 513,
-    "positive": 857
+    "positive": 857,
+    "score": 0.4641683103221565
   },
   {
     "sequence": "1F64C",
@@ -157,7 +176,8 @@
     "position": 0.790600034,
     "negative": 152,
     "neutral": 358,
-    "positive": 996
+    "positive": 996,
+    "score": 0.5604249667994687
   },
   {
     "sequence": "1F648",
@@ -165,7 +185,8 @@
     "position": 0.738880937,
     "negative": 238,
     "neutral": 350,
-    "positive": 868
+    "positive": 868,
+    "score": 0.4326923076923077
   },
   {
     "sequence": "1F4AA",
@@ -173,7 +194,8 @@
     "position": 0.806704098,
     "negative": 101,
     "neutral": 424,
-    "positive": 884
+    "positive": 884,
+    "score": 0.5557132718239887
   },
   {
     "sequence": "1F604",
@@ -181,7 +203,8 @@
     "position": 0.794972621,
     "negative": 191,
     "neutral": 426,
-    "positive": 781
+    "positive": 781,
+    "score": 0.4220314735336195
   },
   {
     "sequence": "1F612",
@@ -189,7 +212,8 @@
     "position": 0.857620553,
     "negative": 819,
     "neutral": 266,
-    "positive": 300
+    "positive": 300,
+    "score": -0.3747292418772563
   },
   {
     "sequence": "1F483",
@@ -197,7 +221,8 @@
     "position": 0.852764705,
     "negative": 59,
     "neutral": 237,
-    "positive": 1048
+    "positive": 1048,
+    "score": 0.7358630952380952
   },
   {
     "sequence": "1F496",
@@ -205,7 +230,8 @@
     "position": 0.762239109,
     "negative": 54,
     "neutral": 254,
-    "positive": 955
+    "positive": 955,
+    "score": 0.7133808392715756
   },
   {
     "sequence": "1F603",
@@ -213,7 +239,8 @@
     "position": 0.734782211,
     "negative": 86,
     "neutral": 361,
-    "positive": 759
+    "positive": 759,
+    "score": 0.5580431177446102
   },
   {
     "sequence": "1F614",
@@ -221,7 +248,8 @@
     "position": 0.86614594,
     "negative": 559,
     "neutral": 263,
-    "positive": 383
+    "positive": 383,
+    "score": -0.14605809128630706
   },
   {
     "sequence": "1F631",
@@ -229,7 +257,8 @@
     "position": 0.773313178,
     "negative": 298,
     "neutral": 319,
-    "positive": 513
+    "positive": 513,
+    "score": 0.1902654867256637
   },
   {
     "sequence": "1F389",
@@ -237,7 +266,8 @@
     "position": 0.743635879,
     "negative": 43,
     "neutral": 207,
-    "positive": 875
+    "positive": 875,
+    "score": 0.7395555555555555
   },
   {
     "sequence": "1F61C",
@@ -245,7 +275,8 @@
     "position": 0.822246602,
     "negative": 115,
     "neutral": 333,
-    "positive": 587
+    "positive": 587,
+    "score": 0.45603864734299515
   },
   {
     "sequence": "262F",
@@ -253,7 +284,8 @@
     "position": 0.383524015,
     "negative": 5,
     "neutral": 981,
-    "positive": 6
+    "positive": 6,
+    "score": 0.0010080645161290322
   },
   {
     "sequence": "1F338",
@@ -261,7 +293,8 @@
     "position": 0.570021571,
     "negative": 37,
     "neutral": 255,
-    "positive": 654
+    "positive": 654,
+    "score": 0.6522198731501057
   },
   {
     "sequence": "1F49C",
@@ -269,7 +302,8 @@
     "position": 0.730869962,
     "negative": 41,
     "neutral": 241,
-    "positive": 657
+    "positive": 657,
+    "score": 0.6560170394036209
   },
   {
     "sequence": "1F499",
@@ -277,7 +311,8 @@
     "position": 0.703047577,
     "negative": 29,
     "neutral": 186,
-    "positive": 697
+    "positive": 697,
+    "score": 0.7324561403508771
   },
   {
     "sequence": "2728",
@@ -285,7 +320,8 @@
     "position": 0.560430162,
     "negative": 43,
     "neutral": 463,
-    "positive": 342
+    "positive": 342,
+    "score": 0.35259433962264153
   },
   {
     "sequence": "1F633",
@@ -293,7 +329,8 @@
     "position": 0.797185814,
     "negative": 277,
     "neutral": 277,
-    "positive": 292
+    "positive": 292,
+    "score": 0.01773049645390071
   },
   {
     "sequence": "1F497",
@@ -301,7 +338,8 @@
     "position": 0.799725947,
     "negative": 42,
     "neutral": 201,
-    "positive": 593
+    "positive": 593,
+    "score": 0.6590909090909091
   },
   {
     "sequence": "2605",
@@ -309,7 +347,8 @@
     "position": 0.353316599,
     "negative": 25,
     "neutral": 543,
-    "positive": 260
+    "positive": 260,
+    "score": 0.28381642512077293
   },
   {
     "sequence": "2588",
@@ -317,7 +356,8 @@
     "position": 0.634172164,
     "negative": 71,
     "neutral": 682,
-    "positive": 45
+    "positive": 45,
+    "score": -0.03258145363408521
   },
   {
     "sequence": "2600",
@@ -325,7 +365,8 @@
     "position": 0.54553079,
     "negative": 21,
     "neutral": 377,
-    "positive": 388
+    "positive": 388,
+    "score": 0.4669211195928753
   },
   {
     "sequence": "1F621",
@@ -333,7 +374,8 @@
     "position": 0.861522028,
     "negative": 403,
     "neutral": 81,
-    "positive": 272
+    "positive": 272,
+    "score": -0.17328042328042328
   },
   {
     "sequence": "1F60E",
@@ -341,7 +383,8 @@
     "position": 0.76564387,
     "negative": 79,
     "neutral": 224,
-    "positive": 451
+    "positive": 451,
+    "score": 0.493368700265252
   },
   {
     "sequence": "1F622",
@@ -349,7 +392,8 @@
     "position": 0.813896833,
     "negative": 288,
     "neutral": 168,
-    "positive": 293
+    "positive": 293,
+    "score": 0.006675567423230975
   },
   {
     "sequence": "1F48B",
@@ -357,7 +401,8 @@
     "position": 0.800580592,
     "negative": 28,
     "neutral": 169,
-    "positive": 537
+    "positive": 537,
+    "score": 0.6934604904632152
   },
   {
     "sequence": "1F60B",
@@ -365,7 +410,8 @@
     "position": 0.76498518,
     "negative": 33,
     "neutral": 203,
-    "positive": 498
+    "positive": 498,
+    "score": 0.6335149863760218
   },
   {
     "sequence": "1F64A",
@@ -373,7 +419,8 @@
     "position": 0.740523086,
     "negative": 97,
     "neutral": 197,
-    "positive": 431
+    "positive": 431,
+    "score": 0.4606896551724138
   },
   {
     "sequence": "1F634",
@@ -381,7 +428,8 @@
     "position": 0.849922938,
     "negative": 303,
     "neutral": 170,
-    "positive": 245
+    "positive": 245,
+    "score": -0.0807799442896936
   },
   {
     "sequence": "1F3B6",
@@ -389,7 +437,8 @@
     "position": 0.797255889,
     "negative": 67,
     "neutral": 189,
-    "positive": 445
+    "positive": 445,
+    "score": 0.5392296718972895
   },
   {
     "sequence": "1F49E",
@@ -397,7 +446,8 @@
     "position": 0.828705997,
     "negative": 27,
     "neutral": 123,
-    "positive": 537
+    "positive": 537,
+    "score": 0.74235807860262
   },
   {
     "sequence": "1F60C",
@@ -405,7 +455,8 @@
     "position": 0.847121229,
     "negative": 93,
     "neutral": 157,
-    "positive": 415
+    "positive": 415,
+    "score": 0.4842105263157895
   },
   {
     "sequence": "1F525",
@@ -413,7 +464,8 @@
     "position": 0.61555041,
     "negative": 80,
     "neutral": 400,
-    "positive": 171
+    "positive": 171,
+    "score": 0.13978494623655913
   },
   {
     "sequence": "1F4AF",
@@ -421,7 +473,8 @@
     "position": 0.871819418,
     "negative": 179,
     "neutral": 202,
-    "positive": 256
+    "positive": 256,
+    "score": 0.12087912087912088
   },
   {
     "sequence": "1F52B",
@@ -429,7 +482,8 @@
     "position": 0.893761284,
     "negative": 298,
     "neutral": 126,
-    "positive": 180
+    "positive": 180,
+    "score": -0.19536423841059603
   },
   {
     "sequence": "1F49B",
@@ -437,7 +491,8 @@
     "position": 0.751631631,
     "negative": 25,
     "neutral": 123,
-    "positive": 454
+    "positive": 454,
+    "score": 0.7126245847176079
   },
   {
     "sequence": "1F481",
@@ -445,7 +500,8 @@
     "position": 0.839628793,
     "negative": 105,
     "neutral": 159,
-    "positive": 285
+    "positive": 285,
+    "score": 0.32786885245901637
   },
   {
     "sequence": "1F49A",
@@ -453,7 +509,8 @@
     "position": 0.737498972,
     "negative": 41,
     "neutral": 101,
-    "positive": 395
+    "positive": 395,
+    "score": 0.659217877094972
   },
   {
     "sequence": "266B",
@@ -461,7 +518,8 @@
     "position": 0.396607039,
     "negative": 33,
     "neutral": 313,
-    "positive": 187
+    "positive": 187,
+    "score": 0.28893058161350843
   },
   {
     "sequence": "1F61E",
@@ -469,7 +527,8 @@
     "position": 0.825187832,
     "negative": 255,
     "neutral": 85,
-    "positive": 192
+    "positive": 192,
+    "score": -0.11842105263157894
   },
   {
     "sequence": "1F606",
@@ -477,7 +536,8 @@
     "position": 0.809376422,
     "negative": 81,
     "neutral": 148,
-    "positive": 298
+    "positive": 298,
+    "score": 0.4117647058823529
   },
   {
     "sequence": "1F61D",
@@ -485,7 +545,8 @@
     "position": 0.808808972,
     "negative": 65,
     "neutral": 155,
-    "positive": 276
+    "positive": 276,
+    "score": 0.4254032258064516
   },
   {
     "sequence": "1F62A",
@@ -493,7 +554,8 @@
     "position": 0.858219873,
     "negative": 208,
     "neutral": 105,
-    "positive": 169
+    "positive": 169,
+    "score": -0.08091286307053942
   },
   {
     "sequence": "FFFD",
@@ -501,7 +563,8 @@
     "position": 0.11293316,
     "negative": 78,
     "neutral": 275,
-    "positive": 119
+    "positive": 119,
+    "score": 0.08686440677966102
   },
   {
     "sequence": "1F62B",
@@ -509,7 +572,8 @@
     "position": 0.839517641,
     "negative": 227,
     "neutral": 81,
-    "positive": 159
+    "positive": 159,
+    "score": -0.145610278372591
   },
   {
     "sequence": "1F605",
@@ -517,7 +581,8 @@
     "position": 0.827654572,
     "negative": 135,
     "neutral": 109,
-    "positive": 218
+    "positive": 218,
+    "score": 0.17965367965367965
   },
   {
     "sequence": "1F44A",
@@ -525,7 +590,8 @@
     "position": 0.824515864,
     "negative": 121,
     "neutral": 111,
-    "positive": 226
+    "positive": 226,
+    "score": 0.2292576419213974
   },
   {
     "sequence": "1F480",
@@ -533,7 +599,8 @@
     "position": 0.739462262,
     "negative": 214,
     "neutral": 123,
-    "positive": 119
+    "positive": 119,
+    "score": -0.20833333333333334
   },
   {
     "sequence": "1F600",
@@ -541,7 +608,8 @@
     "position": 0.786284933,
     "negative": 37,
     "neutral": 114,
-    "positive": 288
+    "positive": 288,
+    "score": 0.571753986332574
   },
   {
     "sequence": "1F61A",
@@ -549,7 +617,8 @@
     "position": 0.853414944,
     "negative": 20,
     "neutral": 81,
-    "positive": 323
+    "positive": 323,
+    "score": 0.714622641509434
   },
   {
     "sequence": "1F63B",
@@ -557,7 +626,8 @@
     "position": 0.729665769,
     "negative": 28,
     "neutral": 101,
-    "positive": 288
+    "positive": 288,
+    "score": 0.6235011990407674
   },
   {
     "sequence": "00A9",
@@ -565,7 +635,8 @@
     "position": 0.740148376,
     "negative": 54,
     "neutral": 259,
-    "positive": 103
+    "positive": 103,
+    "score": 0.11778846153846154
   },
   {
     "sequence": "1F440",
@@ -573,7 +644,8 @@
     "position": 0.759422009,
     "negative": 93,
     "neutral": 198,
-    "positive": 119
+    "positive": 119,
+    "score": 0.06341463414634146
   },
   {
     "sequence": "1F498",
@@ -581,7 +653,8 @@
     "position": 0.785036942,
     "negative": 18,
     "neutral": 87,
-    "positive": 290
+    "positive": 290,
+    "score": 0.6886075949367089
   },
   {
     "sequence": "1F413",
@@ -589,7 +662,8 @@
     "position": 0.490808466,
     "negative": 41,
     "neutral": 291,
-    "positive": 52
+    "positive": 52,
+    "score": 0.028645833333333332
   },
   {
     "sequence": "2615",
@@ -597,7 +671,8 @@
     "position": 0.685215074,
     "negative": 53,
     "neutral": 182,
-    "positive": 147
+    "positive": 147,
+    "score": 0.24607329842931938
   },
   {
     "sequence": "1F44B",
@@ -605,7 +680,8 @@
     "position": 0.797944108,
     "negative": 60,
     "neutral": 103,
-    "positive": 219
+    "positive": 219,
+    "score": 0.4162303664921466
   },
   {
     "sequence": "270B",
@@ -613,7 +689,8 @@
     "position": 0.838291817,
     "negative": 124,
     "neutral": 82,
-    "positive": 172
+    "positive": 172,
+    "score": 0.12698412698412698
   },
   {
     "sequence": "1F38A",
@@ -621,7 +698,8 @@
     "position": 0.72362175,
     "negative": 20,
     "neutral": 59,
-    "positive": 284
+    "positive": 284,
+    "score": 0.7272727272727273
   },
   {
     "sequence": "1F355",
@@ -629,7 +707,8 @@
     "position": 0.544580757,
     "negative": 19,
     "neutral": 166,
-    "positive": 167
+    "positive": 167,
+    "score": 0.42045454545454547
   },
   {
     "sequence": "2744",
@@ -637,7 +716,8 @@
     "position": 0.760181984,
     "negative": 34,
     "neutral": 103,
-    "positive": 212
+    "positive": 212,
+    "score": 0.5100286532951289
   },
   {
     "sequence": "1F625",
@@ -645,7 +725,8 @@
     "position": 0.881976694,
     "negative": 108,
     "neutral": 83,
-    "positive": 150
+    "positive": 150,
+    "score": 0.12316715542521994
   },
   {
     "sequence": "1F615",
@@ -653,7 +734,8 @@
     "position": 0.856711865,
     "negative": 205,
     "neutral": 66,
-    "positive": 69
+    "positive": 69,
+    "score": -0.4
   },
   {
     "sequence": "1F4A5",
@@ -661,7 +743,8 @@
     "position": 0.587206232,
     "negative": 23,
     "neutral": 234,
-    "positive": 72
+    "positive": 72,
+    "score": 0.14893617021276595
   },
   {
     "sequence": "1F494",
@@ -669,7 +752,8 @@
     "position": 0.835831574,
     "negative": 136,
     "neutral": 96,
-    "positive": 96
+    "positive": 96,
+    "score": -0.12195121951219512
   },
   {
     "sequence": "1F624",
@@ -677,7 +761,8 @@
     "position": 0.884007985,
     "negative": 157,
     "neutral": 82,
-    "positive": 88
+    "positive": 88,
+    "score": -0.21100917431192662
   },
   {
     "sequence": "1F608",
@@ -685,7 +770,8 @@
     "position": 0.762497655,
     "negative": 66,
     "neutral": 106,
-    "positive": 153
+    "positive": 153,
+    "score": 0.2676923076923077
   },
   {
     "sequence": "25BA",
@@ -693,7 +779,8 @@
     "position": 0.516489206,
     "negative": 40,
     "neutral": 192,
-    "positive": 93
+    "positive": 93,
+    "score": 0.16307692307692306
   },
   {
     "sequence": "2708",
@@ -701,7 +788,8 @@
     "position": 0.521940266,
     "negative": 13,
     "neutral": 161,
-    "positive": 148
+    "positive": 148,
+    "score": 0.4192546583850932
   },
   {
     "sequence": "1F51D",
@@ -709,7 +797,8 @@
     "position": 0.798433666,
     "negative": 26,
     "neutral": 106,
-    "positive": 171
+    "positive": 171,
+    "score": 0.47854785478547857
   },
   {
     "sequence": "1F630",
@@ -717,7 +806,8 @@
     "position": 0.919654285,
     "negative": 132,
     "neutral": 44,
-    "positive": 126
+    "positive": 126,
+    "score": -0.019867549668874173
   },
   {
     "sequence": "26BD",
@@ -725,7 +815,8 @@
     "position": 0.193496177,
     "negative": 15,
     "neutral": 83,
-    "positive": 201
+    "positive": 201,
+    "score": 0.6220735785953178
   },
   {
     "sequence": "1F611",
@@ -733,7 +824,8 @@
     "position": 0.844272967,
     "negative": 154,
     "neutral": 85,
-    "positive": 60
+    "positive": 60,
+    "score": -0.31438127090301005
   },
   {
     "sequence": "1F451",
@@ -741,7 +833,8 @@
     "position": 0.698804832,
     "negative": 12,
     "neutral": 65,
-    "positive": 221
+    "positive": 221,
+    "score": 0.7013422818791947
   },
   {
     "sequence": "1F639",
@@ -749,7 +842,8 @@
     "position": 0.8074145,
     "negative": 88,
     "neutral": 77,
-    "positive": 130
+    "positive": 130,
+    "score": 0.1423728813559322
   },
   {
     "sequence": "1F449",
@@ -757,7 +851,8 @@
     "position": 0.559175629,
     "negative": 20,
     "neutral": 137,
-    "positive": 135
+    "positive": 135,
+    "score": 0.3938356164383562
   },
   {
     "sequence": "1F343",
@@ -765,7 +860,8 @@
     "position": 0.572324349,
     "negative": 29,
     "neutral": 122,
-    "positive": 140
+    "positive": 140,
+    "score": 0.38144329896907214
   },
   {
     "sequence": "1F381",
@@ -773,7 +869,8 @@
     "position": 0.709181399,
     "negative": 11,
     "neutral": 45,
-    "positive": 232
+    "positive": 232,
+    "score": 0.7673611111111112
   },
   {
     "sequence": "1F620",
@@ -781,7 +878,8 @@
     "position": 0.849218089,
     "negative": 163,
     "neutral": 49,
-    "positive": 76
+    "positive": 76,
+    "score": -0.3020833333333333
   },
   {
     "sequence": "1F427",
@@ -789,7 +887,8 @@
     "position": 0.540408727,
     "negative": 11,
     "neutral": 131,
-    "positive": 142
+    "positive": 142,
+    "score": 0.4612676056338028
   },
   {
     "sequence": "2606",
@@ -797,7 +896,8 @@
     "position": 0.563398192,
     "negative": 8,
     "neutral": 144,
-    "positive": 130
+    "positive": 130,
+    "score": 0.4326241134751773
   },
   {
     "sequence": "1F340",
@@ -805,7 +905,8 @@
     "position": 0.768496291,
     "negative": 6,
     "neutral": 186,
-    "positive": 86
+    "positive": 86,
+    "score": 0.28776978417266186
   },
   {
     "sequence": "1F388",
@@ -813,7 +914,8 @@
     "position": 0.718504213,
     "negative": 4,
     "neutral": 68,
-    "positive": 205
+    "positive": 205,
+    "score": 0.7256317689530686
   },
   {
     "sequence": "1F385",
@@ -821,7 +923,8 @@
     "position": 0.800786662,
     "negative": 7,
     "neutral": 172,
-    "positive": 95
+    "positive": 95,
+    "score": 0.32116788321167883
   },
   {
     "sequence": "1F613",
@@ -829,7 +932,8 @@
     "position": 0.844887359,
     "negative": 118,
     "neutral": 59,
-    "positive": 96
+    "positive": 96,
+    "score": -0.08058608058608059
   },
   {
     "sequence": "1F623",
@@ -837,7 +941,8 @@
     "position": 0.903307721,
     "negative": 147,
     "neutral": 35,
-    "positive": 89
+    "positive": 89,
+    "score": -0.2140221402214022
   },
   {
     "sequence": "1F610",
@@ -845,7 +950,8 @@
     "position": 0.882732825,
     "negative": 150,
     "neutral": 76,
-    "positive": 44
+    "positive": 44,
+    "score": -0.3925925925925926
   },
   {
     "sequence": "270A",
@@ -853,7 +959,8 @@
     "position": 0.858608998,
     "negative": 37,
     "neutral": 79,
-    "positive": 154
+    "positive": 154,
+    "score": 0.43333333333333335
   },
   {
     "sequence": "1F628",
@@ -861,7 +968,8 @@
     "position": 0.813687927,
     "negative": 117,
     "neutral": 73,
-    "positive": 79
+    "positive": 79,
+    "score": -0.1412639405204461
   },
   {
     "sequence": "1F616",
@@ -869,7 +977,8 @@
     "position": 0.868926665,
     "negative": 130,
     "neutral": 50,
-    "positive": 88
+    "positive": 88,
+    "score": -0.15671641791044777
   },
   {
     "sequence": "1F4A4",
@@ -877,7 +986,8 @@
     "position": 0.800461854,
     "negative": 38,
     "neutral": 91,
-    "positive": 138
+    "positive": 138,
+    "score": 0.37453183520599254
   },
   {
     "sequence": "1F493",
@@ -885,7 +995,8 @@
     "position": 0.783045488,
     "negative": 15,
     "neutral": 55,
-    "positive": 189
+    "positive": 189,
+    "score": 0.6718146718146718
   },
   {
     "sequence": "1F44E",
@@ -893,7 +1004,8 @@
     "position": 0.914491346,
     "negative": 128,
     "neutral": 51,
-    "positive": 79
+    "positive": 79,
+    "score": -0.18992248062015504
   },
   {
     "sequence": "1F4A6",
@@ -901,7 +1013,8 @@
     "position": 0.779043752,
     "negative": 35,
     "neutral": 62,
-    "positive": 155
+    "positive": 155,
+    "score": 0.47619047619047616
   },
   {
     "sequence": "2714",
@@ -909,7 +1022,8 @@
     "position": 0.565237075,
     "negative": 31,
     "neutral": 119,
-    "positive": 99
+    "positive": 99,
+    "score": 0.27309236947791166
   },
   {
     "sequence": "1F637",
@@ -917,7 +1031,8 @@
     "position": 0.840376534,
     "negative": 117,
     "neutral": 54,
-    "positive": 75
+    "positive": 75,
+    "score": -0.17073170731707318
   },
   {
     "sequence": "26A1",
@@ -925,7 +1040,8 @@
     "position": 0.778780762,
     "negative": 10,
     "neutral": 182,
-    "positive": 54
+    "positive": 54,
+    "score": 0.17886178861788618
   },
   {
     "sequence": "1F64B",
@@ -933,7 +1049,8 @@
     "position": 0.732500422,
     "negative": 30,
     "neutral": 60,
-    "positive": 146
+    "positive": 146,
+    "score": 0.4915254237288136
   },
   {
     "sequence": "1F384",
@@ -941,7 +1058,8 @@
     "position": 0.632526433,
     "negative": 15,
     "neutral": 79,
-    "positive": 142
+    "positive": 142,
+    "score": 0.538135593220339
   },
   {
     "sequence": "1F4A9",
@@ -949,7 +1067,8 @@
     "position": 0.839720048,
     "negative": 94,
     "neutral": 68,
-    "positive": 67
+    "positive": 67,
+    "score": -0.11790393013100436
   },
   {
     "sequence": "1F3B5",
@@ -957,7 +1076,8 @@
     "position": 0.71526961,
     "negative": 23,
     "neutral": 64,
-    "positive": 136
+    "positive": 136,
+    "score": 0.5067264573991032
   },
   {
     "sequence": "27A1",
@@ -965,7 +1085,8 @@
     "position": 0.478330444,
     "negative": 2,
     "neutral": 185,
-    "positive": 35
+    "positive": 35,
+    "score": 0.14864864864864866
   },
   {
     "sequence": "1F61B",
@@ -973,7 +1094,8 @@
     "position": 0.734419263,
     "negative": 18,
     "neutral": 50,
-    "positive": 152
+    "positive": 152,
+    "score": 0.6090909090909091
   },
   {
     "sequence": "1F62C",
@@ -981,7 +1103,8 @@
     "position": 0.793679841,
     "negative": 57,
     "neutral": 58,
-    "positive": 99
+    "positive": 99,
+    "score": 0.19626168224299065
   },
   {
     "sequence": "1F46F",
@@ -989,7 +1112,8 @@
     "position": 0.742043843,
     "negative": 24,
     "neutral": 69,
-    "positive": 118
+    "positive": 118,
+    "score": 0.44549763033175355
   },
   {
     "sequence": "1F48E",
@@ -997,7 +1121,8 @@
     "position": 0.694054736,
     "negative": 11,
     "neutral": 68,
-    "positive": 130
+    "positive": 130,
+    "score": 0.569377990430622
   },
   {
     "sequence": "1F33F",
@@ -1005,7 +1130,8 @@
     "position": 0.600120585,
     "negative": 1,
     "neutral": 125,
-    "positive": 82
+    "positive": 82,
+    "score": 0.3894230769230769
   },
   {
     "sequence": "1F382",
@@ -1013,7 +1139,8 @@
     "position": 0.747999917,
     "negative": 16,
     "neutral": 44,
-    "positive": 141
+    "positive": 141,
+    "score": 0.6218905472636815
   },
   {
     "sequence": "1F31F",
@@ -1021,7 +1148,8 @@
     "position": 0.654510913,
     "negative": 11,
     "neutral": 111,
-    "positive": 77
+    "positive": 77,
+    "score": 0.3316582914572864
   },
   {
     "sequence": "1F52E",
@@ -1029,7 +1157,8 @@
     "position": 0.333161733,
     "negative": 6,
     "neutral": 133,
-    "positive": 60
+    "positive": 60,
+    "score": 0.271356783919598
   },
   {
     "sequence": "2757",
@@ -1037,7 +1166,8 @@
     "position": 0.620120854,
     "negative": 31,
     "neutral": 116,
-    "positive": 51
+    "positive": 51,
+    "score": 0.10101010101010101
   },
   {
     "sequence": "1F46B",
@@ -1045,7 +1175,8 @@
     "position": 0.664270589,
     "negative": 43,
     "neutral": 60,
-    "positive": 94
+    "positive": 94,
+    "score": 0.25888324873096447
   },
   {
     "sequence": "1F3C6",
@@ -1053,7 +1184,8 @@
     "position": 0.705937446,
     "negative": 6,
     "neutral": 39,
-    "positive": 149
+    "positive": 149,
+    "score": 0.7371134020618557
   },
   {
     "sequence": "2716",
@@ -1061,7 +1193,8 @@
     "position": 0.514517152,
     "negative": 8,
     "neutral": 116,
-    "positive": 69
+    "positive": 69,
+    "score": 0.3160621761658031
   },
   {
     "sequence": "261D",
@@ -1069,7 +1202,8 @@
     "position": 0.7597726,
     "negative": 27,
     "neutral": 77,
-    "positive": 87
+    "positive": 87,
+    "score": 0.31413612565445026
   },
   {
     "sequence": "1F619",
@@ -1077,7 +1211,8 @@
     "position": 0.875675106,
     "negative": 3,
     "neutral": 34,
-    "positive": 154
+    "positive": 154,
+    "score": 0.7905759162303665
   },
   {
     "sequence": "26C4",
@@ -1085,7 +1220,8 @@
     "position": 0.738724736,
     "negative": 14,
     "neutral": 62,
-    "positive": 115
+    "positive": 115,
+    "score": 0.5287958115183246
   },
   {
     "sequence": "1F445",
@@ -1093,7 +1229,8 @@
     "position": 0.738179133,
     "negative": 23,
     "neutral": 55,
-    "positive": 112
+    "positive": 112,
+    "score": 0.46842105263157896
   },
   {
     "sequence": "266A",
@@ -1101,7 +1238,8 @@
     "position": 0.696314423,
     "negative": 15,
     "neutral": 57,
-    "positive": 118
+    "positive": 118,
+    "score": 0.5421052631578948
   },
   {
     "sequence": "1F342",
@@ -1109,7 +1247,8 @@
     "position": 0.634540658,
     "negative": 6,
     "neutral": 72,
-    "positive": 111
+    "positive": 111,
+    "score": 0.5555555555555556
   },
   {
     "sequence": "1F48F",
@@ -1117,7 +1256,8 @@
     "position": 0.72895246,
     "negative": 33,
     "neutral": 46,
-    "positive": 106
+    "positive": 106,
+    "score": 0.3945945945945946
   },
   {
     "sequence": "1F52A",
@@ -1125,7 +1265,8 @@
     "position": 0.764046479,
     "negative": 38,
     "neutral": 94,
-    "positive": 51
+    "positive": 51,
+    "score": 0.07103825136612021
   },
   {
     "sequence": "1F334",
@@ -1133,7 +1274,8 @@
     "position": 0.675890052,
     "negative": 13,
     "neutral": 57,
-    "positive": 108
+    "positive": 108,
+    "score": 0.5337078651685393
   },
   {
     "sequence": "1F448",
@@ -1141,7 +1283,8 @@
     "position": 0.701409121,
     "negative": 14,
     "neutral": 71,
-    "positive": 89
+    "positive": 89,
+    "score": 0.43103448275862066
   },
   {
     "sequence": "1F339",
@@ -1149,7 +1292,8 @@
     "position": 0.664431116,
     "negative": 3,
     "neutral": 61,
-    "positive": 108
+    "positive": 108,
+    "score": 0.6104651162790697
   },
   {
     "sequence": "1F646",
@@ -1157,7 +1301,8 @@
     "position": 0.839916616,
     "negative": 15,
     "neutral": 54,
-    "positive": 102
+    "positive": 102,
+    "score": 0.5087719298245614
   },
   {
     "sequence": "279C",
@@ -1165,7 +1310,8 @@
     "position": 0.558506642,
     "negative": 8,
     "neutral": 126,
-    "positive": 36
+    "positive": 36,
+    "score": 0.16470588235294117
   },
   {
     "sequence": "1F47B",
@@ -1173,7 +1319,8 @@
     "position": 0.740824428,
     "negative": 28,
     "neutral": 73,
-    "positive": 67
+    "positive": 67,
+    "score": 0.23214285714285715
   },
   {
     "sequence": "1F4B0",
@@ -1181,7 +1328,8 @@
     "position": 0.827466509,
     "negative": 26,
     "neutral": 73,
-    "positive": 69
+    "positive": 69,
+    "score": 0.25595238095238093
   },
   {
     "sequence": "1F37B",
@@ -1189,7 +1337,8 @@
     "position": 0.745306588,
     "negative": 17,
     "neutral": 45,
-    "positive": 103
+    "positive": 103,
+    "score": 0.5212121212121212
   },
   {
     "sequence": "1F645",
@@ -1197,7 +1346,8 @@
     "position": 0.838871886,
     "negative": 76,
     "neutral": 47,
-    "positive": 42
+    "positive": 42,
+    "score": -0.20606060606060606
   },
   {
     "sequence": "1F31E",
@@ -1205,7 +1355,8 @@
     "position": 0.709366196,
     "negative": 3,
     "neutral": 64,
-    "positive": 95
+    "positive": 95,
+    "score": 0.5679012345679012
   },
   {
     "sequence": "1F341",
@@ -1213,7 +1364,8 @@
     "position": 0.62398169,
     "negative": 5,
     "neutral": 72,
-    "positive": 84
+    "positive": 84,
+    "score": 0.4906832298136646
   },
   {
     "sequence": "2B50",
@@ -1221,7 +1373,8 @@
     "position": 0.600764348,
     "negative": 5,
     "neutral": 55,
-    "positive": 99
+    "positive": 99,
+    "score": 0.5911949685534591
   },
   {
     "sequence": "25AA",
@@ -1229,7 +1382,8 @@
     "position": 0.145166872,
     "negative": 15,
     "neutral": 97,
-    "positive": 47
+    "positive": 47,
+    "score": 0.20125786163522014
   },
   {
     "sequence": "1F380",
@@ -1237,7 +1391,8 @@
     "position": 0.651799025,
     "negative": 6,
     "neutral": 44,
-    "positive": 106
+    "positive": 106,
+    "score": 0.6410256410256411
   },
   {
     "sequence": "2501",
@@ -1245,7 +1400,8 @@
     "position": 0.540249825,
     "negative": 14,
     "neutral": 100,
-    "positive": 42
+    "positive": 42,
+    "score": 0.1794871794871795
   },
   {
     "sequence": "2637",
@@ -1253,7 +1409,8 @@
     "position": 0.012407833,
     "negative": 2,
     "neutral": 140,
-    "positive": 12
+    "positive": 12,
+    "score": 0.06493506493506493
   },
   {
     "sequence": "1F437",
@@ -1261,7 +1418,8 @@
     "position": 0.6026825,
     "negative": 11,
     "neutral": 73,
-    "positive": 68
+    "positive": 68,
+    "score": 0.375
   },
   {
     "sequence": "1F649",
@@ -1269,7 +1427,8 @@
     "position": 0.757694988,
     "negative": 26,
     "neutral": 47,
-    "positive": 77
+    "positive": 77,
+    "score": 0.34
   },
   {
     "sequence": "1F33A",
@@ -1277,7 +1436,8 @@
     "position": 0.629472896,
     "negative": 2,
     "neutral": 62,
-    "positive": 86
+    "positive": 86,
+    "score": 0.56
   },
   {
     "sequence": "1F485",
@@ -1285,7 +1445,8 @@
     "position": 0.755747604,
     "negative": 27,
     "neutral": 36,
-    "positive": 86
+    "positive": 86,
+    "score": 0.3959731543624161
   },
   {
     "sequence": "1F436",
@@ -1293,7 +1454,8 @@
     "position": 0.654155755,
     "negative": 12,
     "neutral": 37,
-    "positive": 99
+    "positive": 99,
+    "score": 0.5878378378378378
   },
   {
     "sequence": "1F31A",
@@ -1301,7 +1463,8 @@
     "position": 0.759894657,
     "negative": 23,
     "neutral": 32,
-    "positive": 93
+    "positive": 93,
+    "score": 0.47297297297297297
   },
   {
     "sequence": "1F47D",
@@ -1309,7 +1472,8 @@
     "position": 0.612456875,
     "negative": 13,
     "neutral": 73,
-    "positive": 60
+    "positive": 60,
+    "score": 0.3219178082191781
   },
   {
     "sequence": "1F3A4",
@@ -1317,7 +1481,8 @@
     "position": 0.67089174,
     "negative": 17,
     "neutral": 40,
-    "positive": 87
+    "positive": 87,
+    "score": 0.4861111111111111
   },
   {
     "sequence": "1F46D",
@@ -1325,7 +1490,8 @@
     "position": 0.667223526,
     "negative": 20,
     "neutral": 36,
-    "positive": 88
+    "positive": 88,
+    "score": 0.4722222222222222
   },
   {
     "sequence": "1F3A7",
@@ -1333,7 +1499,8 @@
     "position": 0.842970526,
     "negative": 18,
     "neutral": 46,
-    "positive": 78
+    "positive": 78,
+    "score": 0.4225352112676056
   },
   {
     "sequence": "1F446",
@@ -1341,7 +1508,8 @@
     "position": 0.78746414,
     "negative": 16,
     "neutral": 60,
-    "positive": 62
+    "positive": 62,
+    "score": 0.3333333333333333
   },
   {
     "sequence": "1F378",
@@ -1349,7 +1517,8 @@
     "position": 0.662604118,
     "negative": 12,
     "neutral": 38,
-    "positive": 88
+    "positive": 88,
+    "score": 0.5507246376811594
   },
   {
     "sequence": "1F377",
@@ -1357,7 +1526,8 @@
     "position": 0.603671624,
     "negative": 7,
     "neutral": 68,
-    "positive": 62
+    "positive": 62,
+    "score": 0.40145985401459855
   },
   {
     "sequence": "00AE",
@@ -1365,7 +1535,8 @@
     "position": 0.353084876,
     "negative": 9,
     "neutral": 80,
-    "positive": 48
+    "positive": 48,
+    "score": 0.2846715328467153
   },
   {
     "sequence": "1F349",
@@ -1373,7 +1544,8 @@
     "position": 0.647778999,
     "negative": 10,
     "neutral": 33,
-    "positive": 93
+    "positive": 93,
+    "score": 0.6102941176470589
   },
   {
     "sequence": "1F607",
@@ -1381,7 +1553,8 @@
     "position": 0.781831331,
     "negative": 9,
     "neutral": 36,
-    "positive": 90
+    "positive": 90,
+    "score": 0.6
   },
   {
     "sequence": "2611",
@@ -1389,7 +1562,8 @@
     "position": 0.690061863,
     "negative": 2,
     "neutral": 117,
-    "positive": 16
+    "positive": 16,
+    "score": 0.1037037037037037
   },
   {
     "sequence": "1F3C3",
@@ -1397,7 +1571,8 @@
     "position": 0.735256148,
     "negative": 12,
     "neutral": 55,
-    "positive": 68
+    "positive": 68,
+    "score": 0.4148148148148148
   },
   {
     "sequence": "1F63F",
@@ -1405,7 +1580,8 @@
     "position": 0.811560707,
     "negative": 78,
     "neutral": 29,
-    "positive": 27
+    "positive": 27,
+    "score": -0.3805970149253731
   },
   {
     "sequence": "2502",
@@ -1413,7 +1589,8 @@
     "position": 0.483180302,
     "negative": 0,
     "neutral": 87,
-    "positive": 47
+    "positive": 47,
+    "score": 0.35074626865671643
   },
   {
     "sequence": "1F4A3",
@@ -1421,7 +1598,8 @@
     "position": 0.846726927,
     "negative": 40,
     "neutral": 50,
-    "positive": 41
+    "positive": 41,
+    "score": 0.007633587786259542
   },
   {
     "sequence": "1F37A",
@@ -1429,7 +1607,8 @@
     "position": 0.68156608,
     "negative": 8,
     "neutral": 49,
-    "positive": 74
+    "positive": 74,
+    "score": 0.5038167938931297
   },
   {
     "sequence": "25B6",
@@ -1437,7 +1616,8 @@
     "position": 0.498359177,
     "negative": 7,
     "neutral": 89,
-    "positive": 35
+    "positive": 35,
+    "score": 0.21374045801526717
   },
   {
     "sequence": "1F632",
@@ -1445,7 +1625,8 @@
     "position": 0.853619885,
     "negative": 50,
     "neutral": 38,
-    "positive": 41
+    "positive": 41,
+    "score": -0.06976744186046512
   },
   {
     "sequence": "1F3B8",
@@ -1453,7 +1634,8 @@
     "position": 0.605443071,
     "negative": 1,
     "neutral": 57,
-    "positive": 67
+    "positive": 67,
+    "score": 0.528
   },
   {
     "sequence": "1F379",
@@ -1461,7 +1643,8 @@
     "position": 0.764164553,
     "negative": 5,
     "neutral": 30,
-    "positive": 88
+    "positive": 88,
+    "score": 0.6747967479674797
   },
   {
     "sequence": "1F4AB",
@@ -1469,7 +1652,8 @@
     "position": 0.614437663,
     "negative": 4,
     "neutral": 51,
-    "positive": 66
+    "positive": 66,
+    "score": 0.512396694214876
   },
   {
     "sequence": "1F4DA",
@@ -1477,7 +1661,8 @@
     "position": 0.69163189,
     "negative": 22,
     "neutral": 34,
-    "positive": 63
+    "positive": 63,
+    "score": 0.3445378151260504
   },
   {
     "sequence": "1F636",
@@ -1485,7 +1670,8 @@
     "position": 0.868667638,
     "negative": 50,
     "neutral": 34,
-    "positive": 33
+    "positive": 33,
+    "score": -0.1452991452991453
   },
   {
     "sequence": "1F337",
@@ -1493,7 +1679,8 @@
     "position": 0.623397976,
     "negative": 0,
     "neutral": 52,
-    "positive": 64
+    "positive": 64,
+    "score": 0.5517241379310345
   },
   {
     "sequence": "1F49D",
@@ -1501,7 +1688,8 @@
     "position": 0.774410045,
     "negative": 8,
     "neutral": 23,
-    "positive": 84
+    "positive": 84,
+    "score": 0.6608695652173913
   },
   {
     "sequence": "1F4A8",
@@ -1509,7 +1697,8 @@
     "position": 0.711396809,
     "negative": 12,
     "neutral": 46,
-    "positive": 57
+    "positive": 57,
+    "score": 0.391304347826087
   },
   {
     "sequence": "1F3C8",
@@ -1517,7 +1706,8 @@
     "position": 0.823010837,
     "negative": 7,
     "neutral": 38,
-    "positive": 69
+    "positive": 69,
+    "score": 0.543859649122807
   },
   {
     "sequence": "1F48D",
@@ -1525,7 +1715,8 @@
     "position": 0.807520998,
     "negative": 16,
     "neutral": 25,
-    "positive": 71
+    "positive": 71,
+    "score": 0.49107142857142855
   },
   {
     "sequence": "2614",
@@ -1533,7 +1724,8 @@
     "position": 0.687353164,
     "negative": 21,
     "neutral": 36,
-    "positive": 54
+    "positive": 54,
+    "score": 0.2972972972972973
   },
   {
     "sequence": "1F478",
@@ -1541,7 +1733,8 @@
     "position": 0.654472403,
     "negative": 6,
     "neutral": 30,
-    "positive": 75
+    "positive": 75,
+    "score": 0.6216216216216216
   },
   {
     "sequence": "1F1EA",
@@ -1549,7 +1742,8 @@
     "position": 0.698877291,
     "negative": 2,
     "neutral": 36,
-    "positive": 71
+    "positive": 71,
+    "score": 0.6330275229357798
   },
   {
     "sequence": "2591",
@@ -1557,7 +1751,8 @@
     "position": 0.439438477,
     "negative": 25,
     "neutral": 63,
-    "positive": 20
+    "positive": 20,
+    "score": -0.046296296296296294
   },
   {
     "sequence": "1F369",
@@ -1565,7 +1760,8 @@
     "position": 0.708816106,
     "negative": 15,
     "neutral": 35,
-    "positive": 57
+    "positive": 57,
+    "score": 0.3925233644859813
   },
   {
     "sequence": "1F47E",
@@ -1573,7 +1769,8 @@
     "position": 0.55188131,
     "negative": 1,
     "neutral": 64,
-    "positive": 40
+    "positive": 40,
+    "score": 0.37142857142857144
   },
   {
     "sequence": "2601",
@@ -1581,7 +1778,8 @@
     "position": 0.595923185,
     "negative": 14,
     "neutral": 43,
-    "positive": 47
+    "positive": 47,
+    "score": 0.3173076923076923
   },
   {
     "sequence": "1F33B",
@@ -1589,7 +1787,8 @@
     "position": 0.607167343,
     "negative": 1,
     "neutral": 41,
-    "positive": 62
+    "positive": 62,
+    "score": 0.5865384615384616
   },
   {
     "sequence": "1F635",
@@ -1597,7 +1796,8 @@
     "position": 0.808813841,
     "negative": 33,
     "neutral": 28,
-    "positive": 42
+    "positive": 42,
+    "score": 0.08737864077669903
   },
   {
     "sequence": "1F4D2",
@@ -1605,7 +1805,8 @@
     "position": 0.473944671,
     "negative": 0,
     "neutral": 98,
-    "positive": 4
+    "positive": 4,
+    "score": 0.0392156862745098
   },
   {
     "sequence": "21BF",
@@ -1613,7 +1814,8 @@
     "position": 0.710504202,
     "negative": 0,
     "neutral": 34,
-    "positive": 68
+    "positive": 68,
+    "score": 0.6666666666666666
   },
   {
     "sequence": "1F42F",
@@ -1621,7 +1823,8 @@
     "position": 0.549561832,
     "negative": 4,
     "neutral": 43,
-    "positive": 53
+    "positive": 53,
+    "score": 0.49
   },
   {
     "sequence": "1F47C",
@@ -1629,7 +1832,8 @@
     "position": 0.683210618,
     "negative": 17,
     "neutral": 31,
-    "positive": 51
+    "positive": 51,
+    "score": 0.3434343434343434
   },
   {
     "sequence": "1F354",
@@ -1637,7 +1841,8 @@
     "position": 0.636878313,
     "negative": 16,
     "neutral": 38,
-    "positive": 44
+    "positive": 44,
+    "score": 0.2857142857142857
   },
   {
     "sequence": "1F638",
@@ -1645,7 +1850,8 @@
     "position": 0.782035657,
     "negative": 11,
     "neutral": 34,
-    "positive": 52
+    "positive": 52,
+    "score": 0.422680412371134
   },
   {
     "sequence": "1F476",
@@ -1653,7 +1859,8 @@
     "position": 0.745048578,
     "negative": 13,
     "neutral": 27,
-    "positive": 56
+    "positive": 56,
+    "score": 0.4479166666666667
   },
   {
     "sequence": "21BE",
@@ -1661,7 +1868,8 @@
     "position": 0.707142857,
     "negative": 0,
     "neutral": 32,
-    "positive": 64
+    "positive": 64,
+    "score": 0.6666666666666666
   },
   {
     "sequence": "1F490",
@@ -1669,7 +1877,8 @@
     "position": 0.727586517,
     "negative": 3,
     "neutral": 17,
-    "positive": 75
+    "positive": 75,
+    "score": 0.7578947368421053
   },
   {
     "sequence": "1F30A",
@@ -1677,7 +1886,8 @@
     "position": 0.779832163,
     "negative": 8,
     "neutral": 30,
-    "positive": 57
+    "positive": 57,
+    "score": 0.5157894736842106
   },
   {
     "sequence": "1F366",
@@ -1685,7 +1895,8 @@
     "position": 0.630275908,
     "negative": 13,
     "neutral": 24,
-    "positive": 58
+    "positive": 58,
+    "score": 0.47368421052631576
   },
   {
     "sequence": "1F353",
@@ -1693,7 +1904,8 @@
     "position": 0.689469367,
     "negative": 3,
     "neutral": 23,
-    "positive": 68
+    "positive": 68,
+    "score": 0.6914893617021277
   },
   {
     "sequence": "1F447",
@@ -1701,7 +1913,8 @@
     "position": 0.557020638,
     "negative": 13,
     "neutral": 44,
-    "positive": 37
+    "positive": 37,
+    "score": 0.2553191489361702
   },
   {
     "sequence": "1F486",
@@ -1709,7 +1922,8 @@
     "position": 0.814023638,
     "negative": 24,
     "neutral": 23,
-    "positive": 45
+    "positive": 45,
+    "score": 0.22826086956521738
   },
   {
     "sequence": "1F374",
@@ -1717,7 +1931,8 @@
     "position": 0.580197926,
     "negative": 4,
     "neutral": 33,
-    "positive": 55
+    "positive": 55,
+    "score": 0.5543478260869565
   },
   {
     "sequence": "1F627",
@@ -1725,7 +1940,8 @@
     "position": 0.774990088,
     "negative": 36,
     "neutral": 26,
-    "positive": 30
+    "positive": 30,
+    "score": -0.06521739130434782
   },
   {
     "sequence": "1F1F8",
@@ -1733,7 +1949,8 @@
     "position": 0.654691493,
     "negative": 8,
     "neutral": 27,
-    "positive": 56
+    "positive": 56,
+    "score": 0.5274725274725275
   },
   {
     "sequence": "1F62E",
@@ -1741,7 +1958,8 @@
     "position": 0.774237435,
     "negative": 16,
     "neutral": 33,
-    "positive": 41
+    "positive": 41,
+    "score": 0.2777777777777778
   },
   {
     "sequence": "2593",
@@ -1749,7 +1967,8 @@
     "position": 0.658247473,
     "negative": 2,
     "neutral": 85,
-    "positive": 3
+    "positive": 3,
+    "score": 0.011111111111111112
   },
   {
     "sequence": "1F6AB",
@@ -1757,7 +1976,8 @@
     "position": 0.702937729,
     "negative": 48,
     "neutral": 32,
-    "positive": 8
+    "positive": 8,
+    "score": -0.45454545454545453
   },
   {
     "sequence": "1F63D",
@@ -1765,7 +1985,8 @@
     "position": 0.754242708,
     "negative": 11,
     "neutral": 14,
-    "positive": 63
+    "positive": 63,
+    "score": 0.5909090909090909
   },
   {
     "sequence": "1F308",
@@ -1773,7 +1994,8 @@
     "position": 0.671884074,
     "negative": 5,
     "neutral": 31,
-    "positive": 52
+    "positive": 52,
+    "score": 0.5340909090909091
   },
   {
     "sequence": "1F640",
@@ -1781,7 +2003,8 @@
     "position": 0.790729154,
     "negative": 14,
     "neutral": 30,
-    "positive": 44
+    "positive": 44,
+    "score": 0.3409090909090909
   },
   {
     "sequence": "26A0",
@@ -1789,7 +2012,8 @@
     "position": 0.489084942,
     "negative": 16,
     "neutral": 62,
-    "positive": 10
+    "positive": 10,
+    "score": -0.06818181818181818
   },
   {
     "sequence": "1F3AE",
@@ -1797,7 +2021,8 @@
     "position": 0.467430446,
     "negative": 8,
     "neutral": 32,
-    "positive": 46
+    "positive": 46,
+    "score": 0.4418604651162791
   },
   {
     "sequence": "256F",
@@ -1805,7 +2030,8 @@
     "position": 0.506910946,
     "negative": 19,
     "neutral": 47,
-    "positive": 18
+    "positive": 18,
+    "score": -0.011904761904761904
   },
   {
     "sequence": "1F346",
@@ -1813,7 +2039,8 @@
     "position": 0.7185031,
     "negative": 6,
     "neutral": 37,
-    "positive": 41
+    "positive": 41,
+    "score": 0.4166666666666667
   },
   {
     "sequence": "1F370",
@@ -1821,7 +2048,8 @@
     "position": 0.78250627,
     "negative": 13,
     "neutral": 19,
-    "positive": 52
+    "positive": 52,
+    "score": 0.4642857142857143
   },
   {
     "sequence": "2713",
@@ -1829,7 +2057,8 @@
     "position": 0.627535601,
     "negative": 9,
     "neutral": 41,
-    "positive": 34
+    "positive": 34,
+    "score": 0.2976190476190476
   },
   {
     "sequence": "1F450",
@@ -1837,7 +2066,8 @@
     "position": 0.875981032,
     "negative": 33,
     "neutral": 19,
-    "positive": 31
+    "positive": 31,
+    "score": -0.024096385542168676
   },
   {
     "sequence": "1F647",
@@ -1845,7 +2075,8 @@
     "position": 0.794293941,
     "negative": 24,
     "neutral": 23,
-    "positive": 36
+    "positive": 36,
+    "score": 0.14457831325301204
   },
   {
     "sequence": "1F35F",
@@ -1853,7 +2084,8 @@
     "position": 0.650433666,
     "negative": 14,
     "neutral": 29,
-    "positive": 40
+    "positive": 40,
+    "score": 0.3132530120481928
   },
   {
     "sequence": "1F34C",
@@ -1861,7 +2093,8 @@
     "position": 0.540634157,
     "negative": 10,
     "neutral": 25,
-    "positive": 47
+    "positive": 47,
+    "score": 0.45121951219512196
   },
   {
     "sequence": "1F491",
@@ -1869,7 +2102,8 @@
     "position": 0.682682631,
     "negative": 5,
     "neutral": 16,
-    "positive": 61
+    "positive": 61,
+    "score": 0.6829268292682927
   },
   {
     "sequence": "1F46C",
@@ -1877,7 +2111,8 @@
     "position": 0.622239773,
     "negative": 29,
     "neutral": 29,
-    "positive": 24
+    "positive": 24,
+    "score": -0.06097560975609756
   },
   {
     "sequence": "1F423",
@@ -1885,7 +2120,8 @@
     "position": 0.775650511,
     "negative": 12,
     "neutral": 17,
-    "positive": 52
+    "positive": 52,
+    "score": 0.49382716049382713
   },
   {
     "sequence": "1F383",
@@ -1893,7 +2129,8 @@
     "position": 0.723541282,
     "negative": 6,
     "neutral": 19,
-    "positive": 56
+    "positive": 56,
+    "score": 0.6172839506172839
   },
   {
     "sequence": "25AC",
@@ -1901,7 +2138,8 @@
     "position": 0.33474298,
     "negative": 0,
     "neutral": 42,
-    "positive": 39
+    "positive": 39,
+    "score": 0.48148148148148145
   },
   {
     "sequence": "FFFC",
@@ -1909,7 +2147,8 @@
     "position": 0.308958013,
     "negative": 44,
     "neutral": 33,
-    "positive": 4
+    "positive": 4,
+    "score": -0.49382716049382713
   },
   {
     "sequence": "1F61F",
@@ -1917,7 +2156,8 @@
     "position": 0.824309355,
     "negative": 28,
     "neutral": 18,
-    "positive": 34
+    "positive": 34,
+    "score": 0.075
   },
   {
     "sequence": "1F43E",
@@ -1925,7 +2165,8 @@
     "position": 0.738983384,
     "negative": 8,
     "neutral": 13,
-    "positive": 57
+    "positive": 57,
+    "score": 0.6282051282051282
   },
   {
     "sequence": "1F393",
@@ -1933,7 +2174,8 @@
     "position": 0.647134355,
     "negative": 7,
     "neutral": 18,
-    "positive": 52
+    "positive": 52,
+    "score": 0.5844155844155844
   },
   {
     "sequence": "1F3CA",
@@ -1941,7 +2183,8 @@
     "position": 0.65309632,
     "negative": 2,
     "neutral": 27,
-    "positive": 48
+    "positive": 48,
+    "score": 0.5974025974025974
   },
   {
     "sequence": "1F36B",
@@ -1949,7 +2192,8 @@
     "position": 0.792701023,
     "negative": 22,
     "neutral": 20,
-    "positive": 34
+    "positive": 34,
+    "score": 0.15789473684210525
   },
   {
     "sequence": "1F4F7",
@@ -1957,7 +2201,8 @@
     "position": 0.489732992,
     "negative": 7,
     "neutral": 28,
-    "positive": 41
+    "positive": 41,
+    "score": 0.4473684210526316
   },
   {
     "sequence": "1F444",
@@ -1965,7 +2210,8 @@
     "position": 0.591674278,
     "negative": 5,
     "neutral": 28,
-    "positive": 42
+    "positive": 42,
+    "score": 0.49333333333333335
   },
   {
     "sequence": "1F33C",
@@ -1973,7 +2219,8 @@
     "position": 0.603679109,
     "negative": 1,
     "neutral": 12,
-    "positive": 61
+    "positive": 61,
+    "score": 0.8108108108108109
   },
   {
     "sequence": "1F6B6",
@@ -1981,7 +2228,8 @@
     "position": 0.796900446,
     "negative": 28,
     "neutral": 29,
-    "positive": 17
+    "positive": 17,
+    "score": -0.14864864864864866
   },
   {
     "sequence": "1F431",
@@ -1989,7 +2237,8 @@
     "position": 0.544447706,
     "negative": 10,
     "neutral": 14,
-    "positive": 49
+    "positive": 49,
+    "score": 0.5342465753424658
   },
   {
     "sequence": "2551",
@@ -1997,7 +2246,8 @@
     "position": 0.568238107,
     "negative": 0,
     "neutral": 62,
-    "positive": 11
+    "positive": 11,
+    "score": 0.1506849315068493
   },
   {
     "sequence": "1F438",
@@ -2005,7 +2255,8 @@
     "position": 0.845772164,
     "negative": 24,
     "neutral": 30,
-    "positive": 18
+    "positive": 18,
+    "score": -0.08333333333333333
   },
   {
     "sequence": "1F1FA",
@@ -2013,7 +2264,8 @@
     "position": 0.682892538,
     "negative": 8,
     "neutral": 15,
-    "positive": 48
+    "positive": 48,
+    "score": 0.5633802816901409
   },
   {
     "sequence": "1F47F",
@@ -2021,7 +2273,8 @@
     "position": 0.910730779,
     "negative": 47,
     "neutral": 15,
-    "positive": 8
+    "positive": 8,
+    "score": -0.5571428571428572
   },
   {
     "sequence": "1F6AC",
@@ -2029,7 +2282,8 @@
     "position": 0.805066327,
     "negative": 8,
     "neutral": 16,
-    "positive": 46
+    "positive": 46,
+    "score": 0.5428571428571428
   },
   {
     "sequence": "273F",
@@ -2037,7 +2291,8 @@
     "position": 0.49871007,
     "negative": 2,
     "neutral": 38,
-    "positive": 30
+    "positive": 30,
+    "score": 0.4
   },
   {
     "sequence": "1F4D6",
@@ -2045,7 +2300,8 @@
     "position": 0.709941199,
     "negative": 18,
     "neutral": 20,
-    "positive": 30
+    "positive": 30,
+    "score": 0.17647058823529413
   },
   {
     "sequence": "1F412",
@@ -2053,7 +2309,8 @@
     "position": 0.639847887,
     "negative": 1,
     "neutral": 29,
-    "positive": 38
+    "positive": 38,
+    "score": 0.5441176470588235
   },
   {
     "sequence": "1F30D",
@@ -2061,7 +2318,8 @@
     "position": 0.623864265,
     "negative": 5,
     "neutral": 16,
-    "positive": 47
+    "positive": 47,
+    "score": 0.6176470588235294
   },
   {
     "sequence": "250A",
@@ -2069,7 +2327,8 @@
     "position": 0.681885417,
     "negative": 0,
     "neutral": 0,
-    "positive": 68
+    "positive": 68,
+    "score": 1
   },
   {
     "sequence": "1F425",
@@ -2077,7 +2336,8 @@
     "position": 0.779887133,
     "negative": 4,
     "neutral": 18,
-    "positive": 45
+    "positive": 45,
+    "score": 0.6119402985074627
   },
   {
     "sequence": "1F300",
@@ -2085,7 +2345,8 @@
     "position": 0.553405789,
     "negative": 10,
     "neutral": 39,
-    "positive": 17
+    "positive": 17,
+    "score": 0.10606060606060606
   },
   {
     "sequence": "1F43C",
@@ -2093,7 +2354,8 @@
     "position": 0.614422004,
     "negative": 4,
     "neutral": 40,
-    "positive": 22
+    "positive": 22,
+    "score": 0.2727272727272727
   },
   {
     "sequence": "1F3A5",
@@ -2101,7 +2363,8 @@
     "position": 0.675875827,
     "negative": 8,
     "neutral": 30,
-    "positive": 28
+    "positive": 28,
+    "score": 0.30303030303030304
   },
   {
     "sequence": "1F484",
@@ -2109,7 +2372,8 @@
     "position": 0.636585295,
     "negative": 6,
     "neutral": 24,
-    "positive": 36
+    "positive": 36,
+    "score": 0.45454545454545453
   },
   {
     "sequence": "1F4B8",
@@ -2117,7 +2381,8 @@
     "position": 0.790337996,
     "negative": 16,
     "neutral": 23,
-    "positive": 27
+    "positive": 27,
+    "score": 0.16666666666666666
   },
   {
     "sequence": "26D4",
@@ -2125,7 +2390,8 @@
     "position": 0.405987251,
     "negative": 5,
     "neutral": 22,
-    "positive": 38
+    "positive": 38,
+    "score": 0.5076923076923077
   },
   {
     "sequence": "25CF",
@@ -2133,7 +2399,8 @@
     "position": 0.561224463,
     "negative": 8,
     "neutral": 37,
-    "positive": 20
+    "positive": 20,
+    "score": 0.18461538461538463
   },
   {
     "sequence": "1F3C0",
@@ -2141,7 +2408,8 @@
     "position": 0.807196812,
     "negative": 13,
     "neutral": 21,
-    "positive": 30
+    "positive": 30,
+    "score": 0.265625
   },
   {
     "sequence": "1F489",
@@ -2149,7 +2417,8 @@
     "position": 0.749555976,
     "negative": 11,
     "neutral": 18,
-    "positive": 35
+    "positive": 35,
+    "score": 0.375
   },
   {
     "sequence": "1F49F",
@@ -2157,7 +2426,8 @@
     "position": 0.787621444,
     "negative": 3,
     "neutral": 12,
-    "positive": 48
+    "positive": 48,
+    "score": 0.7142857142857143
   },
   {
     "sequence": "1F697",
@@ -2165,7 +2435,8 @@
     "position": 0.638133891,
     "negative": 8,
     "neutral": 31,
-    "positive": 23
+    "positive": 23,
+    "score": 0.24193548387096775
   },
   {
     "sequence": "1F62F",
@@ -2173,7 +2444,8 @@
     "position": 0.859007902,
     "negative": 16,
     "neutral": 22,
-    "positive": 24
+    "positive": 24,
+    "score": 0.12903225806451613
   },
   {
     "sequence": "1F4DD",
@@ -2181,7 +2453,8 @@
     "position": 0.794711655,
     "negative": 8,
     "neutral": 31,
-    "positive": 23
+    "positive": 23,
+    "score": 0.24193548387096775
   },
   {
     "sequence": "2550",
@@ -2189,7 +2462,8 @@
     "position": 0.441188106,
     "negative": 0,
     "neutral": 61,
-    "positive": 1
+    "positive": 1,
+    "score": 0.016129032258064516
   },
   {
     "sequence": "2666",
@@ -2197,7 +2471,8 @@
     "position": 0.562227083,
     "negative": 6,
     "neutral": 20,
-    "positive": 35
+    "positive": 35,
+    "score": 0.47540983606557374
   },
   {
     "sequence": "1F4AD",
@@ -2205,7 +2480,8 @@
     "position": 0.687954711,
     "negative": 10,
     "neutral": 27,
-    "positive": 23
+    "positive": 23,
+    "score": 0.21666666666666667
   },
   {
     "sequence": "1F319",
@@ -2213,7 +2489,8 @@
     "position": 0.669389528,
     "negative": 3,
     "neutral": 16,
-    "positive": 39
+    "positive": 39,
+    "score": 0.6206896551724138
   },
   {
     "sequence": "1F41F",
@@ -2221,7 +2498,8 @@
     "position": 0.676573608,
     "negative": 2,
     "neutral": 12,
-    "positive": 44
+    "positive": 44,
+    "score": 0.7241379310344828
   },
   {
     "sequence": "1F463",
@@ -2229,7 +2507,8 @@
     "position": 0.638779151,
     "negative": 6,
     "neutral": 25,
-    "positive": 27
+    "positive": 27,
+    "score": 0.3620689655172414
   },
   {
     "sequence": "261E",
@@ -2237,7 +2516,8 @@
     "position": 0.725402078,
     "negative": 0,
     "neutral": 51,
-    "positive": 7
+    "positive": 7,
+    "score": 0.1206896551724138
   },
   {
     "sequence": "2702",
@@ -2245,7 +2525,8 @@
     "position": 0.810271779,
     "negative": 34,
     "neutral": 18,
-    "positive": 6
+    "positive": 6,
+    "score": -0.4827586206896552
   },
   {
     "sequence": "1F5FF",
@@ -2253,7 +2534,8 @@
     "position": 0.941936907,
     "negative": 5,
     "neutral": 21,
-    "positive": 32
+    "positive": 32,
+    "score": 0.46551724137931033
   },
   {
     "sequence": "1F35D",
@@ -2261,7 +2543,8 @@
     "position": 0.56442207,
     "negative": 16,
     "neutral": 18,
-    "positive": 23
+    "positive": 23,
+    "score": 0.12280701754385964
   },
   {
     "sequence": "1F46A",
@@ -2269,7 +2552,8 @@
     "position": 0.653303852,
     "negative": 24,
     "neutral": 10,
-    "positive": 23
+    "positive": 23,
+    "score": -0.017543859649122806
   },
   {
     "sequence": "1F36D",
@@ -2277,7 +2561,8 @@
     "position": 0.632538929,
     "negative": 9,
     "neutral": 21,
-    "positive": 27
+    "positive": 27,
+    "score": 0.3157894736842105
   },
   {
     "sequence": "1F303",
@@ -2285,7 +2570,8 @@
     "position": 0.747623603,
     "negative": 3,
     "neutral": 27,
-    "positive": 26
+    "positive": 26,
+    "score": 0.4107142857142857
   },
   {
     "sequence": "274C",
@@ -2293,7 +2579,8 @@
     "position": 0.612998,
     "negative": 14,
     "neutral": 12,
-    "positive": 30
+    "positive": 30,
+    "score": 0.2857142857142857
   },
   {
     "sequence": "1F430",
@@ -2301,7 +2588,8 @@
     "position": 0.707516692,
     "negative": 4,
     "neutral": 13,
-    "positive": 38
+    "positive": 38,
+    "score": 0.6181818181818182
   },
   {
     "sequence": "1F48A",
@@ -2309,7 +2597,8 @@
     "position": 0.675071279,
     "negative": 8,
     "neutral": 14,
-    "positive": 33
+    "positive": 33,
+    "score": 0.45454545454545453
   },
   {
     "sequence": "1F6A8",
@@ -2317,7 +2606,8 @@
     "position": 0.520959173,
     "negative": 6,
     "neutral": 6,
-    "positive": 43
+    "positive": 43,
+    "score": 0.6727272727272727
   },
   {
     "sequence": "1F626",
@@ -2325,7 +2615,8 @@
     "position": 0.882218595,
     "negative": 30,
     "neutral": 15,
-    "positive": 9
+    "positive": 9,
+    "score": -0.3888888888888889
   },
   {
     "sequence": "1F36A",
@@ -2333,7 +2624,8 @@
     "position": 0.736575166,
     "negative": 10,
     "neutral": 16,
-    "positive": 28
+    "positive": 28,
+    "score": 0.3333333333333333
   },
   {
     "sequence": "1F363",
@@ -2341,7 +2633,8 @@
     "position": 0.669970061,
     "negative": 24,
     "neutral": 18,
-    "positive": 11
+    "positive": 11,
+    "score": -0.24528301886792453
   },
   {
     "sequence": "256D",
@@ -2349,7 +2642,8 @@
     "position": 0.490077251,
     "negative": 3,
     "neutral": 38,
-    "positive": 12
+    "positive": 12,
+    "score": 0.16981132075471697
   },
   {
     "sequence": "2727",
@@ -2357,7 +2651,8 @@
     "position": 0.398520727,
     "negative": 1,
     "neutral": 33,
-    "positive": 19
+    "positive": 19,
+    "score": 0.33962264150943394
   },
   {
     "sequence": "1F386",
@@ -2365,7 +2660,8 @@
     "position": 0.798520237,
     "negative": 2,
     "neutral": 9,
-    "positive": 41
+    "positive": 41,
+    "score": 0.75
   },
   {
     "sequence": "256E",
@@ -2373,7 +2669,8 @@
     "position": 0.422827361,
     "negative": 5,
     "neutral": 35,
-    "positive": 12
+    "positive": 12,
+    "score": 0.1346153846153846
   },
   {
     "sequence": "1F38E",
@@ -2381,7 +2678,8 @@
     "position": 0.417134709,
     "negative": 0,
     "neutral": 2,
-    "positive": 49
+    "positive": 49,
+    "score": 0.9607843137254902
   },
   {
     "sequence": "1F1E9",
@@ -2389,7 +2687,8 @@
     "position": 0.74501238,
     "negative": 1,
     "neutral": 16,
-    "positive": 34
+    "positive": 34,
+    "score": 0.6470588235294118
   },
   {
     "sequence": "2705",
@@ -2397,7 +2696,8 @@
     "position": 0.672789014,
     "negative": 3,
     "neutral": 23,
-    "positive": 25
+    "positive": 25,
+    "score": 0.43137254901960786
   },
   {
     "sequence": "1F479",
@@ -2405,7 +2705,8 @@
     "position": 0.70117277,
     "negative": 13,
     "neutral": 20,
-    "positive": 16
+    "positive": 16,
+    "score": 0.061224489795918366
   },
   {
     "sequence": "1F4F1",
@@ -2413,7 +2714,8 @@
     "position": 0.719713336,
     "negative": 4,
     "neutral": 25,
-    "positive": 20
+    "positive": 20,
+    "score": 0.32653061224489793
   },
   {
     "sequence": "1F64D",
@@ -2421,7 +2723,8 @@
     "position": 0.844922892,
     "negative": 29,
     "neutral": 8,
-    "positive": 12
+    "positive": 12,
+    "score": -0.3469387755102041
   },
   {
     "sequence": "1F351",
@@ -2429,7 +2732,8 @@
     "position": 0.739305631,
     "negative": 12,
     "neutral": 12,
-    "positive": 25
+    "positive": 25,
+    "score": 0.2653061224489796
   },
   {
     "sequence": "1F3BC",
@@ -2437,7 +2741,8 @@
     "position": 0.636141803,
     "negative": 2,
     "neutral": 28,
-    "positive": 19
+    "positive": 19,
+    "score": 0.3469387755102041
   },
   {
     "sequence": "1F50A",
@@ -2445,7 +2750,8 @@
     "position": 0.651738713,
     "negative": 4,
     "neutral": 20,
-    "positive": 25
+    "positive": 25,
+    "score": 0.42857142857142855
   },
   {
     "sequence": "1F30C",
@@ -2453,7 +2759,8 @@
     "position": 0.750586217,
     "negative": 5,
     "neutral": 11,
-    "positive": 31
+    "positive": 31,
+    "score": 0.5531914893617021
   },
   {
     "sequence": "1F34E",
@@ -2461,7 +2768,8 @@
     "position": 0.75089759,
     "negative": 6,
     "neutral": 19,
-    "positive": 22
+    "positive": 22,
+    "score": 0.3404255319148936
   },
   {
     "sequence": "1F43B",
@@ -2469,7 +2777,8 @@
     "position": 0.691609267,
     "negative": 6,
     "neutral": 13,
-    "positive": 28
+    "positive": 28,
+    "score": 0.46808510638297873
   },
   {
     "sequence": "2500",
@@ -2477,7 +2786,8 @@
     "position": 0.711348374,
     "negative": 0,
     "neutral": 40,
-    "positive": 7
+    "positive": 7,
+    "score": 0.14893617021276595
   },
   {
     "sequence": "2570",
@@ -2485,7 +2795,8 @@
     "position": 0.509745612,
     "negative": 7,
     "neutral": 36,
-    "positive": 4
+    "positive": 4,
+    "score": -0.06382978723404255
   },
   {
     "sequence": "1F487",
@@ -2493,7 +2804,8 @@
     "position": 0.678429189,
     "negative": 7,
     "neutral": 16,
-    "positive": 23
+    "positive": 23,
+    "score": 0.34782608695652173
   },
   {
     "sequence": "266C",
@@ -2501,7 +2813,8 @@
     "position": 0.677442137,
     "negative": 4,
     "neutral": 26,
-    "positive": 16
+    "positive": 16,
+    "score": 0.2608695652173913
   },
   {
     "sequence": "265A",
@@ -2509,7 +2822,8 @@
     "position": 0.389194579,
     "negative": 0,
     "neutral": 44,
-    "positive": 2
+    "positive": 2,
+    "score": 0.043478260869565216
   },
   {
     "sequence": "1F534",
@@ -2517,7 +2831,8 @@
     "position": 0.655928061,
     "negative": 1,
     "neutral": 24,
-    "positive": 20
+    "positive": 20,
+    "score": 0.4222222222222222
   },
   {
     "sequence": "1F371",
@@ -2525,7 +2840,8 @@
     "position": 0.58000953,
     "negative": 25,
     "neutral": 10,
-    "positive": 10
+    "positive": 10,
+    "score": -0.3333333333333333
   },
   {
     "sequence": "1F34A",
@@ -2533,7 +2849,8 @@
     "position": 0.697299999,
     "negative": 6,
     "neutral": 13,
-    "positive": 26
+    "positive": 26,
+    "score": 0.4444444444444444
   },
   {
     "sequence": "1F352",
@@ -2541,7 +2858,8 @@
     "position": 0.619434077,
     "negative": 6,
     "neutral": 18,
-    "positive": 21
+    "positive": 21,
+    "score": 0.3333333333333333
   },
   {
     "sequence": "1F42D",
@@ -2549,7 +2867,8 @@
     "position": 0.822545804,
     "negative": 0,
     "neutral": 12,
-    "positive": 33
+    "positive": 33,
+    "score": 0.7333333333333333
   },
   {
     "sequence": "1F45F",
@@ -2557,7 +2876,8 @@
     "position": 0.561642541,
     "negative": 5,
     "neutral": 15,
-    "positive": 25
+    "positive": 25,
+    "score": 0.4444444444444444
   },
   {
     "sequence": "1F30E",
@@ -2565,7 +2885,8 @@
     "position": 0.743438616,
     "negative": 5,
     "neutral": 19,
-    "positive": 20
+    "positive": 20,
+    "score": 0.3409090909090909
   },
   {
     "sequence": "1F34D",
@@ -2573,7 +2894,8 @@
     "position": 0.583336287,
     "negative": 7,
     "neutral": 8,
-    "positive": 29
+    "positive": 29,
+    "score": 0.5
   },
   {
     "sequence": "1F42E",
@@ -2581,7 +2903,8 @@
     "position": 0.846658768,
     "negative": 2,
     "neutral": 12,
-    "positive": 29
+    "positive": 29,
+    "score": 0.627906976744186
   },
   {
     "sequence": "1F4F2",
@@ -2589,7 +2912,8 @@
     "position": 0.598172133,
     "negative": 7,
     "neutral": 18,
-    "positive": 18
+    "positive": 18,
+    "score": 0.2558139534883721
   },
   {
     "sequence": "263C",
@@ -2597,7 +2921,8 @@
     "position": 0.461142875,
     "negative": 2,
     "neutral": 30,
-    "positive": 11
+    "positive": 11,
+    "score": 0.20930232558139536
   },
   {
     "sequence": "1F305",
@@ -2605,7 +2930,8 @@
     "position": 0.603551051,
     "negative": 6,
     "neutral": 14,
-    "positive": 22
+    "positive": 22,
+    "score": 0.38095238095238093
   },
   {
     "sequence": "1F1F7",
@@ -2613,7 +2939,8 @@
     "position": 0.716327847,
     "negative": 1,
     "neutral": 10,
-    "positive": 31
+    "positive": 31,
+    "score": 0.7142857142857143
   },
   {
     "sequence": "1F460",
@@ -2621,7 +2948,8 @@
     "position": 0.637243017,
     "negative": 6,
     "neutral": 14,
-    "positive": 22
+    "positive": 22,
+    "score": 0.38095238095238093
   },
   {
     "sequence": "1F33D",
@@ -2629,7 +2957,8 @@
     "position": 0.648931091,
     "negative": 5,
     "neutral": 12,
-    "positive": 25
+    "positive": 25,
+    "score": 0.47619047619047616
   },
   {
     "sequence": "1F4A7",
@@ -2637,7 +2966,8 @@
     "position": 0.76764795,
     "negative": 20,
     "neutral": 8,
-    "positive": 13
+    "positive": 13,
+    "score": -0.17073170731707318
   },
   {
     "sequence": "2753",
@@ -2645,7 +2975,8 @@
     "position": 0.614920844,
     "negative": 7,
     "neutral": 24,
-    "positive": 10
+    "positive": 10,
+    "score": 0.07317073170731707
   },
   {
     "sequence": "1F36C",
@@ -2653,7 +2984,8 @@
     "position": 0.784072191,
     "negative": 8,
     "neutral": 9,
-    "positive": 24
+    "positive": 24,
+    "score": 0.3902439024390244
   },
   {
     "sequence": "1F63A",
@@ -2661,7 +2993,8 @@
     "position": 0.825897808,
     "negative": 8,
     "neutral": 7,
-    "positive": 25
+    "positive": 25,
+    "score": 0.425
   },
   {
     "sequence": "1F434",
@@ -2669,7 +3002,8 @@
     "position": 0.795776393,
     "negative": 8,
     "neutral": 21,
-    "positive": 11
+    "positive": 11,
+    "score": 0.075
   },
   {
     "sequence": "1F680",
@@ -2677,7 +3011,8 @@
     "position": 0.698479931,
     "negative": 2,
     "neutral": 15,
-    "positive": 23
+    "positive": 23,
+    "score": 0.525
   },
   {
     "sequence": "00A6",
@@ -2685,7 +3020,8 @@
     "position": 0.402048475,
     "negative": 7,
     "neutral": 1,
-    "positive": 32
+    "positive": 32,
+    "score": 0.625
   },
   {
     "sequence": "1F4A2",
@@ -2693,7 +3029,8 @@
     "position": 0.560644274,
     "negative": 6,
     "neutral": 18,
-    "positive": 16
+    "positive": 16,
+    "score": 0.25
   },
   {
     "sequence": "1F3AC",
@@ -2701,7 +3038,8 @@
     "position": 0.650028961,
     "negative": 2,
     "neutral": 24,
-    "positive": 14
+    "positive": 14,
+    "score": 0.3
   },
   {
     "sequence": "1F367",
@@ -2709,7 +3047,8 @@
     "position": 0.674847866,
     "negative": 9,
     "neutral": 9,
-    "positive": 22
+    "positive": 22,
+    "score": 0.325
   },
   {
     "sequence": "1F35C",
@@ -2717,7 +3056,8 @@
     "position": 0.577916931,
     "negative": 9,
     "neutral": 5,
-    "positive": 26
+    "positive": 26,
+    "score": 0.425
   },
   {
     "sequence": "1F40F",
@@ -2725,7 +3065,8 @@
     "position": 0.975591533,
     "negative": 2,
     "neutral": 12,
-    "positive": 26
+    "positive": 26,
+    "score": 0.6
   },
   {
     "sequence": "1F418",
@@ -2733,7 +3074,8 @@
     "position": 0.722256768,
     "negative": 9,
     "neutral": 21,
-    "positive": 10
+    "positive": 10,
+    "score": 0.025
   },
   {
     "sequence": "1F467",
@@ -2741,7 +3083,8 @@
     "position": 0.649498717,
     "negative": 10,
     "neutral": 14,
-    "positive": 16
+    "positive": 16,
+    "score": 0.15
   },
   {
     "sequence": "2800",
@@ -2749,7 +3092,8 @@
     "position": 0.377950694,
     "negative": 6,
     "neutral": 26,
-    "positive": 8
+    "positive": 8,
+    "score": 0.05
   },
   {
     "sequence": "1F3C4",
@@ -2757,7 +3101,8 @@
     "position": 0.772893432,
     "negative": 2,
     "neutral": 13,
-    "positive": 24
+    "positive": 24,
+    "score": 0.5641025641025641
   },
   {
     "sequence": "27A4",
@@ -2765,7 +3110,8 @@
     "position": 0.382195298,
     "negative": 0,
     "neutral": 26,
-    "positive": 13
+    "positive": 13,
+    "score": 0.3333333333333333
   },
   {
     "sequence": "2B06",
@@ -2773,7 +3119,8 @@
     "position": 0.605681579,
     "negative": 1,
     "neutral": 25,
-    "positive": 13
+    "positive": 13,
+    "score": 0.3076923076923077
   },
   {
     "sequence": "1F34B",
@@ -2781,7 +3128,8 @@
     "position": 0.742802859,
     "negative": 6,
     "neutral": 16,
-    "positive": 16
+    "positive": 16,
+    "score": 0.2631578947368421
   },
   {
     "sequence": "1F197",
@@ -2789,7 +3137,8 @@
     "position": 0.852316542,
     "negative": 6,
     "neutral": 4,
-    "positive": 28
+    "positive": 28,
+    "score": 0.5789473684210527
   },
   {
     "sequence": "26AA",
@@ -2797,7 +3146,8 @@
     "position": 0.564780444,
     "negative": 0,
     "neutral": 19,
-    "positive": 18
+    "positive": 18,
+    "score": 0.4864864864864865
   },
   {
     "sequence": "1F4FA",
@@ -2805,7 +3155,8 @@
     "position": 0.61386867,
     "negative": 3,
     "neutral": 16,
-    "positive": 18
+    "positive": 18,
+    "score": 0.40540540540540543
   },
   {
     "sequence": "1F345",
@@ -2813,7 +3164,8 @@
     "position": 0.838126825,
     "negative": 9,
     "neutral": 5,
-    "positive": 23
+    "positive": 23,
+    "score": 0.3783783783783784
   },
   {
     "sequence": "26C5",
@@ -2821,7 +3173,8 @@
     "position": 0.61632427,
     "negative": 4,
     "neutral": 11,
-    "positive": 22
+    "positive": 22,
+    "score": 0.4864864864864865
   },
   {
     "sequence": "1F422",
@@ -2829,7 +3182,8 @@
     "position": 0.621646684,
     "negative": 6,
     "neutral": 17,
-    "positive": 14
+    "positive": 14,
+    "score": 0.21621621621621623
   },
   {
     "sequence": "1F459",
@@ -2837,7 +3191,8 @@
     "position": 0.697202004,
     "negative": 3,
     "neutral": 11,
-    "positive": 23
+    "positive": 23,
+    "score": 0.5405405405405406
   },
   {
     "sequence": "1F3E1",
@@ -2845,7 +3200,8 @@
     "position": 0.744478613,
     "negative": 5,
     "neutral": 9,
-    "positive": 22
+    "positive": 22,
+    "score": 0.4722222222222222
   },
   {
     "sequence": "1F33E",
@@ -2853,7 +3209,8 @@
     "position": 0.558280959,
     "negative": 5,
     "neutral": 5,
-    "positive": 26
+    "positive": 26,
+    "score": 0.5833333333333334
   },
   {
     "sequence": "25C9",
@@ -2861,7 +3218,8 @@
     "position": 0.046697697,
     "negative": 0,
     "neutral": 26,
-    "positive": 10
+    "positive": 10,
+    "score": 0.2777777777777778
   },
   {
     "sequence": "270F",
@@ -2869,7 +3227,8 @@
     "position": 0.625100023,
     "negative": 3,
     "neutral": 16,
-    "positive": 16
+    "positive": 16,
+    "score": 0.37142857142857144
   },
   {
     "sequence": "1F42C",
@@ -2877,7 +3236,8 @@
     "position": 0.74664334,
     "negative": 2,
     "neutral": 15,
-    "positive": 18
+    "positive": 18,
+    "score": 0.45714285714285713
   },
   {
     "sequence": "1F364",
@@ -2885,7 +3245,8 @@
     "position": 0.513142123,
     "negative": 6,
     "neutral": 21,
-    "positive": 8
+    "positive": 8,
+    "score": 0.05714285714285714
   },
   {
     "sequence": "1F1F9",
@@ -2893,7 +3254,8 @@
     "position": 0.584324615,
     "negative": 0,
     "neutral": 13,
-    "positive": 22
+    "positive": 22,
+    "score": 0.6285714285714286
   },
   {
     "sequence": "2663",
@@ -2901,7 +3263,8 @@
     "position": 0.666096972,
     "negative": 4,
     "neutral": 14,
-    "positive": 17
+    "positive": 17,
+    "score": 0.37142857142857144
   },
   {
     "sequence": "1F41D",
@@ -2909,7 +3272,8 @@
     "position": 0.734687255,
     "negative": 5,
     "neutral": 17,
-    "positive": 13
+    "positive": 13,
+    "score": 0.22857142857142856
   },
   {
     "sequence": "1F31D",
@@ -2917,7 +3281,8 @@
     "position": 0.718124589,
     "negative": 5,
     "neutral": 17,
-    "positive": 12
+    "positive": 12,
+    "score": 0.20588235294117646
   },
   {
     "sequence": "1F1EE",
@@ -2925,7 +3290,8 @@
     "position": 0.575925963,
     "negative": 0,
     "neutral": 12,
-    "positive": 22
+    "positive": 22,
+    "score": 0.6470588235294118
   },
   {
     "sequence": "1F50B",
@@ -2933,7 +3299,8 @@
     "position": 0.583005086,
     "negative": 22,
     "neutral": 8,
-    "positive": 4
+    "positive": 4,
+    "score": -0.5294117647058824
   },
   {
     "sequence": "1F40D",
@@ -2941,7 +3308,8 @@
     "position": 0.622534826,
     "negative": 3,
     "neutral": 15,
-    "positive": 16
+    "positive": 16,
+    "score": 0.38235294117647056
   },
   {
     "sequence": "2654",
@@ -2949,7 +3317,8 @@
     "position": 0.588904318,
     "negative": 0,
     "neutral": 14,
-    "positive": 20
+    "positive": 20,
+    "score": 0.5882352941176471
   },
   {
     "sequence": "1F373",
@@ -2957,7 +3326,8 @@
     "position": 0.798473001,
     "negative": 13,
     "neutral": 6,
-    "positive": 14
+    "positive": 14,
+    "score": 0.030303030303030304
   },
   {
     "sequence": "1F535",
@@ -2965,7 +3335,8 @@
     "position": 0.680543536,
     "negative": 4,
     "neutral": 14,
-    "positive": 15
+    "positive": 15,
+    "score": 0.3333333333333333
   },
   {
     "sequence": "1F63E",
@@ -2973,7 +3344,8 @@
     "position": 0.914644696,
     "negative": 20,
     "neutral": 5,
-    "positive": 8
+    "positive": 8,
+    "score": -0.36363636363636365
   },
   {
     "sequence": "1F315",
@@ -2981,7 +3353,8 @@
     "position": 0.641921506,
     "negative": 3,
     "neutral": 7,
-    "positive": 23
+    "positive": 23,
+    "score": 0.6060606060606061
   },
   {
     "sequence": "1F428",
@@ -2989,7 +3362,8 @@
     "position": 0.696298274,
     "negative": 4,
     "neutral": 9,
-    "positive": 20
+    "positive": 20,
+    "score": 0.48484848484848486
   },
   {
     "sequence": "1F510",
@@ -2997,7 +3371,8 @@
     "position": 0.845213961,
     "negative": 6,
     "neutral": 9,
-    "positive": 18
+    "positive": 18,
+    "score": 0.36363636363636365
   },
   {
     "sequence": "1F4BF",
@@ -3005,7 +3380,8 @@
     "position": 0.444466092,
     "negative": 0,
     "neutral": 11,
-    "positive": 22
+    "positive": 22,
+    "score": 0.6666666666666666
   },
   {
     "sequence": "2741",
@@ -3013,7 +3389,8 @@
     "position": 0.492535753,
     "negative": 0,
     "neutral": 31,
-    "positive": 2
+    "positive": 2,
+    "score": 0.06060606060606061
   },
   {
     "sequence": "1F333",
@@ -3021,7 +3398,8 @@
     "position": 0.536180131,
     "negative": 2,
     "neutral": 11,
-    "positive": 19
+    "positive": 19,
+    "score": 0.53125
   },
   {
     "sequence": "1F470",
@@ -3029,7 +3407,8 @@
     "position": 0.787391801,
     "negative": 3,
     "neutral": 9,
-    "positive": 20
+    "positive": 20,
+    "score": 0.53125
   },
   {
     "sequence": "2740",
@@ -3037,7 +3416,8 @@
     "position": 0.443664362,
     "negative": 0,
     "neutral": 18,
-    "positive": 14
+    "positive": 14,
+    "score": 0.4375
   },
   {
     "sequence": "2693",
@@ -3045,7 +3425,8 @@
     "position": 0.592872704,
     "negative": 2,
     "neutral": 8,
-    "positive": 22
+    "positive": 22,
+    "score": 0.625
   },
   {
     "sequence": "1F6B4",
@@ -3053,7 +3434,8 @@
     "position": 0.573441922,
     "negative": 0,
     "neutral": 9,
-    "positive": 23
+    "positive": 23,
+    "score": 0.71875
   },
   {
     "sequence": "2580",
@@ -3061,7 +3443,8 @@
     "position": 0.249971192,
     "negative": 10,
     "neutral": 17,
-    "positive": 5
+    "positive": 5,
+    "score": -0.15625
   },
   {
     "sequence": "1F457",
@@ -3069,7 +3452,8 @@
     "position": 0.703059819,
     "negative": 5,
     "neutral": 13,
-    "positive": 13
+    "positive": 13,
+    "score": 0.25806451612903225
   },
   {
     "sequence": "2795",
@@ -3077,7 +3461,8 @@
     "position": 0.034111266,
     "negative": 4,
     "neutral": 5,
-    "positive": 22
+    "positive": 22,
+    "score": 0.5806451612903226
   },
   {
     "sequence": "1F4AC",
@@ -3085,7 +3470,8 @@
     "position": 0.635322751,
     "negative": 4,
     "neutral": 10,
-    "positive": 16
+    "positive": 16,
+    "score": 0.4
   },
   {
     "sequence": "2592",
@@ -3093,7 +3479,8 @@
     "position": 0.5006455,
     "negative": 2,
     "neutral": 27,
-    "positive": 1
+    "positive": 1,
+    "score": -0.03333333333333333
   },
   {
     "sequence": "1F51C",
@@ -3101,7 +3488,8 @@
     "position": 0.606237062,
     "negative": 5,
     "neutral": 11,
-    "positive": 14
+    "positive": 14,
+    "score": 0.3
   },
   {
     "sequence": "1F368",
@@ -3109,7 +3497,8 @@
     "position": 0.656537195,
     "negative": 8,
     "neutral": 7,
-    "positive": 15
+    "positive": 15,
+    "score": 0.23333333333333334
   },
   {
     "sequence": "1F4B2",
@@ -3117,7 +3506,8 @@
     "position": 0.793676272,
     "negative": 0,
     "neutral": 22,
-    "positive": 8
+    "positive": 8,
+    "score": 0.26666666666666666
   },
   {
     "sequence": "26FD",
@@ -3125,7 +3515,8 @@
     "position": 0.287349631,
     "negative": 1,
     "neutral": 23,
-    "positive": 6
+    "positive": 6,
+    "score": 0.16666666666666666
   },
   {
     "sequence": "1F359",
@@ -3133,7 +3524,8 @@
     "position": 0.566487361,
     "negative": 5,
     "neutral": 10,
-    "positive": 14
+    "positive": 14,
+    "score": 0.3103448275862069
   },
   {
     "sequence": "1F357",
@@ -3141,7 +3533,8 @@
     "position": 0.674706178,
     "negative": 9,
     "neutral": 9,
-    "positive": 11
+    "positive": 11,
+    "score": 0.06896551724137931
   },
   {
     "sequence": "1F372",
@@ -3149,7 +3542,8 @@
     "position": 0.672925496,
     "negative": 7,
     "neutral": 11,
-    "positive": 11
+    "positive": 11,
+    "score": 0.13793103448275862
   },
   {
     "sequence": "1F365",
@@ -3157,7 +3551,8 @@
     "position": 0.57963379,
     "negative": 22,
     "neutral": 4,
-    "positive": 3
+    "positive": 3,
+    "score": -0.6551724137931034
   },
   {
     "sequence": "25B8",
@@ -3165,7 +3560,8 @@
     "position": 0.516844972,
     "negative": 0,
     "neutral": 22,
-    "positive": 7
+    "positive": 7,
+    "score": 0.2413793103448276
   },
   {
     "sequence": "265B",
@@ -3173,7 +3569,8 @@
     "position": 0.48995855,
     "negative": 4,
     "neutral": 15,
-    "positive": 10
+    "positive": 10,
+    "score": 0.20689655172413793
   },
   {
     "sequence": "1F63C",
@@ -3181,7 +3578,8 @@
     "position": 0.855991066,
     "negative": 5,
     "neutral": 7,
-    "positive": 16
+    "positive": 16,
+    "score": 0.39285714285714285
   },
   {
     "sequence": "1F419",
@@ -3189,7 +3587,8 @@
     "position": 0.677637628,
     "negative": 2,
     "neutral": 12,
-    "positive": 14
+    "positive": 14,
+    "score": 0.42857142857142855
   },
   {
     "sequence": "1F468",
@@ -3197,7 +3596,8 @@
     "position": 0.693754806,
     "negative": 2,
     "neutral": 8,
-    "positive": 18
+    "positive": 18,
+    "score": 0.5714285714285714
   },
   {
     "sequence": "1F35A",
@@ -3205,7 +3605,8 @@
     "position": 0.636903275,
     "negative": 6,
     "neutral": 2,
-    "positive": 20
+    "positive": 20,
+    "score": 0.5
   },
   {
     "sequence": "1F356",
@@ -3213,7 +3614,8 @@
     "position": 0.678553575,
     "negative": 7,
     "neutral": 10,
-    "positive": 11
+    "positive": 11,
+    "score": 0.14285714285714285
   },
   {
     "sequence": "2668",
@@ -3221,7 +3623,8 @@
     "position": 0.664942237,
     "negative": 0,
     "neutral": 1,
-    "positive": 27
+    "positive": 27,
+    "score": 0.9642857142857143
   },
   {
     "sequence": "1F3B9",
@@ -3229,7 +3632,8 @@
     "position": 0.466337612,
     "negative": 0,
     "neutral": 17,
-    "positive": 11
+    "positive": 11,
+    "score": 0.39285714285714285
   },
   {
     "sequence": "2655",
@@ -3237,7 +3641,8 @@
     "position": 0.621310417,
     "negative": 0,
     "neutral": 16,
-    "positive": 12
+    "positive": 12,
+    "score": 0.42857142857142855
   },
   {
     "sequence": "2583",
@@ -3245,7 +3650,8 @@
     "position": 0.373188406,
     "negative": 0,
     "neutral": 0,
-    "positive": 28
+    "positive": 28,
+    "score": 1
   },
   {
     "sequence": "1F698",
@@ -3253,7 +3659,8 @@
     "position": 0.649502793,
     "negative": 8,
     "neutral": 9,
-    "positive": 10
+    "positive": 10,
+    "score": 0.07407407407407407
   },
   {
     "sequence": "1F34F",
@@ -3261,7 +3668,8 @@
     "position": 0.85243179,
     "negative": 7,
     "neutral": 11,
-    "positive": 9
+    "positive": 9,
+    "score": 0.07407407407407407
   },
   {
     "sequence": "1F469",
@@ -3269,7 +3677,8 @@
     "position": 0.731773327,
     "negative": 9,
     "neutral": 7,
-    "positive": 11
+    "positive": 11,
+    "score": 0.07407407407407407
   },
   {
     "sequence": "1F466",
@@ -3277,7 +3686,8 @@
     "position": 0.606457886,
     "negative": 5,
     "neutral": 13,
-    "positive": 9
+    "positive": 9,
+    "score": 0.14814814814814814
   },
   {
     "sequence": "1F1EC",
@@ -3285,7 +3695,8 @@
     "position": 0.582061343,
     "negative": 2,
     "neutral": 15,
-    "positive": 10
+    "positive": 10,
+    "score": 0.2962962962962963
   },
   {
     "sequence": "1F1E7",
@@ -3293,7 +3704,8 @@
     "position": 0.595070874,
     "negative": 2,
     "neutral": 15,
-    "positive": 10
+    "positive": 10,
+    "score": 0.2962962962962963
   },
   {
     "sequence": "2620",
@@ -3301,7 +3713,8 @@
     "position": 0.748862198,
     "negative": 7,
     "neutral": 14,
-    "positive": 6
+    "positive": 6,
+    "score": -0.037037037037037035
   },
   {
     "sequence": "1F420",
@@ -3309,7 +3722,8 @@
     "position": 0.767680777,
     "negative": 4,
     "neutral": 6,
-    "positive": 16
+    "positive": 16,
+    "score": 0.46153846153846156
   },
   {
     "sequence": "1F6B9",
@@ -3317,7 +3731,8 @@
     "position": 0.811646698,
     "negative": 1,
     "neutral": 4,
-    "positive": 21
+    "positive": 21,
+    "score": 0.7692307692307693
   },
   {
     "sequence": "1F4B5",
@@ -3325,7 +3740,8 @@
     "position": 0.806506343,
     "negative": 3,
     "neutral": 9,
-    "positive": 14
+    "positive": 14,
+    "score": 0.4230769230769231
   },
   {
     "sequence": "2730",
@@ -3333,7 +3749,8 @@
     "position": 0.19481227,
     "negative": 0,
     "neutral": 3,
-    "positive": 23
+    "positive": 23,
+    "score": 0.8846153846153846
   },
   {
     "sequence": "2560",
@@ -3341,7 +3758,8 @@
     "position": 0.542511882,
     "negative": 0,
     "neutral": 20,
-    "positive": 6
+    "positive": 6,
+    "score": 0.23076923076923078
   },
   {
     "sequence": "1F45B",
@@ -3349,7 +3767,8 @@
     "position": 0.696359786,
     "negative": 4,
     "neutral": 7,
-    "positive": 14
+    "positive": 14,
+    "score": 0.4
   },
   {
     "sequence": "1F699",
@@ -3357,7 +3776,8 @@
     "position": 0.653234313,
     "negative": 5,
     "neutral": 14,
-    "positive": 6
+    "positive": 6,
+    "score": 0.04
   },
   {
     "sequence": "1F331",
@@ -3365,7 +3785,8 @@
     "position": 0.561338235,
     "negative": 0,
     "neutral": 9,
-    "positive": 16
+    "positive": 16,
+    "score": 0.64
   },
   {
     "sequence": "1F4BB",
@@ -3373,7 +3794,8 @@
     "position": 0.489415613,
     "negative": 1,
     "neutral": 16,
-    "positive": 8
+    "positive": 8,
+    "score": 0.28
   },
   {
     "sequence": "1F30F",
@@ -3381,7 +3803,8 @@
     "position": 0.681460526,
     "negative": 3,
     "neutral": 10,
-    "positive": 12
+    "positive": 12,
+    "score": 0.36
   },
   {
     "sequence": "2584",
@@ -3389,7 +3812,8 @@
     "position": 0.464453824,
     "negative": 8,
     "neutral": 11,
-    "positive": 6
+    "positive": 6,
+    "score": -0.08
   },
   {
     "sequence": "1F453",
@@ -3397,7 +3821,8 @@
     "position": 0.514451688,
     "negative": 0,
     "neutral": 16,
-    "positive": 8
+    "positive": 8,
+    "score": 0.3333333333333333
   },
   {
     "sequence": "25C4",
@@ -3405,7 +3830,8 @@
     "position": 0.671979253,
     "negative": 0,
     "neutral": 18,
-    "positive": 6
+    "positive": 6,
+    "score": 0.25
   },
   {
     "sequence": "26BE",
@@ -3413,7 +3839,8 @@
     "position": 0.213609507,
     "negative": 9,
     "neutral": 7,
-    "positive": 8
+    "positive": 8,
+    "score": -0.041666666666666664
   },
   {
     "sequence": "1F332",
@@ -3421,7 +3848,8 @@
     "position": 0.496443035,
     "negative": 2,
     "neutral": 9,
-    "positive": 12
+    "positive": 12,
+    "score": 0.43478260869565216
   },
   {
     "sequence": "1F474",
@@ -3429,7 +3857,8 @@
     "position": 0.783858479,
     "negative": 5,
     "neutral": 7,
-    "positive": 11
+    "positive": 11,
+    "score": 0.2608695652173913
   },
   {
     "sequence": "1F3E0",
@@ -3437,7 +3866,8 @@
     "position": 0.641777733,
     "negative": 1,
     "neutral": 8,
-    "positive": 14
+    "positive": 14,
+    "score": 0.5652173913043478
   },
   {
     "sequence": "1F347",
@@ -3445,7 +3875,8 @@
     "position": 0.583781365,
     "negative": 5,
     "neutral": 6,
-    "positive": 12
+    "positive": 12,
+    "score": 0.30434782608695654
   },
   {
     "sequence": "1F358",
@@ -3453,7 +3884,8 @@
     "position": 0.620778046,
     "negative": 5,
     "neutral": 3,
-    "positive": 15
+    "positive": 15,
+    "score": 0.43478260869565216
   },
   {
     "sequence": "1F35B",
@@ -3461,7 +3893,8 @@
     "position": 0.585489158,
     "negative": 8,
     "neutral": 6,
-    "positive": 9
+    "positive": 9,
+    "score": 0.043478260869565216
   },
   {
     "sequence": "1F407",
@@ -3469,7 +3902,8 @@
     "position": 0.96735812,
     "negative": 4,
     "neutral": 9,
-    "positive": 10
+    "positive": 10,
+    "score": 0.2608695652173913
   },
   {
     "sequence": "1F51E",
@@ -3477,7 +3911,8 @@
     "position": 0.814490975,
     "negative": 6,
     "neutral": 12,
-    "positive": 5
+    "positive": 5,
+    "score": -0.043478260869565216
   },
   {
     "sequence": "1F475",
@@ -3485,7 +3920,8 @@
     "position": 0.818006874,
     "negative": 5,
     "neutral": 2,
-    "positive": 16
+    "positive": 16,
+    "score": 0.4782608695652174
   },
   {
     "sequence": "25C0",
@@ -3493,7 +3929,8 @@
     "position": 0.221018064,
     "negative": 0,
     "neutral": 16,
-    "positive": 7
+    "positive": 7,
+    "score": 0.30434782608695654
   },
   {
     "sequence": "1F519",
@@ -3501,7 +3938,8 @@
     "position": 0.143848565,
     "negative": 2,
     "neutral": 14,
-    "positive": 7
+    "positive": 7,
+    "score": 0.21739130434782608
   },
   {
     "sequence": "1F335",
@@ -3509,7 +3947,8 @@
     "position": 0.670060172,
     "negative": 6,
     "neutral": 6,
-    "positive": 11
+    "positive": 11,
+    "score": 0.21739130434782608
   },
   {
     "sequence": "1F43D",
@@ -3517,7 +3956,8 @@
     "position": 0.647826714,
     "negative": 5,
     "neutral": 9,
-    "positive": 8
+    "positive": 8,
+    "score": 0.13636363636363635
   },
   {
     "sequence": "1F36E",
@@ -3525,7 +3965,8 @@
     "position": 0.701402915,
     "negative": 10,
     "neutral": 5,
-    "positive": 7
+    "positive": 7,
+    "score": -0.13636363636363635
   },
   {
     "sequence": "1F387",
@@ -3533,7 +3974,8 @@
     "position": 0.820989335,
     "negative": 1,
     "neutral": 3,
-    "positive": 18
+    "positive": 18,
+    "score": 0.7727272727272727
   },
   {
     "sequence": "1F40E",
@@ -3541,7 +3983,8 @@
     "position": 0.698088195,
     "negative": 2,
     "neutral": 8,
-    "positive": 12
+    "positive": 12,
+    "score": 0.45454545454545453
   },
   {
     "sequence": "2794",
@@ -3549,7 +3992,8 @@
     "position": 0.540918757,
     "negative": 3,
     "neutral": 19,
-    "positive": 0
+    "positive": 0,
+    "score": -0.13636363636363635
   },
   {
     "sequence": "1F4B6",
@@ -3557,7 +4001,8 @@
     "position": 0.748289907,
     "negative": 3,
     "neutral": 16,
-    "positive": 3
+    "positive": 3,
+    "score": 0
   },
   {
     "sequence": "1F424",
@@ -3565,7 +4010,8 @@
     "position": 0.838037285,
     "negative": 1,
     "neutral": 7,
-    "positive": 14
+    "positive": 14,
+    "score": 0.5909090909090909
   },
   {
     "sequence": "2569",
@@ -3573,7 +4019,8 @@
     "position": 0.811363636,
     "negative": 0,
     "neutral": 17,
-    "positive": 5
+    "positive": 5,
+    "score": 0.22727272727272727
   },
   {
     "sequence": "1F6C0",
@@ -3581,7 +4028,8 @@
     "position": 0.904298381,
     "negative": 6,
     "neutral": 6,
-    "positive": 9
+    "positive": 9,
+    "score": 0.14285714285714285
   },
   {
     "sequence": "1F311",
@@ -3589,7 +4037,8 @@
     "position": 0.603915537,
     "negative": 2,
     "neutral": 6,
-    "positive": 13
+    "positive": 13,
+    "score": 0.5238095238095238
   },
   {
     "sequence": "1F6B2",
@@ -3597,7 +4046,8 @@
     "position": 0.582675365,
     "negative": 1,
     "neutral": 10,
-    "positive": 10
+    "positive": 10,
+    "score": 0.42857142857142855
   },
   {
     "sequence": "1F411",
@@ -3605,7 +4055,8 @@
     "position": 0.921935783,
     "negative": 6,
     "neutral": 13,
-    "positive": 2
+    "positive": 2,
+    "score": -0.19047619047619047
   },
   {
     "sequence": "1F3C1",
@@ -3613,7 +4064,8 @@
     "position": 0.618314821,
     "negative": 0,
     "neutral": 9,
-    "positive": 12
+    "positive": 12,
+    "score": 0.5714285714285714
   },
   {
     "sequence": "1F35E",
@@ -3621,7 +4073,8 @@
     "position": 0.710838498,
     "negative": 6,
     "neutral": 8,
-    "positive": 7
+    "positive": 7,
+    "score": 0.047619047619047616
   },
   {
     "sequence": "1F3BE",
@@ -3629,7 +4082,8 @@
     "position": 0.820392839,
     "negative": 2,
     "neutral": 4,
-    "positive": 15
+    "positive": 15,
+    "score": 0.6190476190476191
   },
   {
     "sequence": "255A",
@@ -3637,7 +4091,8 @@
     "position": 0.714311764,
     "negative": 0,
     "neutral": 14,
-    "positive": 7
+    "positive": 7,
+    "score": 0.3333333333333333
   },
   {
     "sequence": "1F239",
@@ -3645,7 +4100,8 @@
     "position": 0.349907717,
     "negative": 1,
     "neutral": 12,
-    "positive": 8
+    "positive": 8,
+    "score": 0.3333333333333333
   },
   {
     "sequence": "1F433",
@@ -3653,7 +4109,8 @@
     "position": 0.65571861,
     "negative": 4,
     "neutral": 9,
-    "positive": 7
+    "positive": 7,
+    "score": 0.15
   },
   {
     "sequence": "1F46E",
@@ -3661,7 +4118,8 @@
     "position": 0.742230559,
     "negative": 10,
     "neutral": 8,
-    "positive": 2
+    "positive": 2,
+    "score": -0.4
   },
   {
     "sequence": "2639",
@@ -3669,7 +4127,8 @@
     "position": 0.776559964,
     "negative": 14,
     "neutral": 4,
-    "positive": 2
+    "positive": 2,
+    "score": -0.6
   },
   {
     "sequence": "1F435",
@@ -3677,7 +4136,8 @@
     "position": 0.63050797,
     "negative": 1,
     "neutral": 7,
-    "positive": 12
+    "positive": 12,
+    "score": 0.55
   },
   {
     "sequence": "272A",
@@ -3685,7 +4145,8 @@
     "position": 0.287581918,
     "negative": 0,
     "neutral": 13,
-    "positive": 7
+    "positive": 7,
+    "score": 0.35
   },
   {
     "sequence": "25D5",
@@ -3693,7 +4154,8 @@
     "position": 0.594134042,
     "negative": 0,
     "neutral": 10,
-    "positive": 10
+    "positive": 10,
+    "score": 0.5
   },
   {
     "sequence": "1F5FC",
@@ -3701,7 +4163,8 @@
     "position": 0.653788547,
     "negative": 1,
     "neutral": 6,
-    "positive": 13
+    "positive": 13,
+    "score": 0.6
   },
   {
     "sequence": "2590",
@@ -3709,7 +4172,8 @@
     "position": 0.304138759,
     "negative": 4,
     "neutral": 15,
-    "positive": 1
+    "positive": 1,
+    "score": -0.15
   },
   {
     "sequence": "2660",
@@ -3717,7 +4181,8 @@
     "position": 0.533120829,
     "negative": 0,
     "neutral": 13,
-    "positive": 7
+    "positive": 7,
+    "score": 0.35
   },
   {
     "sequence": "2533",
@@ -3725,7 +4190,8 @@
     "position": 0.399288134,
     "negative": 10,
     "neutral": 8,
-    "positive": 2
+    "positive": 2,
+    "score": -0.4
   },
   {
     "sequence": "1F47A",
@@ -3733,7 +4199,8 @@
     "position": 0.824824563,
     "negative": 8,
     "neutral": 7,
-    "positive": 4
+    "positive": 4,
+    "score": -0.21052631578947367
   },
   {
     "sequence": "1F41A",
@@ -3741,7 +4208,8 @@
     "position": 0.526458845,
     "negative": 1,
     "neutral": 12,
-    "positive": 6
+    "positive": 6,
+    "score": 0.2631578947368421
   },
   {
     "sequence": "1F442",
@@ -3749,7 +4217,8 @@
     "position": 0.68212761,
     "negative": 7,
     "neutral": 8,
-    "positive": 4
+    "positive": 4,
+    "score": -0.15789473684210525
   },
   {
     "sequence": "1F5FD",
@@ -3757,7 +4226,8 @@
     "position": 0.651087541,
     "negative": 1,
     "neutral": 10,
-    "positive": 8
+    "positive": 8,
+    "score": 0.3684210526315789
   },
   {
     "sequence": "1F375",
@@ -3765,7 +4235,8 @@
     "position": 0.650326294,
     "negative": 3,
     "neutral": 5,
-    "positive": 11
+    "positive": 11,
+    "score": 0.42105263157894735
   },
   {
     "sequence": "1F192",
@@ -3773,7 +4244,8 @@
     "position": 0.627794041,
     "negative": 0,
     "neutral": 11,
-    "positive": 8
+    "positive": 8,
+    "score": 0.42105263157894735
   },
   {
     "sequence": "1F36F",
@@ -3781,7 +4253,8 @@
     "position": 0.779822828,
     "negative": 7,
     "neutral": 4,
-    "positive": 8
+    "positive": 8,
+    "score": 0.05263157894736842
   },
   {
     "sequence": "1F43A",
@@ -3789,7 +4262,8 @@
     "position": 0.734916913,
     "negative": 2,
     "neutral": 10,
-    "positive": 7
+    "positive": 7,
+    "score": 0.2631578947368421
   },
   {
     "sequence": "21E8",
@@ -3797,7 +4271,8 @@
     "position": 0.541146317,
     "negative": 0,
     "neutral": 9,
-    "positive": 10
+    "positive": 10,
+    "score": 0.5263157894736842
   },
   {
     "sequence": "27A8",
@@ -3805,7 +4280,8 @@
     "position": 0.558287039,
     "negative": 2,
     "neutral": 12,
-    "positive": 5
+    "positive": 5,
+    "score": 0.15789473684210525
   },
   {
     "sequence": "1F313",
@@ -3813,7 +4289,8 @@
     "position": 0.458297394,
     "negative": 0,
     "neutral": 6,
-    "positive": 13
+    "positive": 13,
+    "score": 0.6842105263157895
   },
   {
     "sequence": "1F512",
@@ -3821,7 +4298,8 @@
     "position": 0.939297049,
     "negative": 5,
     "neutral": 5,
-    "positive": 9
+    "positive": 9,
+    "score": 0.21052631578947367
   },
   {
     "sequence": "256C",
@@ -3829,7 +4307,8 @@
     "position": 0.32158749,
     "negative": 6,
     "neutral": 10,
-    "positive": 3
+    "positive": 3,
+    "score": -0.15789473684210525
   },
   {
     "sequence": "1F473",
@@ -3837,7 +4316,8 @@
     "position": 0.816081393,
     "negative": 2,
     "neutral": 1,
-    "positive": 15
+    "positive": 15,
+    "score": 0.7222222222222222
   },
   {
     "sequence": "1F302",
@@ -3845,7 +4325,8 @@
     "position": 0.784983076,
     "negative": 2,
     "neutral": 9,
-    "positive": 7
+    "positive": 7,
+    "score": 0.2777777777777778
   },
   {
     "sequence": "1F68C",
@@ -3853,7 +4334,8 @@
     "position": 0.635613322,
     "negative": 2,
     "neutral": 10,
-    "positive": 6
+    "positive": 6,
+    "score": 0.2222222222222222
   },
   {
     "sequence": "2669",
@@ -3861,7 +4343,8 @@
     "position": 0.791816647,
     "negative": 0,
     "neutral": 7,
-    "positive": 11
+    "positive": 11,
+    "score": 0.6111111111111112
   },
   {
     "sequence": "1F361",
@@ -3869,7 +4352,8 @@
     "position": 0.699734257,
     "negative": 5,
     "neutral": 9,
-    "positive": 4
+    "positive": 4,
+    "score": -0.05555555555555555
   },
   {
     "sequence": "2765",
@@ -3877,7 +4361,8 @@
     "position": 0.440217022,
     "negative": 0,
     "neutral": 13,
-    "positive": 5
+    "positive": 5,
+    "score": 0.2777777777777778
   },
   {
     "sequence": "1F3A1",
@@ -3885,7 +4370,8 @@
     "position": 0.506097489,
     "negative": 1,
     "neutral": 10,
-    "positive": 7
+    "positive": 7,
+    "score": 0.3333333333333333
   },
   {
     "sequence": "1F48C",
@@ -3893,7 +4379,8 @@
     "position": 0.805000544,
     "negative": 2,
     "neutral": 3,
-    "positive": 12
+    "positive": 12,
+    "score": 0.5882352941176471
   },
   {
     "sequence": "1F429",
@@ -3901,7 +4388,8 @@
     "position": 0.87034228,
     "negative": 0,
     "neutral": 10,
-    "positive": 7
+    "positive": 7,
+    "score": 0.4117647058823529
   },
   {
     "sequence": "1F31C",
@@ -3909,7 +4397,8 @@
     "position": 0.604117045,
     "negative": 0,
     "neutral": 7,
-    "positive": 10
+    "positive": 10,
+    "score": 0.5882352941176471
   },
   {
     "sequence": "231A",
@@ -3917,7 +4406,8 @@
     "position": 0.64929786,
     "negative": 2,
     "neutral": 9,
-    "positive": 6
+    "positive": 6,
+    "score": 0.23529411764705882
   },
   {
     "sequence": "1F6BF",
@@ -3925,7 +4415,8 @@
     "position": 0.669217138,
     "negative": 1,
     "neutral": 3,
-    "positive": 13
+    "positive": 13,
+    "score": 0.7058823529411765
   },
   {
     "sequence": "1F416",
@@ -3933,7 +4424,8 @@
     "position": 0.814054951,
     "negative": 0,
     "neutral": 14,
-    "positive": 3
+    "positive": 3,
+    "score": 0.17647058823529413
   },
   {
     "sequence": "1F506",
@@ -3941,7 +4433,8 @@
     "position": 0.604618098,
     "negative": 0,
     "neutral": 6,
-    "positive": 11
+    "positive": 11,
+    "score": 0.6470588235294118
   },
   {
     "sequence": "1F31B",
@@ -3949,7 +4442,8 @@
     "position": 0.679966738,
     "negative": 0,
     "neutral": 6,
-    "positive": 11
+    "positive": 11,
+    "score": 0.6470588235294118
   },
   {
     "sequence": "1F482",
@@ -3957,7 +4451,8 @@
     "position": 0.691282654,
     "negative": 8,
     "neutral": 4,
-    "positive": 5
+    "positive": 5,
+    "score": -0.17647058823529413
   },
   {
     "sequence": "1F414",
@@ -3965,7 +4460,8 @@
     "position": 0.627149273,
     "negative": 1,
     "neutral": 9,
-    "positive": 7
+    "positive": 7,
+    "score": 0.35294117647058826
   },
   {
     "sequence": "1F64E",
@@ -3973,7 +4469,8 @@
     "position": 0.640742988,
     "negative": 8,
     "neutral": 2,
-    "positive": 7
+    "positive": 7,
+    "score": -0.058823529411764705
   },
   {
     "sequence": "1F3E9",
@@ -3981,7 +4478,8 @@
     "position": 0.587431016,
     "negative": 2,
     "neutral": 4,
-    "positive": 10
+    "positive": 10,
+    "score": 0.5
   },
   {
     "sequence": "1F1EB",
@@ -3989,7 +4487,8 @@
     "position": 0.718033886,
     "negative": 0,
     "neutral": 7,
-    "positive": 9
+    "positive": 9,
+    "score": 0.5625
   },
   {
     "sequence": "1F528",
@@ -3997,7 +4496,8 @@
     "position": 0.738603866,
     "negative": 6,
     "neutral": 6,
-    "positive": 4
+    "positive": 4,
+    "score": -0.125
   },
   {
     "sequence": "1F4E2",
@@ -4005,7 +4505,8 @@
     "position": 0.545722402,
     "negative": 0,
     "neutral": 8,
-    "positive": 8
+    "positive": 8,
+    "score": 0.5
   },
   {
     "sequence": "1F426",
@@ -4013,7 +4514,8 @@
     "position": 0.75753571,
     "negative": 0,
     "neutral": 8,
-    "positive": 8
+    "positive": 8,
+    "score": 0.5
   },
   {
     "sequence": "1F432",
@@ -4021,7 +4523,8 @@
     "position": 0.457546329,
     "negative": 2,
     "neutral": 13,
-    "positive": 1
+    "positive": 1,
+    "score": -0.0625
   },
   {
     "sequence": "267B",
@@ -4029,7 +4532,8 @@
     "position": 0.438690753,
     "negative": 0,
     "neutral": 7,
-    "positive": 9
+    "positive": 9,
+    "score": 0.5625
   },
   {
     "sequence": "1F318",
@@ -4037,7 +4541,8 @@
     "position": 0.577817017,
     "negative": 0,
     "neutral": 5,
-    "positive": 11
+    "positive": 11,
+    "score": 0.6875
   },
   {
     "sequence": "1F350",
@@ -4045,7 +4550,8 @@
     "position": 0.84457574,
     "negative": 5,
     "neutral": 3,
-    "positive": 8
+    "positive": 8,
+    "score": 0.1875
   },
   {
     "sequence": "1F314",
@@ -4053,7 +4559,8 @@
     "position": 0.447188207,
     "negative": 0,
     "neutral": 5,
-    "positive": 11
+    "positive": 11,
+    "score": 0.6875
   },
   {
     "sequence": "2565",
@@ -4061,7 +4568,8 @@
     "position": 0.8694829,
     "negative": 6,
     "neutral": 2,
-    "positive": 8
+    "positive": 8,
+    "score": 0.125
   },
   {
     "sequence": "274A",
@@ -4069,7 +4577,8 @@
     "position": 0.45212766,
     "negative": 0,
     "neutral": 16,
-    "positive": 0
+    "positive": 0,
+    "score": 0
   },
   {
     "sequence": "1F456",
@@ -4077,7 +4586,8 @@
     "position": 0.910194857,
     "negative": 1,
     "neutral": 7,
-    "positive": 7
+    "positive": 7,
+    "score": 0.4
   },
   {
     "sequence": "1F6BA",
@@ -4085,7 +4595,8 @@
     "position": 0.677226689,
     "negative": 2,
     "neutral": 8,
-    "positive": 5
+    "positive": 5,
+    "score": 0.2
   },
   {
     "sequence": "1F617",
@@ -4093,7 +4604,8 @@
     "position": 0.714328477,
     "negative": 1,
     "neutral": 2,
-    "positive": 12
+    "positive": 12,
+    "score": 0.7333333333333333
   },
   {
     "sequence": "1F3AD",
@@ -4101,7 +4613,8 @@
     "position": 0.657660049,
     "negative": 5,
     "neutral": 5,
-    "positive": 5
+    "positive": 5,
+    "score": 0
   },
   {
     "sequence": "1F404",
@@ -4109,7 +4622,8 @@
     "position": 0.825887991,
     "negative": 2,
     "neutral": 6,
-    "positive": 7
+    "positive": 7,
+    "score": 0.3333333333333333
   },
   {
     "sequence": "25DF",
@@ -4117,7 +4631,8 @@
     "position": 0.646546064,
     "negative": 2,
     "neutral": 12,
-    "positive": 1
+    "positive": 1,
+    "score": -0.06666666666666667
   },
   {
     "sequence": "1F362",
@@ -4125,7 +4640,8 @@
     "position": 0.684276452,
     "negative": 5,
     "neutral": 7,
-    "positive": 3
+    "positive": 3,
+    "score": -0.13333333333333333
   },
   {
     "sequence": "1F3A8",
@@ -4133,7 +4649,8 @@
     "position": 0.490548154,
     "negative": 1,
     "neutral": 10,
-    "positive": 4
+    "positive": 4,
+    "score": 0.2
   },
   {
     "sequence": "2B07",
@@ -4141,7 +4658,8 @@
     "position": 0.631917187,
     "negative": 2,
     "neutral": 4,
-    "positive": 9
+    "positive": 9,
+    "score": 0.4666666666666667
   },
   {
     "sequence": "1F6BC",
@@ -4149,7 +4667,8 @@
     "position": 0.692874634,
     "negative": 0,
     "neutral": 5,
-    "positive": 10
+    "positive": 10,
+    "score": 0.6666666666666666
   },
   {
     "sequence": "26F2",
@@ -4157,7 +4676,8 @@
     "position": 0.697309585,
     "negative": 1,
     "neutral": 12,
-    "positive": 2
+    "positive": 2,
+    "score": 0.06666666666666667
   },
   {
     "sequence": "2581",
@@ -4165,7 +4685,8 @@
     "position": 0.711319751,
     "negative": 0,
     "neutral": 15,
-    "positive": 0
+    "positive": 0,
+    "score": 0
   },
   {
     "sequence": "1F1F4",
@@ -4173,7 +4694,8 @@
     "position": 0.676124081,
     "negative": 0,
     "neutral": 9,
-    "positive": 6
+    "positive": 6,
+    "score": 0.4
   },
   {
     "sequence": "1F317",
@@ -4181,7 +4703,8 @@
     "position": 0.54681955,
     "negative": 0,
     "neutral": 4,
-    "positive": 11
+    "positive": 11,
+    "score": 0.7333333333333333
   },
   {
     "sequence": "1F316",
@@ -4189,7 +4712,8 @@
     "position": 0.534539354,
     "negative": 0,
     "neutral": 4,
-    "positive": 11
+    "positive": 11,
+    "score": 0.7333333333333333
   },
   {
     "sequence": "1F505",
@@ -4197,7 +4721,8 @@
     "position": 0.634782609,
     "negative": 0,
     "neutral": 0,
-    "positive": 15
+    "positive": 15,
+    "score": 1
   },
   {
     "sequence": "1F45C",
@@ -4205,7 +4730,8 @@
     "position": 0.675482619,
     "negative": 2,
     "neutral": 6,
-    "positive": 6
+    "positive": 6,
+    "score": 0.2857142857142857
   },
   {
     "sequence": "1F40C",
@@ -4213,7 +4739,8 @@
     "position": 0.421349764,
     "negative": 0,
     "neutral": 3,
-    "positive": 11
+    "positive": 11,
+    "score": 0.7857142857142857
   },
   {
     "sequence": "1F4BC",
@@ -4221,7 +4748,8 @@
     "position": 0.573028381,
     "negative": 1,
     "neutral": 3,
-    "positive": 10
+    "positive": 10,
+    "score": 0.6428571428571429
   },
   {
     "sequence": "1F695",
@@ -4229,7 +4757,8 @@
     "position": 0.526016674,
     "negative": 3,
     "neutral": 8,
-    "positive": 3
+    "positive": 3,
+    "score": 0
   },
   {
     "sequence": "1F439",
@@ -4237,7 +4766,8 @@
     "position": 0.743700839,
     "negative": 3,
     "neutral": 3,
-    "positive": 8
+    "positive": 8,
+    "score": 0.35714285714285715
   },
   {
     "sequence": "1F320",
@@ -4245,7 +4775,8 @@
     "position": 0.761411531,
     "negative": 2,
     "neutral": 1,
-    "positive": 11
+    "positive": 11,
+    "score": 0.6428571428571429
   },
   {
     "sequence": "1F408",
@@ -4253,7 +4784,8 @@
     "position": 0.645414223,
     "negative": 0,
     "neutral": 9,
-    "positive": 5
+    "positive": 5,
+    "score": 0.35714285714285715
   },
   {
     "sequence": "21E7",
@@ -4261,7 +4793,8 @@
     "position": 0.461420203,
     "negative": 0,
     "neutral": 12,
-    "positive": 2
+    "positive": 2,
+    "score": 0.14285714285714285
   },
   {
     "sequence": "260E",
@@ -4269,7 +4802,8 @@
     "position": 0.836709012,
     "negative": 2,
     "neutral": 10,
-    "positive": 2
+    "positive": 2,
+    "score": 0
   },
   {
     "sequence": "1F301",
@@ -4277,7 +4811,8 @@
     "position": 0.744406749,
     "negative": 1,
     "neutral": 9,
-    "positive": 4
+    "positive": 4,
+    "score": 0.21428571428571427
   },
   {
     "sequence": "26AB",
@@ -4285,7 +4820,8 @@
     "position": 0.440912997,
     "negative": 3,
     "neutral": 4,
-    "positive": 7
+    "positive": 7,
+    "score": 0.2857142857142857
   },
   {
     "sequence": "2667",
@@ -4293,7 +4829,8 @@
     "position": 0.775062446,
     "negative": 0,
     "neutral": 6,
-    "positive": 8
+    "positive": 8,
+    "score": 0.5714285714285714
   },
   {
     "sequence": "1F3F0",
@@ -4301,7 +4838,8 @@
     "position": 0.434066804,
     "negative": 1,
     "neutral": 7,
-    "positive": 6
+    "positive": 6,
+    "score": 0.35714285714285715
   },
   {
     "sequence": "1F6B5",
@@ -4309,7 +4847,8 @@
     "position": 0.5561554,
     "negative": 0,
     "neutral": 8,
-    "positive": 6
+    "positive": 6,
+    "score": 0.42857142857142855
   },
   {
     "sequence": "1F3A2",
@@ -4317,7 +4856,8 @@
     "position": 0.825803746,
     "negative": 1,
     "neutral": 4,
-    "positive": 9
+    "positive": 9,
+    "score": 0.5714285714285714
   },
   {
     "sequence": "1F3B7",
@@ -4325,7 +4865,8 @@
     "position": 0.759955203,
     "negative": 0,
     "neutral": 3,
-    "positive": 11
+    "positive": 11,
+    "score": 0.7857142857142857
   },
   {
     "sequence": "1F390",
@@ -4333,7 +4874,8 @@
     "position": 0.290879701,
     "negative": 0,
     "neutral": 11,
-    "positive": 3
+    "positive": 3,
+    "score": 0.21428571428571427
   },
   {
     "sequence": "2508",
@@ -4341,7 +4883,8 @@
     "position": 0.792740417,
     "negative": 12,
     "neutral": 0,
-    "positive": 2
+    "positive": 2,
+    "score": -0.7142857142857143
   },
   {
     "sequence": "2557",
@@ -4349,7 +4892,8 @@
     "position": 0.361119833,
     "negative": 0,
     "neutral": 8,
-    "positive": 6
+    "positive": 6,
+    "score": 0.42857142857142855
   },
   {
     "sequence": "2571",
@@ -4357,7 +4901,8 @@
     "position": 0.547959184,
     "negative": 0,
     "neutral": 14,
-    "positive": 0
+    "positive": 0,
+    "score": 0
   },
   {
     "sequence": "1F307",
@@ -4365,7 +4910,8 @@
     "position": 0.54287435,
     "negative": 0,
     "neutral": 5,
-    "positive": 8
+    "positive": 8,
+    "score": 0.6153846153846154
   },
   {
     "sequence": "23F0",
@@ -4373,7 +4919,8 @@
     "position": 0.645780266,
     "negative": 2,
     "neutral": 2,
-    "positive": 9
+    "positive": 9,
+    "score": 0.5384615384615384
   },
   {
     "sequence": "21E9",
@@ -4381,7 +4928,8 @@
     "position": 0.503572636,
     "negative": 0,
     "neutral": 13,
-    "positive": 0
+    "positive": 0,
+    "score": 0
   },
   {
     "sequence": "1F682",
@@ -4389,7 +4937,8 @@
     "position": 0.656030729,
     "negative": 0,
     "neutral": 9,
-    "positive": 4
+    "positive": 4,
+    "score": 0.3076923076923077
   },
   {
     "sequence": "25E0",
@@ -4397,7 +4946,8 @@
     "position": 0.652555193,
     "negative": 0,
     "neutral": 6,
-    "positive": 7
+    "positive": 7,
+    "score": 0.5384615384615384
   },
   {
     "sequence": "1F3BF",
@@ -4405,7 +4955,8 @@
     "position": 0.727391903,
     "negative": 1,
     "neutral": 5,
-    "positive": 7
+    "positive": 7,
+    "score": 0.46153846153846156
   },
   {
     "sequence": "2726",
@@ -4413,7 +4964,8 @@
     "position": 0.402369693,
     "negative": 0,
     "neutral": 12,
-    "positive": 1
+    "positive": 1,
+    "score": 0.07692307692307693
   },
   {
     "sequence": "1F194",
@@ -4421,7 +4973,8 @@
     "position": 0.479124776,
     "negative": 0,
     "neutral": 1,
-    "positive": 12
+    "positive": 12,
+    "score": 0.9230769230769231
   },
   {
     "sequence": "26EA",
@@ -4429,7 +4982,8 @@
     "position": 0.38723933,
     "negative": 2,
     "neutral": 7,
-    "positive": 4
+    "positive": 4,
+    "score": 0.15384615384615385
   },
   {
     "sequence": "1F312",
@@ -4437,7 +4991,8 @@
     "position": 0.446222397,
     "negative": 0,
     "neutral": 4,
-    "positive": 9
+    "positive": 9,
+    "score": 0.6923076923076923
   },
   {
     "sequence": "1F42A",
@@ -4445,7 +5000,8 @@
     "position": 0.836925018,
     "negative": 0,
     "neutral": 4,
-    "positive": 9
+    "positive": 9,
+    "score": 0.6923076923076923
   },
   {
     "sequence": "2554",
@@ -4453,7 +5009,8 @@
     "position": 0.309824364,
     "negative": 0,
     "neutral": 9,
-    "positive": 4
+    "positive": 4,
+    "score": 0.3076923076923077
   },
   {
     "sequence": "255D",
@@ -4461,7 +5018,8 @@
     "position": 0.800037569,
     "negative": 0,
     "neutral": 6,
-    "positive": 7
+    "positive": 7,
+    "score": 0.5384615384615384
   },
   {
     "sequence": "1F454",
@@ -4469,7 +5027,8 @@
     "position": 0.520012314,
     "negative": 2,
     "neutral": 3,
-    "positive": 7
+    "positive": 7,
+    "score": 0.4166666666666667
   },
   {
     "sequence": "1F531",
@@ -4477,7 +5036,8 @@
     "position": 0.790792217,
     "negative": 3,
     "neutral": 5,
-    "positive": 4
+    "positive": 4,
+    "score": 0.08333333333333333
   },
   {
     "sequence": "1F193",
@@ -4485,7 +5045,8 @@
     "position": 0.551459397,
     "negative": 0,
     "neutral": 9,
-    "positive": 3
+    "positive": 3,
+    "score": 0.25
   },
   {
     "sequence": "1F40B",
@@ -4493,7 +5054,8 @@
     "position": 0.865813424,
     "negative": 2,
     "neutral": 5,
-    "positive": 5
+    "positive": 5,
+    "score": 0.25
   },
   {
     "sequence": "25BD",
@@ -4501,7 +5063,8 @@
     "position": 0.843553507,
     "negative": 1,
     "neutral": 4,
-    "positive": 7
+    "positive": 7,
+    "score": 0.5
   },
   {
     "sequence": "2582",
@@ -4509,7 +5072,8 @@
     "position": 0.578512397,
     "negative": 0,
     "neutral": 12,
-    "positive": 0
+    "positive": 0,
+    "score": 0
   },
   {
     "sequence": "1F41B",
@@ -4517,7 +5081,8 @@
     "position": 0.672751951,
     "negative": 2,
     "neutral": 4,
-    "positive": 6
+    "positive": 6,
+    "score": 0.3333333333333333
   },
   {
     "sequence": "1F455",
@@ -4525,7 +5090,8 @@
     "position": 0.795097842,
     "negative": 1,
     "neutral": 4,
-    "positive": 7
+    "positive": 7,
+    "score": 0.5
   },
   {
     "sequence": "1F68B",
@@ -4533,7 +5099,8 @@
     "position": 0.317741493,
     "negative": 0,
     "neutral": 11,
-    "positive": 1
+    "positive": 1,
+    "score": 0.08333333333333333
   },
   {
     "sequence": "1F4B3",
@@ -4541,7 +5108,8 @@
     "position": 0.83392297,
     "negative": 1,
     "neutral": 4,
-    "positive": 7
+    "positive": 7,
+    "score": 0.5
   },
   {
     "sequence": "1F306",
@@ -4549,7 +5117,8 @@
     "position": 0.764797204,
     "negative": 2,
     "neutral": 6,
-    "positive": 4
+    "positive": 4,
+    "score": 0.16666666666666666
   },
   {
     "sequence": "1F3E7",
@@ -4557,7 +5126,8 @@
     "position": 0.888240175,
     "negative": 0,
     "neutral": 0,
-    "positive": 12
+    "positive": 12,
+    "score": 1
   },
   {
     "sequence": "1F4A1",
@@ -4565,7 +5135,8 @@
     "position": 0.597619454,
     "negative": 0,
     "neutral": 3,
-    "positive": 9
+    "positive": 9,
+    "score": 0.75
   },
   {
     "sequence": "1F539",
@@ -4573,7 +5144,8 @@
     "position": 0.170199929,
     "negative": 2,
     "neutral": 6,
-    "positive": 4
+    "positive": 4,
+    "score": 0.16666666666666666
   },
   {
     "sequence": "2B05",
@@ -4581,7 +5153,8 @@
     "position": 0.662574787,
     "negative": 0,
     "neutral": 5,
-    "positive": 7
+    "positive": 7,
+    "score": 0.5833333333333334
   },
   {
     "sequence": "1F360",
@@ -4589,7 +5162,8 @@
     "position": 0.938678015,
     "negative": 5,
     "neutral": 2,
-    "positive": 5
+    "positive": 5,
+    "score": 0
   },
   {
     "sequence": "1F42B",
@@ -4597,7 +5171,8 @@
     "position": 0.770082215,
     "negative": 0,
     "neutral": 7,
-    "positive": 5
+    "positive": 5,
+    "score": 0.4166666666666667
   },
   {
     "sequence": "1F3EA",
@@ -4605,7 +5180,8 @@
     "position": 0.374437236,
     "negative": 2,
     "neutral": 7,
-    "positive": 3
+    "positive": 3,
+    "score": 0.08333333333333333
   },
   {
     "sequence": "06E9",
@@ -4613,7 +5189,8 @@
     "position": 0.464312944,
     "negative": 0,
     "neutral": 12,
-    "positive": 0
+    "positive": 0,
+    "score": 0
   },
   {
     "sequence": "1F1F1",
@@ -4621,7 +5198,8 @@
     "position": 0.71333692,
     "negative": 0,
     "neutral": 6,
-    "positive": 6
+    "positive": 6,
+    "score": 0.5
   },
   {
     "sequence": "1F4F9",
@@ -4629,7 +5207,8 @@
     "position": 0.718346535,
     "negative": 1,
     "neutral": 3,
-    "positive": 7
+    "positive": 7,
+    "score": 0.5454545454545454
   },
   {
     "sequence": "1F45E",
@@ -4637,7 +5216,8 @@
     "position": 0.779457078,
     "negative": 1,
     "neutral": 3,
-    "positive": 7
+    "positive": 7,
+    "score": 0.5454545454545454
   },
   {
     "sequence": "1F691",
@@ -4645,7 +5225,8 @@
     "position": 0.758087751,
     "negative": 3,
     "neutral": 4,
-    "positive": 4
+    "positive": 4,
+    "score": 0.09090909090909091
   },
   {
     "sequence": "1F198",
@@ -4653,7 +5234,8 @@
     "position": 0.775131806,
     "negative": 4,
     "neutral": 2,
-    "positive": 5
+    "positive": 5,
+    "score": 0.09090909090909091
   },
   {
     "sequence": "1F45A",
@@ -4661,7 +5243,8 @@
     "position": 0.810043786,
     "negative": 0,
     "neutral": 3,
-    "positive": 8
+    "positive": 8,
+    "score": 0.7272727272727273
   },
   {
     "sequence": "1F68D",
@@ -4669,7 +5252,8 @@
     "position": 0.659558885,
     "negative": 4,
     "neutral": 2,
-    "positive": 5
+    "positive": 5,
+    "score": 0.09090909090909091
   },
   {
     "sequence": "25A1",
@@ -4677,7 +5261,8 @@
     "position": 0.673637431,
     "negative": 7,
     "neutral": 0,
-    "positive": 4
+    "positive": 4,
+    "score": -0.2727272727272727
   },
   {
     "sequence": "1F402",
@@ -4685,7 +5270,8 @@
     "position": 0.774388184,
     "negative": 1,
     "neutral": 7,
-    "positive": 3
+    "positive": 3,
+    "score": 0.18181818181818182
   },
   {
     "sequence": "1F6A3",
@@ -4693,7 +5279,8 @@
     "position": 0.712555862,
     "negative": 0,
     "neutral": 3,
-    "positive": 8
+    "positive": 8,
+    "score": 0.7272727272727273
   },
   {
     "sequence": "2733",
@@ -4701,7 +5288,8 @@
     "position": 0.37234627,
     "negative": 0,
     "neutral": 11,
-    "positive": 0
+    "positive": 0,
+    "score": 0
   },
   {
     "sequence": "1F3C9",
@@ -4709,7 +5297,8 @@
     "position": 0.837042609,
     "negative": 0,
     "neutral": 4,
-    "positive": 7
+    "positive": 7,
+    "score": 0.6363636363636364
   },
   {
     "sequence": "1F5FB",
@@ -4717,7 +5306,8 @@
     "position": 0.723455901,
     "negative": 0,
     "neutral": 3,
-    "positive": 8
+    "positive": 8,
+    "score": 0.7272727272727273
   },
   {
     "sequence": "1F400",
@@ -4725,7 +5315,8 @@
     "position": 0.701470653,
     "negative": 1,
     "neutral": 7,
-    "positive": 3
+    "positive": 3,
+    "score": 0.18181818181818182
   },
   {
     "sequence": "2566",
@@ -4733,7 +5324,8 @@
     "position": 0.22026307,
     "negative": 0,
     "neutral": 6,
-    "positive": 5
+    "positive": 5,
+    "score": 0.45454545454545453
   },
   {
     "sequence": "26FA",
@@ -4741,7 +5333,8 @@
     "position": 0.905848988,
     "negative": 1,
     "neutral": 2,
-    "positive": 7
+    "positive": 7,
+    "score": 0.6
   },
   {
     "sequence": "1F415",
@@ -4749,7 +5342,8 @@
     "position": 0.879333592,
     "negative": 1,
     "neutral": 5,
-    "positive": 4
+    "positive": 4,
+    "score": 0.3
   },
   {
     "sequence": "1F3C2",
@@ -4757,7 +5351,8 @@
     "position": 0.777003138,
     "negative": 1,
     "neutral": 3,
-    "positive": 6
+    "positive": 6,
+    "score": 0.5
   },
   {
     "sequence": "1F461",
@@ -4765,7 +5360,8 @@
     "position": 0.63543995,
     "negative": 1,
     "neutral": 3,
-    "positive": 6
+    "positive": 6,
+    "score": 0.5
   },
   {
     "sequence": "1F4FB",
@@ -4773,7 +5369,8 @@
     "position": 0.726200366,
     "negative": 1,
     "neutral": 4,
-    "positive": 5
+    "positive": 5,
+    "score": 0.4
   },
   {
     "sequence": "2712",
@@ -4781,7 +5378,8 @@
     "position": 0.543607437,
     "negative": 1,
     "neutral": 5,
-    "positive": 4
+    "positive": 4,
+    "score": 0.3
   },
   {
     "sequence": "1F330",
@@ -4789,7 +5387,8 @@
     "position": 0.786442145,
     "negative": 0,
     "neutral": 3,
-    "positive": 7
+    "positive": 7,
+    "score": 0.7
   },
   {
     "sequence": "1F3E2",
@@ -4797,7 +5396,8 @@
     "position": 0.542295544,
     "negative": 0,
     "neutral": 8,
-    "positive": 2
+    "positive": 2,
+    "score": 0.2
   },
   {
     "sequence": "1F392",
@@ -4805,7 +5405,8 @@
     "position": 0.614006372,
     "negative": 1,
     "neutral": 2,
-    "positive": 7
+    "positive": 7,
+    "score": 0.6
   },
   {
     "sequence": "2312",
@@ -4813,7 +5414,8 @@
     "position": 0.623939324,
     "negative": 0,
     "neutral": 3,
-    "positive": 7
+    "positive": 7,
+    "score": 0.7
   },
   {
     "sequence": "1F3EB",
@@ -4821,7 +5423,8 @@
     "position": 0.644209517,
     "negative": 6,
     "neutral": 1,
-    "positive": 3
+    "positive": 3,
+    "score": -0.3
   },
   {
     "sequence": "1F4F4",
@@ -4829,7 +5432,8 @@
     "position": 0.981898981,
     "negative": 1,
     "neutral": 0,
-    "positive": 9
+    "positive": 9,
+    "score": 0.8
   },
   {
     "sequence": "1F6A2",
@@ -4837,7 +5441,8 @@
     "position": 0.817914113,
     "negative": 3,
     "neutral": 1,
-    "positive": 6
+    "positive": 6,
+    "score": 0.3
   },
   {
     "sequence": "1F69A",
@@ -4845,7 +5450,8 @@
     "position": 0.479308081,
     "negative": 2,
     "neutral": 7,
-    "positive": 1
+    "positive": 1,
+    "score": -0.1
   },
   {
     "sequence": "1F409",
@@ -4853,7 +5459,8 @@
     "position": 0.628494919,
     "negative": 0,
     "neutral": 8,
-    "positive": 2
+    "positive": 2,
+    "score": 0.2
   },
   {
     "sequence": "2752",
@@ -4861,7 +5468,8 @@
     "position": 0.587413086,
     "negative": 0,
     "neutral": 7,
-    "positive": 3
+    "positive": 3,
+    "score": 0.3
   },
   {
     "sequence": "1F40A",
@@ -4869,7 +5477,8 @@
     "position": 0.84550756,
     "negative": 2,
     "neutral": 5,
-    "positive": 3
+    "positive": 3,
+    "score": 0.1
   },
   {
     "sequence": "1F514",
@@ -4877,7 +5486,8 @@
     "position": 0.713041475,
     "negative": 0,
     "neutral": 0,
-    "positive": 10
+    "positive": 10,
+    "score": 1
   },
   {
     "sequence": "25E2",
@@ -4885,7 +5495,8 @@
     "position": 0.571991872,
     "negative": 0,
     "neutral": 2,
-    "positive": 8
+    "positive": 8,
+    "score": 0.8
   },
   {
     "sequence": "1F3E5",
@@ -4893,7 +5504,8 @@
     "position": 0.648092966,
     "negative": 1,
     "neutral": 4,
-    "positive": 4
+    "positive": 4,
+    "score": 0.3333333333333333
   },
   {
     "sequence": "2754",
@@ -4901,7 +5513,8 @@
     "position": 0.787466861,
     "negative": 3,
     "neutral": 3,
-    "positive": 3
+    "positive": 3,
+    "score": 0
   },
   {
     "sequence": "1F696",
@@ -4909,7 +5522,8 @@
     "position": 0.800144753,
     "negative": 3,
     "neutral": 4,
-    "positive": 2
+    "positive": 2,
+    "score": -0.1111111111111111
   },
   {
     "sequence": "1F0CF",
@@ -4917,7 +5531,8 @@
     "position": 0.685606875,
     "negative": 3,
     "neutral": 2,
-    "positive": 4
+    "positive": 4,
+    "score": 0.1111111111111111
   },
   {
     "sequence": "25BC",
@@ -4925,7 +5540,8 @@
     "position": 0.656774297,
     "negative": 2,
     "neutral": 4,
-    "positive": 3
+    "positive": 3,
+    "score": 0.1111111111111111
   },
   {
     "sequence": "258C",
@@ -4933,7 +5549,8 @@
     "position": 0.420711618,
     "negative": 4,
     "neutral": 4,
-    "positive": 1
+    "positive": 1,
+    "score": -0.3333333333333333
   },
   {
     "sequence": "261B",
@@ -4941,7 +5558,8 @@
     "position": 0.553782742,
     "negative": 0,
     "neutral": 5,
-    "positive": 4
+    "positive": 4,
+    "score": 0.4444444444444444
   },
   {
     "sequence": "2729",
@@ -4949,7 +5567,8 @@
     "position": 0.265667997,
     "negative": 0,
     "neutral": 9,
-    "positive": 0
+    "positive": 0,
+    "score": 0
   },
   {
     "sequence": "1F492",
@@ -4957,7 +5576,8 @@
     "position": 0.79417208,
     "negative": 0,
     "neutral": 3,
-    "positive": 6
+    "positive": 6,
+    "score": 0.6666666666666666
   },
   {
     "sequence": "1F6A4",
@@ -4965,7 +5585,8 @@
     "position": 0.503972435,
     "negative": 0,
     "neutral": 5,
-    "positive": 4
+    "positive": 4,
+    "score": 0.4444444444444444
   },
   {
     "sequence": "1F410",
@@ -4973,7 +5594,8 @@
     "position": 0.720583133,
     "negative": 0,
     "neutral": 4,
-    "positive": 5
+    "positive": 5,
+    "score": 0.5555555555555556
   },
   {
     "sequence": "25A0",
@@ -4981,7 +5603,8 @@
     "position": 0.79044432,
     "negative": 5,
     "neutral": 2,
-    "positive": 2
+    "positive": 2,
+    "score": -0.3333333333333333
   },
   {
     "sequence": "1F51A",
@@ -4989,7 +5612,8 @@
     "position": 0.868645196,
     "negative": 1,
     "neutral": 3,
-    "positive": 5
+    "positive": 5,
+    "score": 0.4444444444444444
   },
   {
     "sequence": "1F3BB",
@@ -4997,7 +5621,8 @@
     "position": 0.720880053,
     "negative": 0,
     "neutral": 5,
-    "positive": 4
+    "positive": 4,
+    "score": 0.4444444444444444
   },
   {
     "sequence": "1F537",
@@ -5005,7 +5630,8 @@
     "position": 0.367845118,
     "negative": 0,
     "neutral": 7,
-    "positive": 2
+    "positive": 2,
+    "score": 0.2222222222222222
   },
   {
     "sequence": "1F6A6",
@@ -5013,7 +5639,8 @@
     "position": 0.454265022,
     "negative": 2,
     "neutral": 4,
-    "positive": 3
+    "positive": 3,
+    "score": 0.1111111111111111
   },
   {
     "sequence": "1F513",
@@ -5021,7 +5648,8 @@
     "position": 0.802890324,
     "negative": 3,
     "neutral": 2,
-    "positive": 4
+    "positive": 4,
+    "score": 0.1111111111111111
   },
   {
     "sequence": "1F3BD",
@@ -5029,7 +5657,8 @@
     "position": 0.903767713,
     "negative": 0,
     "neutral": 4,
-    "positive": 5
+    "positive": 5,
+    "score": 0.5555555555555556
   },
   {
     "sequence": "1F4C5",
@@ -5037,7 +5666,8 @@
     "position": 0.597376373,
     "negative": 2,
     "neutral": 3,
-    "positive": 4
+    "positive": 4,
+    "score": 0.2222222222222222
   },
   {
     "sequence": "1F3BA",
@@ -5045,7 +5675,8 @@
     "position": 0.646180394,
     "negative": 1,
     "neutral": 0,
-    "positive": 8
+    "positive": 8,
+    "score": 0.7777777777777778
   },
   {
     "sequence": "272F",
@@ -5053,7 +5684,8 @@
     "position": 0.32090504,
     "negative": 0,
     "neutral": 9,
-    "positive": 0
+    "positive": 0,
+    "score": 0
   },
   {
     "sequence": "1F348",
@@ -5061,7 +5693,8 @@
     "position": 0.520981407,
     "negative": 6,
     "neutral": 1,
-    "positive": 2
+    "positive": 2,
+    "score": -0.4444444444444444
   },
   {
     "sequence": "2709",
@@ -5069,7 +5702,8 @@
     "position": 0.44131007,
     "negative": 1,
     "neutral": 4,
-    "positive": 4
+    "positive": 4,
+    "score": 0.3333333333333333
   },
   {
     "sequence": "2563",
@@ -5077,7 +5711,8 @@
     "position": 0.641758242,
     "negative": 0,
     "neutral": 9,
-    "positive": 0
+    "positive": 0,
+    "score": 0
   },
   {
     "sequence": "25E4",
@@ -5085,7 +5720,8 @@
     "position": 0.669223855,
     "negative": 0,
     "neutral": 0,
-    "positive": 9
+    "positive": 9,
+    "score": 1
   },
   {
     "sequence": "25CB",
@@ -5093,7 +5729,8 @@
     "position": 0.625334477,
     "negative": 0,
     "neutral": 3,
-    "positive": 5
+    "positive": 5,
+    "score": 0.625
   },
   {
     "sequence": "1F37C",
@@ -5101,7 +5738,8 @@
     "position": 0.889794471,
     "negative": 1,
     "neutral": 1,
-    "positive": 6
+    "positive": 6,
+    "score": 0.625
   },
   {
     "sequence": "1F4C0",
@@ -5109,7 +5747,8 @@
     "position": 0.842924661,
     "negative": 1,
     "neutral": 5,
-    "positive": 2
+    "positive": 2,
+    "score": 0.125
   },
   {
     "sequence": "1F69B",
@@ -5117,7 +5756,8 @@
     "position": 0.552176238,
     "negative": 2,
     "neutral": 6,
-    "positive": 0
+    "positive": 0,
+    "score": -0.25
   },
   {
     "sequence": "1F4D3",
@@ -5125,7 +5765,8 @@
     "position": 0.835156432,
     "negative": 1,
     "neutral": 4,
-    "positive": 3
+    "positive": 3,
+    "score": 0.25
   },
   {
     "sequence": "2609",
@@ -5133,7 +5774,8 @@
     "position": 0.985925307,
     "negative": 0,
     "neutral": 6,
-    "positive": 2
+    "positive": 2,
+    "score": 0.25
   },
   {
     "sequence": "1F4B4",
@@ -5141,7 +5783,8 @@
     "position": 0.837157842,
     "negative": 3,
     "neutral": 4,
-    "positive": 1
+    "positive": 1,
+    "score": -0.25
   },
   {
     "sequence": "253C",
@@ -5149,7 +5792,8 @@
     "position": 0.594639298,
     "negative": 2,
     "neutral": 4,
-    "positive": 2
+    "positive": 2,
+    "score": 0
   },
   {
     "sequence": "1F403",
@@ -5157,7 +5801,8 @@
     "position": 0.82964401,
     "negative": 0,
     "neutral": 8,
-    "positive": 0
+    "positive": 0,
+    "score": 0
   },
   {
     "sequence": "27B0",
@@ -5165,7 +5810,8 @@
     "position": 0.255281448,
     "negative": 4,
     "neutral": 1,
-    "positive": 3
+    "positive": 3,
+    "score": -0.125
   },
   {
     "sequence": "1F50C",
@@ -5173,7 +5819,8 @@
     "position": 0.84383834,
     "negative": 3,
     "neutral": 3,
-    "positive": 2
+    "positive": 2,
+    "score": -0.125
   },
   {
     "sequence": "1F344",
@@ -5181,7 +5828,8 @@
     "position": 0.481955716,
     "negative": 2,
     "neutral": 4,
-    "positive": 2
+    "positive": 2,
+    "score": 0
   },
   {
     "sequence": "1F4D5",
@@ -5189,7 +5837,8 @@
     "position": 0.687815619,
     "negative": 1,
     "neutral": 4,
-    "positive": 3
+    "positive": 3,
+    "score": 0.25
   },
   {
     "sequence": "1F4E3",
@@ -5197,7 +5846,8 @@
     "position": 0.665290609,
     "negative": 1,
     "neutral": 2,
-    "positive": 5
+    "positive": 5,
+    "score": 0.5
   },
   {
     "sequence": "1F693",
@@ -5205,7 +5855,8 @@
     "position": 0.654503222,
     "negative": 0,
     "neutral": 5,
-    "positive": 3
+    "positive": 3,
+    "score": 0.375
   },
   {
     "sequence": "1F417",
@@ -5213,7 +5864,8 @@
     "position": 0.756674318,
     "negative": 0,
     "neutral": 3,
-    "positive": 5
+    "positive": 5,
+    "score": 0.625
   },
   {
     "sequence": "21AA",
@@ -5221,7 +5873,8 @@
     "position": 0.726671282,
     "negative": 0,
     "neutral": 7,
-    "positive": 1
+    "positive": 1,
+    "score": 0.125
   },
   {
     "sequence": "26F3",
@@ -5229,7 +5882,8 @@
     "position": 0.659686501,
     "negative": 0,
     "neutral": 1,
-    "positive": 7
+    "positive": 7,
+    "score": 0.875
   },
   {
     "sequence": "253B",
@@ -5237,7 +5891,8 @@
     "position": 0.436070741,
     "negative": 6,
     "neutral": 0,
-    "positive": 2
+    "positive": 2,
+    "score": -0.5
   },
   {
     "sequence": "251B",
@@ -5245,7 +5900,8 @@
     "position": 0.711630126,
     "negative": 0,
     "neutral": 2,
-    "positive": 6
+    "positive": 6,
+    "score": 0.75
   },
   {
     "sequence": "2503",
@@ -5253,7 +5909,8 @@
     "position": 0.495888704,
     "negative": 0,
     "neutral": 4,
-    "positive": 4
+    "positive": 4,
+    "score": 0.5
   },
   {
     "sequence": "1F471",
@@ -5261,7 +5918,8 @@
     "position": 0.584040891,
     "negative": 1,
     "neutral": 4,
-    "positive": 2
+    "positive": 2,
+    "score": 0.14285714285714285
   },
   {
     "sequence": "23F3",
@@ -5269,7 +5927,8 @@
     "position": 0.829006815,
     "negative": 3,
     "neutral": 1,
-    "positive": 3
+    "positive": 3,
+    "score": 0
   },
   {
     "sequence": "1F4BA",
@@ -5277,7 +5936,8 @@
     "position": 0.499522738,
     "negative": 1,
     "neutral": 3,
-    "positive": 3
+    "positive": 3,
+    "score": 0.2857142857142857
   },
   {
     "sequence": "1F3C7",
@@ -5285,7 +5945,8 @@
     "position": 0.829351657,
     "negative": 3,
     "neutral": 2,
-    "positive": 2
+    "positive": 2,
+    "score": -0.14285714285714285
   },
   {
     "sequence": "263B",
@@ -5293,7 +5954,8 @@
     "position": 0.808078576,
     "negative": 1,
     "neutral": 3,
-    "positive": 3
+    "positive": 3,
+    "score": 0.2857142857142857
   },
   {
     "sequence": "1F4DE",
@@ -5301,7 +5963,8 @@
     "position": 0.639663641,
     "negative": 0,
     "neutral": 3,
-    "positive": 4
+    "positive": 4,
+    "score": 0.5714285714285714
   },
   {
     "sequence": "24B6",
@@ -5309,7 +5972,8 @@
     "position": 0.467453036,
     "negative": 2,
     "neutral": 4,
-    "positive": 1
+    "positive": 1,
+    "score": -0.14285714285714285
   },
   {
     "sequence": "1F309",
@@ -5317,7 +5981,8 @@
     "position": 0.848338345,
     "negative": 0,
     "neutral": 2,
-    "positive": 5
+    "positive": 5,
+    "score": 0.7142857142857143
   },
   {
     "sequence": "1F6A9",
@@ -5325,7 +5990,8 @@
     "position": 0.14668319,
     "negative": 3,
     "neutral": 3,
-    "positive": 1
+    "positive": 1,
+    "score": -0.2857142857142857
   },
   {
     "sequence": "270E",
@@ -5333,7 +5999,8 @@
     "position": 0.547314568,
     "negative": 0,
     "neutral": 2,
-    "positive": 5
+    "positive": 5,
+    "score": 0.7142857142857143
   },
   {
     "sequence": "1F4C3",
@@ -5341,7 +6008,8 @@
     "position": 0.75418917,
     "negative": 0,
     "neutral": 3,
-    "positive": 4
+    "positive": 4,
+    "score": 0.5714285714285714
   },
   {
     "sequence": "1F3E8",
@@ -5349,7 +6017,8 @@
     "position": 0.803363124,
     "negative": 0,
     "neutral": 5,
-    "positive": 2
+    "positive": 2,
+    "score": 0.2857142857142857
   },
   {
     "sequence": "1F4CC",
@@ -5357,7 +6026,8 @@
     "position": 0.799054518,
     "negative": 5,
     "neutral": 1,
-    "positive": 1
+    "positive": 1,
+    "score": -0.5714285714285714
   },
   {
     "sequence": "264E",
@@ -5365,7 +6035,8 @@
     "position": 0.85514993,
     "negative": 2,
     "neutral": 4,
-    "positive": 1
+    "positive": 1,
+    "score": -0.14285714285714285
   },
   {
     "sequence": "1F4B7",
@@ -5373,7 +6044,8 @@
     "position": 0.573124902,
     "negative": 0,
     "neutral": 3,
-    "positive": 4
+    "positive": 4,
+    "score": 0.5714285714285714
   },
   {
     "sequence": "1F684",
@@ -5381,7 +6053,8 @@
     "position": 0.699813945,
     "negative": 0,
     "neutral": 2,
-    "positive": 5
+    "positive": 5,
+    "score": 0.7142857142857143
   },
   {
     "sequence": "25B2",
@@ -5389,7 +6062,8 @@
     "position": 0.33783723,
     "negative": 0,
     "neutral": 2,
-    "positive": 5
+    "positive": 5,
+    "score": 0.7142857142857143
   },
   {
     "sequence": "26F5",
@@ -5397,7 +6071,8 @@
     "position": 0.323527212,
     "negative": 0,
     "neutral": 2,
-    "positive": 5
+    "positive": 5,
+    "score": 0.7142857142857143
   },
   {
     "sequence": "1F538",
@@ -5405,7 +6080,8 @@
     "position": 0.17210479,
     "negative": 0,
     "neutral": 5,
-    "positive": 2
+    "positive": 2,
+    "score": 0.2857142857142857
   },
   {
     "sequence": "231B",
@@ -5413,7 +6089,8 @@
     "position": 0.796787872,
     "negative": 2,
     "neutral": 2,
-    "positive": 3
+    "positive": 3,
+    "score": 0.14285714285714285
   },
   {
     "sequence": "1F69C",
@@ -5421,7 +6098,8 @@
     "position": 0.76727505,
     "negative": 0,
     "neutral": 0,
-    "positive": 7
+    "positive": 7,
+    "score": 1
   },
   {
     "sequence": "1F406",
@@ -5429,7 +6107,8 @@
     "position": 0.550090954,
     "negative": 0,
     "neutral": 4,
-    "positive": 3
+    "positive": 3,
+    "score": 0.42857142857142855
   },
   {
     "sequence": "1F452",
@@ -5437,7 +6116,8 @@
     "position": 0.843648743,
     "negative": 1,
     "neutral": 3,
-    "positive": 3
+    "positive": 3,
+    "score": 0.2857142857142857
   },
   {
     "sequence": "2755",
@@ -5445,7 +6125,8 @@
     "position": 0.86202303,
     "negative": 1,
     "neutral": 3,
-    "positive": 3
+    "positive": 3,
+    "score": 0.2857142857142857
   },
   {
     "sequence": "1F51B",
@@ -5453,7 +6134,8 @@
     "position": 0.474006336,
     "negative": 1,
     "neutral": 1,
-    "positive": 5
+    "positive": 5,
+    "score": 0.5714285714285714
   },
   {
     "sequence": "2662",
@@ -5461,7 +6143,8 @@
     "position": 0.868165215,
     "negative": 0,
     "neutral": 4,
-    "positive": 3
+    "positive": 3,
+    "score": 0.42857142857142855
   },
   {
     "sequence": "1F1F2",
@@ -5469,7 +6152,8 @@
     "position": 0.786773623,
     "negative": 0,
     "neutral": 3,
-    "positive": 4
+    "positive": 4,
+    "score": 0.5714285714285714
   },
   {
     "sequence": "2745",
@@ -5477,7 +6161,8 @@
     "position": 0.247154472,
     "negative": 0,
     "neutral": 1,
-    "positive": 6
+    "positive": 6,
+    "score": 0.8571428571428571
   },
   {
     "sequence": "1F45D",
@@ -5485,7 +6170,8 @@
     "position": 0.611228018,
     "negative": 1,
     "neutral": 1,
-    "positive": 4
+    "positive": 4,
+    "score": 0.5
   },
   {
     "sequence": "271E",
@@ -5493,7 +6179,8 @@
     "position": 0.509389671,
     "negative": 0,
     "neutral": 3,
-    "positive": 3
+    "positive": 3,
+    "score": 0.5
   },
   {
     "sequence": "25E1",
@@ -5501,7 +6188,8 @@
     "position": 0.946756676,
     "negative": 0,
     "neutral": 4,
-    "positive": 2
+    "positive": 2,
+    "score": 0.3333333333333333
   },
   {
     "sequence": "1F38B",
@@ -5509,7 +6197,8 @@
     "position": 0.785515587,
     "negative": 1,
     "neutral": 0,
-    "positive": 5
+    "positive": 5,
+    "score": 0.6666666666666666
   },
   {
     "sequence": "1F465",
@@ -5517,7 +6206,8 @@
     "position": 0.83792517,
     "negative": 1,
     "neutral": 2,
-    "positive": 3
+    "positive": 3,
+    "score": 0.3333333333333333
   },
   {
     "sequence": "1F4F5",
@@ -5525,7 +6215,8 @@
     "position": 0.794071373,
     "negative": 1,
     "neutral": 3,
-    "positive": 2
+    "positive": 2,
+    "score": 0.16666666666666666
   },
   {
     "sequence": "1F421",
@@ -5533,7 +6224,8 @@
     "position": 0.867288557,
     "negative": 0,
     "neutral": 4,
-    "positive": 2
+    "positive": 2,
+    "score": 0.3333333333333333
   },
   {
     "sequence": "25C6",
@@ -5541,7 +6233,8 @@
     "position": 0.602165081,
     "negative": 0,
     "neutral": 1,
-    "positive": 5
+    "positive": 5,
+    "score": 0.8333333333333334
   },
   {
     "sequence": "1F3EF",
@@ -5549,7 +6242,8 @@
     "position": 0.529919889,
     "negative": 0,
     "neutral": 5,
-    "positive": 1
+    "positive": 1,
+    "score": 0.16666666666666666
   },
   {
     "sequence": "2602",
@@ -5557,7 +6251,8 @@
     "position": 0.453390203,
     "negative": 1,
     "neutral": 4,
-    "positive": 1
+    "positive": 1,
+    "score": 0
   },
   {
     "sequence": "1F52D",
@@ -5565,7 +6260,8 @@
     "position": 0.715984026,
     "negative": 0,
     "neutral": 3,
-    "positive": 3
+    "positive": 3,
+    "score": 0.5
   },
   {
     "sequence": "1F3AA",
@@ -5573,7 +6269,8 @@
     "position": 0.607881289,
     "negative": 0,
     "neutral": 4,
-    "positive": 2
+    "positive": 2,
+    "score": 0.3333333333333333
   },
   {
     "sequence": "1F41C",
@@ -5581,7 +6278,8 @@
     "position": 0.879901961,
     "negative": 0,
     "neutral": 2,
-    "positive": 4
+    "positive": 4,
+    "score": 0.6666666666666666
   },
   {
     "sequence": "264C",
@@ -5589,7 +6287,8 @@
     "position": 0.790409536,
     "negative": 0,
     "neutral": 1,
-    "positive": 5
+    "positive": 5,
+    "score": 0.8333333333333334
   },
   {
     "sequence": "2610",
@@ -5597,7 +6296,8 @@
     "position": 0.538095238,
     "negative": 6,
     "neutral": 0,
-    "positive": 0
+    "positive": 0,
+    "score": -1
   },
   {
     "sequence": "1F477",
@@ -5605,7 +6305,8 @@
     "position": 0.739199448,
     "negative": 1,
     "neutral": 2,
-    "positive": 3
+    "positive": 3,
+    "score": 0.3333333333333333
   },
   {
     "sequence": "21B3",
@@ -5613,7 +6314,8 @@
     "position": 0.346428571,
     "negative": 0,
     "neutral": 6,
-    "positive": 0
+    "positive": 0,
+    "score": 0
   },
   {
     "sequence": "1F508",
@@ -5621,7 +6323,8 @@
     "position": 0.635444115,
     "negative": 0,
     "neutral": 4,
-    "positive": 2
+    "positive": 2,
+    "score": 0.3333333333333333
   },
   {
     "sequence": "1F4C4",
@@ -5629,7 +6332,8 @@
     "position": 0.624139531,
     "negative": 0,
     "neutral": 0,
-    "positive": 6
+    "positive": 6,
+    "score": 1
   },
   {
     "sequence": "1F4CD",
@@ -5637,7 +6341,8 @@
     "position": 0.48869302,
     "negative": 1,
     "neutral": 3,
-    "positive": 2
+    "positive": 2,
+    "score": 0.16666666666666666
   },
   {
     "sequence": "1F690",
@@ -5645,7 +6350,8 @@
     "position": 0.77642636,
     "negative": 0,
     "neutral": 1,
-    "positive": 5
+    "positive": 5,
+    "score": 0.8333333333333334
   },
   {
     "sequence": "1F694",
@@ -5653,7 +6359,8 @@
     "position": 0.521943521,
     "negative": 1,
     "neutral": 4,
-    "positive": 1
+    "positive": 1,
+    "score": 0
   },
   {
     "sequence": "1F30B",
@@ -5661,7 +6368,8 @@
     "position": 0.379680055,
     "negative": 0,
     "neutral": 2,
-    "positive": 4
+    "positive": 4,
+    "score": 0.6666666666666666
   },
   {
     "sequence": "1F4E1",
@@ -5669,7 +6377,8 @@
     "position": 0.553891601,
     "negative": 1,
     "neutral": 2,
-    "positive": 3
+    "positive": 3,
+    "score": 0.3333333333333333
   },
   {
     "sequence": "23E9",
@@ -5677,7 +6386,8 @@
     "position": 0.7317139,
     "negative": 0,
     "neutral": 5,
-    "positive": 1
+    "positive": 1,
+    "score": 0.16666666666666666
   },
   {
     "sequence": "1F6B3",
@@ -5685,7 +6395,8 @@
     "position": 0.102993951,
     "negative": 0,
     "neutral": 0,
-    "positive": 6
+    "positive": 6,
+    "score": 1
   },
   {
     "sequence": "2718",
@@ -5693,7 +6404,8 @@
     "position": 0.538602654,
     "negative": 0,
     "neutral": 1,
-    "positive": 5
+    "positive": 5,
+    "score": 0.8333333333333334
   },
   {
     "sequence": "06DE",
@@ -5701,7 +6413,8 @@
     "position": 0.471786165,
     "negative": 0,
     "neutral": 6,
-    "positive": 0
+    "positive": 0,
+    "score": 0
   },
   {
     "sequence": "263E",
@@ -5709,7 +6422,8 @@
     "position": 0.452907711,
     "negative": 0,
     "neutral": 6,
-    "positive": 0
+    "positive": 0,
+    "score": 0
   },
   {
     "sequence": "1F170",
@@ -5717,7 +6431,8 @@
     "position": 0.311138998,
     "negative": 1,
     "neutral": 2,
-    "positive": 3
+    "positive": 3,
+    "score": 0.3333333333333333
   },
   {
     "sequence": "1F4E5",
@@ -5725,7 +6440,8 @@
     "position": 0.981884058,
     "negative": 0,
     "neutral": 6,
-    "positive": 0
+    "positive": 0,
+    "score": 0
   },
   {
     "sequence": "1F1FC",
@@ -5733,7 +6449,8 @@
     "position": 0.734391905,
     "negative": 0,
     "neutral": 3,
-    "positive": 3
+    "positive": 3,
+    "score": 0.5
   },
   {
     "sequence": "2513",
@@ -5741,7 +6458,8 @@
     "position": 0.51522533,
     "negative": 0,
     "neutral": 2,
-    "positive": 4
+    "positive": 4,
+    "score": 0.6666666666666666
   },
   {
     "sequence": "2523",
@@ -5749,7 +6467,8 @@
     "position": 0.487486157,
     "negative": 0,
     "neutral": 2,
-    "positive": 4
+    "positive": 4,
+    "score": 0.6666666666666666
   },
   {
     "sequence": "24C1",
@@ -5757,7 +6476,8 @@
     "position": 0.726851852,
     "negative": 0,
     "neutral": 3,
-    "positive": 3
+    "positive": 3,
+    "score": 0.5
   },
   {
     "sequence": "24BA",
@@ -5765,7 +6485,8 @@
     "position": 0.814814815,
     "negative": 0,
     "neutral": 3,
-    "positive": 3
+    "positive": 3,
+    "score": 0.5
   },
   {
     "sequence": "1F526",
@@ -5773,7 +6494,8 @@
     "position": 0.852648347,
     "negative": 0,
     "neutral": 5,
-    "positive": 0
+    "positive": 0,
+    "score": 0
   },
   {
     "sequence": "1F464",
@@ -5781,7 +6503,8 @@
     "position": 0.785820605,
     "negative": 0,
     "neutral": 1,
-    "positive": 4
+    "positive": 4,
+    "score": 0.8
   },
   {
     "sequence": "1F681",
@@ -5789,7 +6512,8 @@
     "position": 0.509988852,
     "negative": 0,
     "neutral": 4,
-    "positive": 1
+    "positive": 1,
+    "score": 0.2
   },
   {
     "sequence": "1F3A0",
@@ -5797,7 +6521,8 @@
     "position": 0.57433687,
     "negative": 0,
     "neutral": 2,
-    "positive": 3
+    "positive": 3,
+    "score": 0.6
   },
   {
     "sequence": "1F401",
@@ -5805,7 +6530,8 @@
     "position": 0.418555982,
     "negative": 2,
     "neutral": 3,
-    "positive": 0
+    "positive": 0,
+    "score": -0.4
   },
   {
     "sequence": "1F4D7",
@@ -5813,7 +6539,8 @@
     "position": 0.78915959,
     "negative": 1,
     "neutral": 2,
-    "positive": 2
+    "positive": 2,
+    "score": 0.2
   },
   {
     "sequence": "2510",
@@ -5821,7 +6548,8 @@
     "position": 0.770866381,
     "negative": 2,
     "neutral": 2,
-    "positive": 1
+    "positive": 1,
+    "score": -0.2
   },
   {
     "sequence": "262E",
@@ -5829,7 +6557,8 @@
     "position": 0.75037594,
     "negative": 2,
     "neutral": 1,
-    "positive": 2
+    "positive": 2,
+    "score": 0
   },
   {
     "sequence": "2642",
@@ -5837,7 +6566,8 @@
     "position": 0.580233775,
     "negative": 0,
     "neutral": 4,
-    "positive": 1
+    "positive": 1,
+    "score": 0.2
   },
   {
     "sequence": "25DE",
@@ -5845,7 +6575,8 @@
     "position": 0.722789157,
     "negative": 1,
     "neutral": 3,
-    "positive": 1
+    "positive": 1,
+    "score": 0
   },
   {
     "sequence": "1F4EF",
@@ -5853,7 +6584,8 @@
     "position": 0.974048452,
     "negative": 1,
     "neutral": 4,
-    "positive": 0
+    "positive": 0,
+    "score": -0.2
   },
   {
     "sequence": "1F529",
@@ -5861,7 +6593,8 @@
     "position": 0.672722386,
     "negative": 1,
     "neutral": 2,
-    "positive": 2
+    "positive": 2,
+    "score": 0.2
   },
   {
     "sequence": "1F462",
@@ -5869,7 +6602,8 @@
     "position": 0.994117647,
     "negative": 0,
     "neutral": 1,
-    "positive": 4
+    "positive": 4,
+    "score": 0.8
   },
   {
     "sequence": "25C2",
@@ -5877,7 +6611,8 @@
     "position": 0.198500589,
     "negative": 0,
     "neutral": 3,
-    "positive": 2
+    "positive": 2,
+    "score": 0.4
   },
   {
     "sequence": "1F4F0",
@@ -5885,7 +6620,8 @@
     "position": 0.860149569,
     "negative": 1,
     "neutral": 1,
-    "positive": 3
+    "positive": 3,
+    "score": 0.4
   },
   {
     "sequence": "1F4F6",
@@ -5893,7 +6629,8 @@
     "position": 0.930492899,
     "negative": 0,
     "neutral": 3,
-    "positive": 2
+    "positive": 2,
+    "score": 0.4
   },
   {
     "sequence": "1F6A5",
@@ -5901,7 +6638,8 @@
     "position": 0.723893805,
     "negative": 1,
     "neutral": 3,
-    "positive": 1
+    "positive": 1,
+    "score": 0
   },
   {
     "sequence": "1F304",
@@ -5909,7 +6647,8 @@
     "position": 0.285583654,
     "negative": 0,
     "neutral": 4,
-    "positive": 1
+    "positive": 1,
+    "score": 0.2
   },
   {
     "sequence": "1F5FE",
@@ -5917,7 +6656,8 @@
     "position": 0.738585725,
     "negative": 0,
     "neutral": 3,
-    "positive": 2
+    "positive": 2,
+    "score": 0.4
   },
   {
     "sequence": "1F536",
@@ -5925,7 +6665,8 @@
     "position": 0.786004057,
     "negative": 0,
     "neutral": 3,
-    "positive": 2
+    "positive": 2,
+    "score": 0.4
   },
   {
     "sequence": "1F3E4",
@@ -5933,7 +6674,8 @@
     "position": 0.272575758,
     "negative": 0,
     "neutral": 3,
-    "positive": 2
+    "positive": 2,
+    "score": 0.4
   },
   {
     "sequence": "1F3A9",
@@ -5941,7 +6683,8 @@
     "position": 0.58647571,
     "negative": 0,
     "neutral": 3,
-    "positive": 2
+    "positive": 2,
+    "score": 0.4
   },
   {
     "sequence": "24C2",
@@ -5949,7 +6692,8 @@
     "position": 0.765244502,
     "negative": 1,
     "neutral": 1,
-    "positive": 3
+    "positive": 3,
+    "score": 0.4
   },
   {
     "sequence": "1F527",
@@ -5957,7 +6701,8 @@
     "position": 0.677226399,
     "negative": 4,
     "neutral": 0,
-    "positive": 1
+    "positive": 1,
+    "score": -0.6
   },
   {
     "sequence": "1F405",
@@ -5965,7 +6710,8 @@
     "position": 0.818550107,
     "negative": 0,
     "neutral": 4,
-    "positive": 1
+    "positive": 1,
+    "score": 0.2
   },
   {
     "sequence": "266E",
@@ -5973,7 +6719,8 @@
     "position": 0.936640494,
     "negative": 0,
     "neutral": 4,
-    "positive": 1
+    "positive": 1,
+    "score": 0.2
   },
   {
     "sequence": "1F17E",
@@ -5981,7 +6728,8 @@
     "position": 0.977468672,
     "negative": 2,
     "neutral": 2,
-    "positive": 1
+    "positive": 1,
+    "score": -0.2
   },
   {
     "sequence": "1F504",
@@ -5989,7 +6737,8 @@
     "position": 0.971014493,
     "negative": 0,
     "neutral": 5,
-    "positive": 0
+    "positive": 0,
+    "score": 0
   },
   {
     "sequence": "2604",
@@ -5997,7 +6746,8 @@
     "position": 0.435373547,
     "negative": 0,
     "neutral": 5,
-    "positive": 0
+    "positive": 0,
+    "score": 0
   },
   {
     "sequence": "2628",
@@ -6005,7 +6755,8 @@
     "position": 0.457692308,
     "negative": 0,
     "neutral": 5,
-    "positive": 0
+    "positive": 0,
+    "score": 0
   },
   {
     "sequence": "1F4E6",
@@ -6013,7 +6764,8 @@
     "position": 0.508942142,
     "negative": 0,
     "neutral": 3,
-    "positive": 1
+    "positive": 1,
+    "score": 0.25
   },
   {
     "sequence": "1F68A",
@@ -6021,7 +6773,8 @@
     "position": 0.412291392,
     "negative": 1,
     "neutral": 1,
-    "positive": 2
+    "positive": 2,
+    "score": 0.25
   },
   {
     "sequence": "1F532",
@@ -6029,7 +6782,8 @@
     "position": 0.665449309,
     "negative": 0,
     "neutral": 1,
-    "positive": 3
+    "positive": 3,
+    "score": 0.75
   },
   {
     "sequence": "1F501",
@@ -6037,7 +6791,8 @@
     "position": 0.570472495,
     "negative": 1,
     "neutral": 2,
-    "positive": 1
+    "positive": 1,
+    "score": 0
   },
   {
     "sequence": "25B3",
@@ -6045,7 +6800,8 @@
     "position": 0.595601141,
     "negative": 0,
     "neutral": 3,
-    "positive": 1
+    "positive": 1,
+    "score": 0.25
   },
   {
     "sequence": "1F4C6",
@@ -6053,7 +6809,8 @@
     "position": 0.839991723,
     "negative": 0,
     "neutral": 0,
-    "positive": 4
+    "positive": 4,
+    "score": 1
   },
   {
     "sequence": "275B",
@@ -6061,7 +6818,8 @@
     "position": 0.735294118,
     "negative": 0,
     "neutral": 2,
-    "positive": 2
+    "positive": 2,
+    "score": 0.5
   },
   {
     "sequence": "1F4C9",
@@ -6069,7 +6827,8 @@
     "position": 0.726505602,
     "negative": 0,
     "neutral": 2,
-    "positive": 2
+    "positive": 2,
+    "score": 0.5
   },
   {
     "sequence": "25B5",
@@ -6077,7 +6836,8 @@
     "position": 0.012558719,
     "negative": 0,
     "neutral": 2,
-    "positive": 2
+    "positive": 2,
+    "score": 0.5
   },
   {
     "sequence": "1F50E",
@@ -6085,7 +6845,8 @@
     "position": 0.333026114,
     "negative": 0,
     "neutral": 1,
-    "positive": 3
+    "positive": 3,
+    "score": 0.75
   },
   {
     "sequence": "261C",
@@ -6093,7 +6854,8 @@
     "position": 0.95068438,
     "negative": 0,
     "neutral": 3,
-    "positive": 1
+    "positive": 1,
+    "score": 0.25
   },
   {
     "sequence": "1F1EF",
@@ -6101,7 +6863,8 @@
     "position": 0.598500468,
     "negative": 0,
     "neutral": 2,
-    "positive": 2
+    "positive": 2,
+    "score": 0.5
   },
   {
     "sequence": "1F1F5",
@@ -6109,7 +6872,8 @@
     "position": 0.60602405,
     "negative": 0,
     "neutral": 2,
-    "positive": 2
+    "positive": 2,
+    "score": 0.5
   },
   {
     "sequence": "1F4D8",
@@ -6117,7 +6881,8 @@
     "position": 0.729794868,
     "negative": 1,
     "neutral": 1,
-    "positive": 2
+    "positive": 2,
+    "score": 0.25
   },
   {
     "sequence": "2721",
@@ -6125,7 +6890,8 @@
     "position": 0.542307692,
     "negative": 0,
     "neutral": 4,
-    "positive": 0
+    "positive": 0,
+    "score": 0
   },
   {
     "sequence": "24D4",
@@ -6133,7 +6899,8 @@
     "position": 0.423106061,
     "negative": 0,
     "neutral": 1,
-    "positive": 3
+    "positive": 3,
+    "score": 0.75
   },
   {
     "sequence": "1F511",
@@ -6141,7 +6908,8 @@
     "position": 0.712219599,
     "negative": 1,
     "neutral": 1,
-    "positive": 2
+    "positive": 2,
+    "score": 0.25
   },
   {
     "sequence": "1F503",
@@ -6149,7 +6917,8 @@
     "position": 0.480569642,
     "negative": 1,
     "neutral": 2,
-    "positive": 1
+    "positive": 1,
+    "score": 0
   },
   {
     "sequence": "1F443",
@@ -6157,7 +6926,8 @@
     "position": 0.617338955,
     "negative": 2,
     "neutral": 0,
-    "positive": 2
+    "positive": 2,
+    "score": 0
   },
   {
     "sequence": "2B55",
@@ -6165,7 +6935,8 @@
     "position": 0.521859186,
     "negative": 0,
     "neutral": 2,
-    "positive": 2
+    "positive": 2,
+    "score": 0.5
   },
   {
     "sequence": "1F518",
@@ -6173,7 +6944,8 @@
     "position": 0.823106247,
     "negative": 0,
     "neutral": 3,
-    "positive": 1
+    "positive": 1,
+    "score": 0.25
   },
   {
     "sequence": "24D2",
@@ -6181,7 +6953,8 @@
     "position": 0.078409091,
     "negative": 2,
     "neutral": 0,
-    "positive": 2
+    "positive": 2,
+    "score": 0
   },
   {
     "sequence": "1F6AD",
@@ -6189,7 +6962,8 @@
     "position": 0.691042031,
     "negative": 0,
     "neutral": 0,
-    "positive": 4
+    "positive": 4,
+    "score": 1
   },
   {
     "sequence": "1F689",
@@ -6197,7 +6971,8 @@
     "position": 0.517599805,
     "negative": 0,
     "neutral": 1,
-    "positive": 3
+    "positive": 3,
+    "score": 0.75
   },
   {
     "sequence": "1F6AA",
@@ -6205,7 +6980,8 @@
     "position": 0.459991145,
     "negative": 0,
     "neutral": 1,
-    "positive": 3
+    "positive": 3,
+    "score": 0.75
   },
   {
     "sequence": "27B3",
@@ -6213,7 +6989,8 @@
     "position": 0.689189189,
     "negative": 0,
     "neutral": 2,
-    "positive": 2
+    "positive": 2,
+    "score": 0.5
   },
   {
     "sequence": "1F683",
@@ -6221,7 +6998,8 @@
     "position": 0.867813709,
     "negative": 0,
     "neutral": 1,
-    "positive": 3
+    "positive": 3,
+    "score": 0.75
   },
   {
     "sequence": "252F",
@@ -6229,7 +7007,8 @@
     "position": 0.588235294,
     "negative": 2,
     "neutral": 2,
-    "positive": 0
+    "positive": 0,
+    "score": -0.5
   },
   {
     "sequence": "1F3EC",
@@ -6237,7 +7016,8 @@
     "position": 0.772435897,
     "negative": 0,
     "neutral": 4,
-    "positive": 0
+    "positive": 0,
+    "score": 0
   },
   {
     "sequence": "263D",
@@ -6245,7 +7025,8 @@
     "position": 0.827205882,
     "negative": 0,
     "neutral": 4,
-    "positive": 0
+    "positive": 0,
+    "score": 0
   },
   {
     "sequence": "1F199",
@@ -6253,7 +7034,8 @@
     "position": 0.459136213,
     "negative": 0,
     "neutral": 2,
-    "positive": 2
+    "positive": 2,
+    "score": 0.5
   },
   {
     "sequence": "1F196",
@@ -6261,7 +7043,8 @@
     "position": 0.32767456,
     "negative": 1,
     "neutral": 1,
-    "positive": 2
+    "positive": 2,
+    "score": 0.25
   },
   {
     "sequence": "262A",
@@ -6269,7 +7052,8 @@
     "position": 0.5,
     "negative": 0,
     "neutral": 4,
-    "positive": 0
+    "positive": 0,
+    "score": 0
   },
   {
     "sequence": "2517",
@@ -6277,7 +7061,8 @@
     "position": 0.70743831,
     "negative": 0,
     "neutral": 0,
-    "positive": 4
+    "positive": 4,
+    "score": 1
   },
   {
     "sequence": "1F6AE",
@@ -6285,7 +7070,8 @@
     "position": 0.705415215,
     "negative": 2,
     "neutral": 0,
-    "positive": 2
+    "positive": 2,
+    "score": 0
   },
   {
     "sequence": "252B",
@@ -6293,7 +7079,8 @@
     "position": 0.546428571,
     "negative": 0,
     "neutral": 4,
-    "positive": 0
+    "positive": 0,
+    "score": 0
   },
   {
     "sequence": "24C4",
@@ -6301,7 +7088,8 @@
     "position": 0.6875,
     "negative": 0,
     "neutral": 2,
-    "positive": 2
+    "positive": 2,
+    "score": 0.5
   },
   {
     "sequence": "2747",
@@ -6309,7 +7097,8 @@
     "position": 0.906565657,
     "negative": 0,
     "neutral": 1,
-    "positive": 2
+    "positive": 2,
+    "score": 0.6666666666666666
   },
   {
     "sequence": "2734",
@@ -6317,7 +7106,8 @@
     "position": 0.425259601,
     "negative": 0,
     "neutral": 1,
-    "positive": 2
+    "positive": 2,
+    "score": 0.6666666666666666
   },
   {
     "sequence": "250C",
@@ -6325,7 +7115,8 @@
     "position": 1,
     "negative": 1,
     "neutral": 1,
-    "positive": 1
+    "positive": 1,
+    "score": 0
   },
   {
     "sequence": "260A",
@@ -6333,7 +7124,8 @@
     "position": 0.627212773,
     "negative": 0,
     "neutral": 0,
-    "positive": 3
+    "positive": 3,
+    "score": 1
   },
   {
     "sequence": "1F515",
@@ -6341,7 +7133,8 @@
     "position": 0.663273811,
     "negative": 2,
     "neutral": 0,
-    "positive": 1
+    "positive": 1,
+    "score": -0.3333333333333333
   },
   {
     "sequence": "2B1B",
@@ -6349,7 +7142,8 @@
     "position": 0.93331136,
     "negative": 2,
     "neutral": 0,
-    "positive": 1
+    "positive": 1,
+    "score": -0.3333333333333333
   },
   {
     "sequence": "275D",
@@ -6357,7 +7151,8 @@
     "position": 0.012385762,
     "negative": 0,
     "neutral": 3,
-    "positive": 0
+    "positive": 0,
+    "score": 0
   },
   {
     "sequence": "275E",
@@ -6365,7 +7160,8 @@
     "position": 0.348845599,
     "negative": 0,
     "neutral": 3,
-    "positive": 0
+    "positive": 0,
+    "score": 0
   },
   {
     "sequence": "1F69E",
@@ -6373,7 +7169,8 @@
     "position": 0.401392441,
     "negative": 0,
     "neutral": 1,
-    "positive": 2
+    "positive": 2,
+    "score": 0.6666666666666666
   },
   {
     "sequence": "1F376",
@@ -6381,7 +7178,8 @@
     "position": 0.670454148,
     "negative": 0,
     "neutral": 1,
-    "positive": 2
+    "positive": 2,
+    "score": 0.6666666666666666
   },
   {
     "sequence": "1F310",
@@ -6389,7 +7187,8 @@
     "position": 0.661697723,
     "negative": 0,
     "neutral": 1,
-    "positive": 2
+    "positive": 2,
+    "score": 0.6666666666666666
   },
   {
     "sequence": "2640",
@@ -6397,7 +7196,8 @@
     "position": 0.496259709,
     "negative": 0,
     "neutral": 2,
-    "positive": 1
+    "positive": 1,
+    "score": 0.3333333333333333
   },
   {
     "sequence": "1F685",
@@ -6405,7 +7205,8 @@
     "position": 0.60688385,
     "negative": 0,
     "neutral": 1,
-    "positive": 2
+    "positive": 2,
+    "score": 0.6666666666666666
   },
   {
     "sequence": "1F692",
@@ -6413,7 +7214,8 @@
     "position": 0.372181638,
     "negative": 1,
     "neutral": 2,
-    "positive": 0
+    "positive": 0,
+    "score": -0.3333333333333333
   },
   {
     "sequence": "27A3",
@@ -6421,7 +7223,8 @@
     "position": 0.607657549,
     "negative": 0,
     "neutral": 3,
-    "positive": 0
+    "positive": 0,
+    "score": 0
   },
   {
     "sequence": "264B",
@@ -6429,7 +7232,8 @@
     "position": 0.66780619,
     "negative": 0,
     "neutral": 2,
-    "positive": 1
+    "positive": 1,
+    "score": 0.3333333333333333
   },
   {
     "sequence": "264D",
@@ -6437,7 +7241,8 @@
     "position": 0.921455436,
     "negative": 0,
     "neutral": 1,
-    "positive": 2
+    "positive": 2,
+    "score": 0.6666666666666666
   },
   {
     "sequence": "1F55D",
@@ -6445,7 +7250,8 @@
     "position": 0.673202614,
     "negative": 1,
     "neutral": 2,
-    "positive": 0
+    "positive": 0,
+    "score": -0.3333333333333333
   },
   {
     "sequence": "24D0",
@@ -6453,7 +7259,8 @@
     "position": 0.866666667,
     "negative": 0,
     "neutral": 0,
-    "positive": 3
+    "positive": 3,
+    "score": 1
   },
   {
     "sequence": "2717",
@@ -6461,7 +7268,8 @@
     "position": 1,
     "negative": 1,
     "neutral": 1,
-    "positive": 1
+    "positive": 1,
+    "score": 0
   },
   {
     "sequence": "1F4D9",
@@ -6469,7 +7277,8 @@
     "position": 0.985204154,
     "negative": 1,
     "neutral": 0,
-    "positive": 2
+    "positive": 2,
+    "score": 0.3333333333333333
   },
   {
     "sequence": "24C8",
@@ -6477,7 +7286,8 @@
     "position": 0.837301587,
     "negative": 0,
     "neutral": 2,
-    "positive": 1
+    "positive": 1,
+    "score": 0.3333333333333333
   },
   {
     "sequence": "1F4CB",
@@ -6485,7 +7295,8 @@
     "position": 0.902676399,
     "negative": 0,
     "neutral": 1,
-    "positive": 2
+    "positive": 2,
+    "score": 0.6666666666666666
   },
   {
     "sequence": "21E2",
@@ -6493,7 +7304,8 @@
     "position": 0.795568159,
     "negative": 1,
     "neutral": 1,
-    "positive": 1
+    "positive": 1,
+    "score": 0
   },
   {
     "sequence": "1F3B1",
@@ -6501,7 +7313,8 @@
     "position": 0.733061963,
     "negative": 1,
     "neutral": 0,
-    "positive": 2
+    "positive": 2,
+    "score": 0.3333333333333333
   },
   {
     "sequence": "1F41E",
@@ -6509,7 +7322,8 @@
     "position": 0.867149758,
     "negative": 0,
     "neutral": 2,
-    "positive": 1
+    "positive": 1,
+    "score": 0.3333333333333333
   },
   {
     "sequence": "1F53A",
@@ -6517,7 +7331,8 @@
     "position": 0.331084568,
     "negative": 0,
     "neutral": 2,
-    "positive": 1
+    "positive": 1,
+    "score": 0.3333333333333333
   },
   {
     "sequence": "24E1",
@@ -6525,7 +7340,8 @@
     "position": 0.476666667,
     "negative": 0,
     "neutral": 0,
-    "positive": 3
+    "positive": 3,
+    "score": 1
   },
   {
     "sequence": "1F38D",
@@ -6533,7 +7349,8 @@
     "position": 0.460928261,
     "negative": 0,
     "neutral": 3,
-    "positive": 0
+    "positive": 0,
+    "score": 0
   },
   {
     "sequence": "2664",
@@ -6541,7 +7358,8 @@
     "position": 0.864386792,
     "negative": 0,
     "neutral": 1,
-    "positive": 2
+    "positive": 2,
+    "score": 0.6666666666666666
   },
   {
     "sequence": "1F3B2",
@@ -6549,7 +7367,8 @@
     "position": 0.294190811,
     "negative": 0,
     "neutral": 3,
-    "positive": 0
+    "positive": 0,
+    "score": 0
   },
   {
     "sequence": "1F3AF",
@@ -6557,7 +7376,8 @@
     "position": 0.928725808,
     "negative": 0,
     "neutral": 1,
-    "positive": 2
+    "positive": 2,
+    "score": 0.6666666666666666
   },
   {
     "sequence": "3020",
@@ -6565,7 +7385,8 @@
     "position": 0.589554531,
     "negative": 0,
     "neutral": 3,
-    "positive": 0
+    "positive": 0,
+    "score": 0
   },
   {
     "sequence": "1F509",
@@ -6573,7 +7394,8 @@
     "position": 0.527173913,
     "negative": 0,
     "neutral": 1,
-    "positive": 2
+    "positive": 2,
+    "score": 0.6666666666666666
   },
   {
     "sequence": "21A9",
@@ -6581,7 +7403,8 @@
     "position": 0.790990991,
     "negative": 0,
     "neutral": 0,
-    "positive": 3
+    "positive": 3,
+    "score": 1
   },
   {
     "sequence": "1F6BE",
@@ -6589,7 +7412,8 @@
     "position": 0.97979798,
     "negative": 0,
     "neutral": 2,
-    "positive": 1
+    "positive": 1,
+    "score": 0.3333333333333333
   },
   {
     "sequence": "1F3A3",
@@ -6597,7 +7421,8 @@
     "position": 0.661217721,
     "negative": 2,
     "neutral": 1,
-    "positive": 0
+    "positive": 0,
+    "score": -0.6666666666666666
   },
   {
     "sequence": "1F523",
@@ -6605,7 +7430,8 @@
     "position": 0.73668039,
     "negative": 0,
     "neutral": 2,
-    "positive": 1
+    "positive": 1,
+    "score": 0.3333333333333333
   },
   {
     "sequence": "274E",
@@ -6613,7 +7439,8 @@
     "position": 0.376693767,
     "negative": 3,
     "neutral": 0,
-    "positive": 0
+    "positive": 0,
+    "score": -1
   },
   {
     "sequence": "27A5",
@@ -6621,7 +7448,8 @@
     "position": 0.607479234,
     "negative": 0,
     "neutral": 2,
-    "positive": 1
+    "positive": 1,
+    "score": 0.3333333333333333
   },
   {
     "sequence": "1F171",
@@ -6629,7 +7457,8 @@
     "position": 0.753702885,
     "negative": 0,
     "neutral": 3,
-    "positive": 0
+    "positive": 0,
+    "score": 0
   },
   {
     "sequence": "1F38C",
@@ -6637,7 +7466,8 @@
     "position": 0.720638968,
     "negative": 0,
     "neutral": 0,
-    "positive": 3
+    "positive": 3,
+    "score": 1
   },
   {
     "sequence": "25E3",
@@ -6645,7 +7475,8 @@
     "position": 0.1679015,
     "negative": 0,
     "neutral": 2,
-    "positive": 1
+    "positive": 1,
+    "score": 0.3333333333333333
   },
   {
     "sequence": "23EC",
@@ -6653,7 +7484,8 @@
     "position": 0.798387097,
     "negative": 0,
     "neutral": 0,
-    "positive": 3
+    "positive": 3,
+    "score": 1
   },
   {
     "sequence": "266D",
@@ -6661,7 +7493,8 @@
     "position": 0.996296296,
     "negative": 0,
     "neutral": 2,
-    "positive": 1
+    "positive": 1,
+    "score": 0.3333333333333333
   },
   {
     "sequence": "1F4A0",
@@ -6669,7 +7502,8 @@
     "position": 0.634782609,
     "negative": 0,
     "neutral": 3,
-    "positive": 0
+    "positive": 0,
+    "score": 0
   },
   {
     "sequence": "24DE",
@@ -6677,7 +7511,8 @@
     "position": 0.334090909,
     "negative": 0,
     "neutral": 0,
-    "positive": 2
+    "positive": 2,
+    "score": 1
   },
   {
     "sequence": "1F533",
@@ -6685,7 +7520,8 @@
     "position": 0.35921659,
     "negative": 0,
     "neutral": 1,
-    "positive": 1
+    "positive": 1,
+    "score": 0.5
   },
   {
     "sequence": "1F3ED",
@@ -6693,7 +7529,8 @@
     "position": 0.620360999,
     "negative": 0,
     "neutral": 1,
-    "positive": 1
+    "positive": 1,
+    "score": 0.5
   },
   {
     "sequence": "1F530",
@@ -6701,7 +7538,8 @@
     "position": 0.612218045,
     "negative": 0,
     "neutral": 2,
-    "positive": 0
+    "positive": 0,
+    "score": 0
   },
   {
     "sequence": "1F3B3",
@@ -6709,7 +7547,8 @@
     "position": 0.031697819,
     "negative": 1,
     "neutral": 1,
-    "positive": 0
+    "positive": 0,
+    "score": -0.5
   },
   {
     "sequence": "261A",
@@ -6717,7 +7556,8 @@
     "position": 0.536679293,
     "negative": 0,
     "neutral": 0,
-    "positive": 2
+    "positive": 2,
+    "score": 1
   },
   {
     "sequence": "27BD",
@@ -6725,7 +7565,8 @@
     "position": 0.872727273,
     "negative": 0,
     "neutral": 1,
-    "positive": 1
+    "positive": 1,
+    "score": 0.5
   },
   {
     "sequence": "27AB",
@@ -6733,7 +7574,8 @@
     "position": 0.22556391,
     "negative": 0,
     "neutral": 1,
-    "positive": 1
+    "positive": 1,
+    "score": 0.5
   },
   {
     "sequence": "2796",
@@ -6741,7 +7583,8 @@
     "position": 0.023088023,
     "negative": 2,
     "neutral": 0,
-    "positive": 0
+    "positive": 0,
+    "score": -1
   },
   {
     "sequence": "1F3EE",
@@ -6749,7 +7592,8 @@
     "position": 0.949404762,
     "negative": 0,
     "neutral": 2,
-    "positive": 0
+    "positive": 0,
+    "score": 0
   },
   {
     "sequence": "1F4DB",
@@ -6757,7 +7601,8 @@
     "position": 0.964880952,
     "negative": 0,
     "neutral": 2,
-    "positive": 0
+    "positive": 0,
+    "score": 0
   },
   {
     "sequence": "A4B0",
@@ -6765,7 +7610,8 @@
     "position": 0.744823477,
     "negative": 0,
     "neutral": 1,
-    "positive": 1
+    "positive": 1,
+    "score": 0.5
   },
   {
     "sequence": "A4B1",
@@ -6773,7 +7619,8 @@
     "position": 0.800983167,
     "negative": 0,
     "neutral": 1,
-    "positive": 1
+    "positive": 1,
+    "score": 0.5
   },
   {
     "sequence": "25DD",
@@ -6781,7 +7628,8 @@
     "position": 0.847674607,
     "negative": 1,
     "neutral": 1,
-    "positive": 0
+    "positive": 0,
+    "score": -0.5
   },
   {
     "sequence": "1F4D1",
@@ -6789,7 +7637,8 @@
     "position": 0.557971014,
     "negative": 0,
     "neutral": 0,
-    "positive": 2
+    "positive": 2,
+    "score": 1
   },
   {
     "sequence": "1F3A6",
@@ -6797,7 +7646,8 @@
     "position": 0.796610169,
     "negative": 0,
     "neutral": 2,
-    "positive": 0
+    "positive": 0,
+    "score": 0
   },
   {
     "sequence": "24E7",
@@ -6805,7 +7655,8 @@
     "position": 0.96,
     "negative": 0,
     "neutral": 0,
-    "positive": 2
+    "positive": 2,
+    "score": 1
   },
   {
     "sequence": "1F1E8",
@@ -6813,7 +7664,8 @@
     "position": 0.935606061,
     "negative": 0,
     "neutral": 2,
-    "positive": 0
+    "positive": 0,
+    "score": 0
   },
   {
     "sequence": "1F1F3",
@@ -6821,7 +7673,8 @@
     "position": 0.623484848,
     "negative": 0,
     "neutral": 2,
-    "positive": 0
+    "positive": 0,
+    "score": 0
   },
   {
     "sequence": "1F51F",
@@ -6829,7 +7682,8 @@
     "position": 0.801587302,
     "negative": 0,
     "neutral": 0,
-    "positive": 2
+    "positive": 2,
+    "score": 1
   },
   {
     "sequence": "3013",
@@ -6837,7 +7691,8 @@
     "position": 0.533898305,
     "negative": 0,
     "neutral": 0,
-    "positive": 2
+    "positive": 2,
+    "score": 1
   },
   {
     "sequence": "24DC",
@@ -6845,7 +7700,8 @@
     "position": 0.743085399,
     "negative": 0,
     "neutral": 1,
-    "positive": 1
+    "positive": 1,
+    "score": 0.5
   },
   {
     "sequence": "27A0",
@@ -6853,7 +7709,8 @@
     "position": 0.642857143,
     "negative": 0,
     "neutral": 0,
-    "positive": 2
+    "positive": 2,
+    "score": 1
   },
   {
     "sequence": "1F686",
@@ -6861,7 +7718,8 @@
     "position": 0.472714286,
     "negative": 0,
     "neutral": 1,
-    "positive": 1
+    "positive": 1,
+    "score": 0.5
   },
   {
     "sequence": "1F6A0",
@@ -6869,7 +7727,8 @@
     "position": 0.807469512,
     "negative": 0,
     "neutral": 2,
-    "positive": 0
+    "positive": 0,
+    "score": 0
   },
   {
     "sequence": "2105",
@@ -6877,7 +7736,8 @@
     "position": 0.606150794,
     "negative": 2,
     "neutral": 0,
-    "positive": 0
+    "positive": 0,
+    "score": -1
   },
   {
     "sequence": "2603",
@@ -6885,7 +7745,8 @@
     "position": 0.566037736,
     "negative": 0,
     "neutral": 1,
-    "positive": 1
+    "positive": 1,
+    "score": 0.5
   },
   {
     "sequence": "1F6BD",
@@ -6893,7 +7754,8 @@
     "position": 0.69047619,
     "negative": 0,
     "neutral": 0,
-    "positive": 2
+    "positive": 2,
+    "score": 1
   },
   {
     "sequence": "1F4D0",
@@ -6901,7 +7763,8 @@
     "position": 0.02970297,
     "negative": 0,
     "neutral": 2,
-    "positive": 0
+    "positive": 0,
+    "score": 0
   },
   {
     "sequence": "24DD",
@@ -6909,7 +7772,8 @@
     "position": 0.393333333,
     "negative": 0,
     "neutral": 0,
-    "positive": 2
+    "positive": 2,
+    "score": 1
   },
   {
     "sequence": "272E",
@@ -6917,7 +7781,8 @@
     "position": 0.211711712,
     "negative": 0,
     "neutral": 2,
-    "positive": 0
+    "positive": 0,
+    "score": 0
   },
   {
     "sequence": "21E6",
@@ -6925,7 +7790,8 @@
     "position": 0.489955357,
     "negative": 0,
     "neutral": 0,
-    "positive": 2
+    "positive": 2,
+    "score": 1
   },
   {
     "sequence": "1F472",
@@ -6933,7 +7799,8 @@
     "position": 0.382655827,
     "negative": 0,
     "neutral": 1,
-    "positive": 1
+    "positive": 1,
+    "score": 0.5
   },
   {
     "sequence": "1F6A1",
@@ -6941,7 +7808,8 @@
     "position": 0.622505543,
     "negative": 1,
     "neutral": 1,
-    "positive": 0
+    "positive": 0,
+    "score": -0.5
   },
   {
     "sequence": "1F391",
@@ -6949,7 +7817,8 @@
     "position": 0.309294872,
     "negative": 0,
     "neutral": 2,
-    "positive": 0
+    "positive": 0,
+    "score": 0
   },
   {
     "sequence": "1F52C",
@@ -6957,7 +7826,8 @@
     "position": 0.727696078,
     "negative": 0,
     "neutral": 0,
-    "positive": 2
+    "positive": 2,
+    "score": 1
   },
   {
     "sequence": "2797",
@@ -6965,7 +7835,8 @@
     "position": 0.018722944,
     "negative": 1,
     "neutral": 1,
-    "positive": 0
+    "positive": 0,
+    "score": -0.5
   },
   {
     "sequence": "1F4C8",
@@ -6973,7 +7844,8 @@
     "position": 0.568724559,
     "negative": 0,
     "neutral": 1,
-    "positive": 1
+    "positive": 1,
+    "score": 0.5
   },
   {
     "sequence": "2318",
@@ -6981,7 +7853,8 @@
     "position": 0.613333333,
     "negative": 0,
     "neutral": 2,
-    "positive": 0
+    "positive": 0,
+    "score": 0
   },
   {
     "sequence": "23EA",
@@ -6989,7 +7862,8 @@
     "position": 0.489035088,
     "negative": 0,
     "neutral": 1,
-    "positive": 1
+    "positive": 1,
+    "score": 0.5
   },
   {
     "sequence": "2579",
@@ -6997,7 +7871,8 @@
     "position": 0.952380952,
     "negative": 0,
     "neutral": 2,
-    "positive": 0
+    "positive": 0,
+    "score": 0
   },
   {
     "sequence": "25CE",
@@ -7005,7 +7880,8 @@
     "position": 0.925,
     "negative": 0,
     "neutral": 0,
-    "positive": 2
+    "positive": 2,
+    "score": 1
   },
   {
     "sequence": "1F53C",
@@ -7013,7 +7889,8 @@
     "position": 0.358974359,
     "negative": 0,
     "neutral": 2,
-    "positive": 0
+    "positive": 0,
+    "score": 0
   },
   {
     "sequence": "A4A6",
@@ -7021,7 +7898,8 @@
     "position": 0.953125,
     "negative": 2,
     "neutral": 0,
-    "positive": 0
+    "positive": 0,
+    "score": -1
   },
   {
     "sequence": "1F4CE",
@@ -7029,7 +7907,8 @@
     "position": 0.044776119,
     "negative": 0,
     "neutral": 0,
-    "positive": 2
+    "positive": 2,
+    "score": 1
   },
   {
     "sequence": "2445",
@@ -7037,7 +7916,8 @@
     "position": 0.652173913,
     "negative": 0,
     "neutral": 0,
-    "positive": 2
+    "positive": 2,
+    "score": 1
   },
   {
     "sequence": "235D",
@@ -7045,7 +7925,8 @@
     "position": 0.776859504,
     "negative": 0,
     "neutral": 2,
-    "positive": 0
+    "positive": 0,
+    "score": 0
   },
   {
     "sequence": "1F4C1",
@@ -7053,7 +7934,8 @@
     "position": 0.785714286,
     "negative": 0,
     "neutral": 2,
-    "positive": 0
+    "positive": 0,
+    "score": 0
   },
   {
     "sequence": "272D",
@@ -7061,7 +7943,8 @@
     "position": 0.589285714,
     "negative": 0,
     "neutral": 0,
-    "positive": 2
+    "positive": 2,
+    "score": 1
   },
   {
     "sequence": "27B2",
@@ -7069,7 +7952,8 @@
     "position": 0.009615385,
     "negative": 0,
     "neutral": 2,
-    "positive": 0
+    "positive": 0,
+    "score": 0
   },
   {
     "sequence": "2653",
@@ -7077,7 +7961,8 @@
     "position": 0.093023256,
     "negative": 0,
     "neutral": 1,
-    "positive": 1
+    "positive": 1,
+    "score": 0.5
   },
   {
     "sequence": "250F",
@@ -7085,7 +7970,8 @@
     "position": 0.58778626,
     "negative": 0,
     "neutral": 0,
-    "positive": 2
+    "positive": 2,
+    "score": 1
   },
   {
     "sequence": "2607",
@@ -7093,7 +7979,8 @@
     "position": 0.99382716,
     "negative": 0,
     "neutral": 0,
-    "positive": 2
+    "positive": 2,
+    "score": 1
   },
   {
     "sequence": "267A",
@@ -7101,7 +7988,8 @@
     "position": 0.175,
     "negative": 0,
     "neutral": 2,
-    "positive": 0
+    "positive": 0,
+    "score": 0
   },
   {
     "sequence": "265E",
@@ -7109,7 +7997,8 @@
     "position": 0.581967213,
     "negative": 0,
     "neutral": 2,
-    "positive": 0
+    "positive": 0,
+    "score": 0
   },
   {
     "sequence": "0FCE",
@@ -7117,7 +8006,8 @@
     "position": 0.232142857,
     "negative": 2,
     "neutral": 0,
-    "positive": 0
+    "positive": 0,
+    "score": -1
   },
   {
     "sequence": "1F4E0",
@@ -7125,7 +8015,8 @@
     "position": 1,
     "negative": 0,
     "neutral": 2,
-    "positive": 0
+    "positive": 0,
+    "score": 0
   },
   {
     "sequence": "1F458",
@@ -7133,7 +8024,8 @@
     "position": 0.643678161,
     "negative": 0,
     "neutral": 0,
-    "positive": 2
+    "positive": 2,
+    "score": 1
   },
   {
     "sequence": "2199",
@@ -7141,7 +8033,8 @@
     "position": 0.206766917,
     "negative": 0,
     "neutral": 0,
-    "positive": 2
+    "positive": 2,
+    "score": 1
   },
   {
     "sequence": "24BB",
@@ -7149,7 +8042,8 @@
     "position": 0.652777778,
     "negative": 0,
     "neutral": 1,
-    "positive": 1
+    "positive": 1,
+    "score": 0.5
   },
   {
     "sequence": "24CC",
@@ -7157,7 +8051,8 @@
     "position": 0.722222222,
     "negative": 0,
     "neutral": 1,
-    "positive": 1
+    "positive": 1,
+    "score": 0.5
   },
   {
     "sequence": "24C5",
@@ -7165,7 +8060,8 @@
     "position": 0.791666667,
     "negative": 0,
     "neutral": 1,
-    "positive": 1
+    "positive": 1,
+    "score": 0.5
   },
   {
     "sequence": "1F551",
@@ -7173,7 +8069,8 @@
     "position": 0.988407728,
     "negative": 0,
     "neutral": 1,
-    "positive": 1
+    "positive": 1,
+    "score": 0.5
   },
   {
     "sequence": "1F4BD",
@@ -7181,7 +8078,8 @@
     "position": 0.566037736,
     "negative": 0,
     "neutral": 1,
-    "positive": 0
+    "positive": 0,
+    "score": 0
   },
   {
     "sequence": "1F55B",
@@ -7189,7 +8087,8 @@
     "position": 1,
     "negative": 0,
     "neutral": 0,
-    "positive": 1
+    "positive": 1,
+    "score": 1
   },
   {
     "sequence": "1F3AB",
@@ -7197,7 +8096,8 @@
     "position": 0.452631579,
     "negative": 0,
     "neutral": 1,
-    "positive": 0
+    "positive": 0,
+    "score": 0
   },
   {
     "sequence": "2648",
@@ -7205,7 +8105,8 @@
     "position": 0.524590164,
     "negative": 1,
     "neutral": 0,
-    "positive": 0
+    "positive": 0,
+    "score": -1
   },
   {
     "sequence": "1F4DF",
@@ -7213,7 +8114,8 @@
     "position": 0.991666667,
     "negative": 0,
     "neutral": 1,
-    "positive": 0
+    "positive": 0,
+    "score": 0
   },
   {
     "sequence": "2103",
@@ -7221,7 +8123,8 @@
     "position": 0.2375,
     "negative": 0,
     "neutral": 1,
-    "positive": 0
+    "positive": 0,
+    "score": 0
   },
   {
     "sequence": "21AC",
@@ -7229,7 +8132,8 @@
     "position": 0.806818182,
     "negative": 0,
     "neutral": 0,
-    "positive": 1
+    "positive": 1,
+    "score": 1
   },
   {
     "sequence": "1F552",
@@ -7237,7 +8141,8 @@
     "position": 0.039215686,
     "negative": 0,
     "neutral": 1,
-    "positive": 0
+    "positive": 0,
+    "score": 0
   },
   {
     "sequence": "1F1F0",
@@ -7245,7 +8150,8 @@
     "position": 0.939393939,
     "negative": 0,
     "neutral": 1,
-    "positive": 0
+    "positive": 0,
+    "score": 0
   },
   {
     "sequence": "21B1",
@@ -7253,7 +8159,8 @@
     "position": 0.537190083,
     "negative": 0,
     "neutral": 1,
-    "positive": 0
+    "positive": 0,
+    "score": 0
   },
   {
     "sequence": "270D",
@@ -7261,7 +8168,8 @@
     "position": 1,
     "negative": 0,
     "neutral": 0,
-    "positive": 1
+    "positive": 1,
+    "score": 1
   },
   {
     "sequence": "21D0",
@@ -7269,7 +8177,8 @@
     "position": 0.741007194,
     "negative": 0,
     "neutral": 1,
-    "positive": 0
+    "positive": 0,
+    "score": 0
   },
   {
     "sequence": "1F3E6",
@@ -7277,7 +8186,8 @@
     "position": 1,
     "negative": 0,
     "neutral": 0,
-    "positive": 1
+    "positive": 1,
+    "score": 1
   },
   {
     "sequence": "1F53B",
@@ -7285,7 +8195,8 @@
     "position": 0.575757576,
     "negative": 0,
     "neutral": 0,
-    "positive": 1
+    "positive": 1,
+    "score": 1
   },
   {
     "sequence": "24DF",
@@ -7293,7 +8204,8 @@
     "position": 0.05,
     "negative": 0,
     "neutral": 0,
-    "positive": 1
+    "positive": 1,
+    "score": 1
   },
   {
     "sequence": "24D5",
@@ -7301,7 +8213,8 @@
     "position": 0.1,
     "negative": 0,
     "neutral": 0,
-    "positive": 1
+    "positive": 1,
+    "score": 1
   },
   {
     "sequence": "24D8",
@@ -7309,7 +8222,8 @@
     "position": 0.166666667,
     "negative": 0,
     "neutral": 0,
-    "positive": 1
+    "positive": 1,
+    "score": 1
   },
   {
     "sequence": "267F",
@@ -7317,7 +8231,8 @@
     "position": 1,
     "negative": 0,
     "neutral": 0,
-    "positive": 1
+    "positive": 1,
+    "score": 1
   },
   {
     "sequence": "21D7",
@@ -7325,7 +8240,8 @@
     "position": 0.761904762,
     "negative": 0,
     "neutral": 0,
-    "positive": 1
+    "positive": 1,
+    "score": 1
   },
   {
     "sequence": "21D8",
@@ -7333,7 +8249,8 @@
     "position": 0.857142857,
     "negative": 0,
     "neutral": 0,
-    "positive": 1
+    "positive": 1,
+    "score": 1
   },
   {
     "sequence": "24E8",
@@ -7341,7 +8258,8 @@
     "position": 0.613333333,
     "negative": 0,
     "neutral": 0,
-    "positive": 1
+    "positive": 1,
+    "score": 1
   },
   {
     "sequence": "24D9",
@@ -7349,7 +8267,8 @@
     "position": 0.68,
     "negative": 0,
     "neutral": 0,
-    "positive": 1
+    "positive": 1,
+    "score": 1
   },
   {
     "sequence": "25AB",
@@ -7357,7 +8276,8 @@
     "position": 0.126760563,
     "negative": 0,
     "neutral": 0,
-    "positive": 1
+    "positive": 1,
+    "score": 1
   },
   {
     "sequence": "1F507",
@@ -7365,7 +8285,8 @@
     "position": 1,
     "negative": 0,
     "neutral": 0,
-    "positive": 1
+    "positive": 1,
+    "score": 1
   },
   {
     "sequence": "2303",
@@ -7373,7 +8294,8 @@
     "position": 0.611940299,
     "negative": 1,
     "neutral": 0,
-    "positive": 0
+    "positive": 0,
+    "score": -1
   },
   {
     "sequence": "1F516",
@@ -7381,7 +8303,8 @@
     "position": 0.988888889,
     "negative": 0,
     "neutral": 0,
-    "positive": 1
+    "positive": 1,
+    "score": 1
   },
   {
     "sequence": "1F4DC",
@@ -7389,7 +8312,8 @@
     "position": 1,
     "negative": 0,
     "neutral": 0,
-    "positive": 1
+    "positive": 1,
+    "score": 1
   },
   {
     "sequence": "264F",
@@ -7397,7 +8321,8 @@
     "position": 0.772058824,
     "negative": 0,
     "neutral": 1,
-    "positive": 0
+    "positive": 0,
+    "score": 0
   },
   {
     "sequence": "1F69D",
@@ -7405,7 +8330,8 @@
     "position": 0.966666667,
     "negative": 0,
     "neutral": 0,
-    "positive": 1
+    "positive": 1,
+    "score": 1
   },
   {
     "sequence": "2622",
@@ -7413,7 +8339,8 @@
     "position": 0.725,
     "negative": 0,
     "neutral": 1,
-    "positive": 0
+    "positive": 0,
+    "score": 0
   },
   {
     "sequence": "1F38F",
@@ -7421,7 +8348,8 @@
     "position": 0.390243902,
     "negative": 0,
     "neutral": 1,
-    "positive": 0
+    "positive": 0,
+    "score": 0
   },
   {
     "sequence": "2518",
@@ -7429,7 +8357,8 @@
     "position": 0.909090909,
     "negative": 1,
     "neutral": 0,
-    "positive": 0
+    "positive": 0,
+    "score": -1
   },
   {
     "sequence": "271D",
@@ -7437,7 +8366,8 @@
     "position": 0.411764706,
     "negative": 1,
     "neutral": 0,
-    "positive": 0
+    "positive": 0,
+    "score": -1
   },
   {
     "sequence": "2756",
@@ -7445,7 +8375,8 @@
     "position": 0.581967213,
     "negative": 0,
     "neutral": 1,
-    "positive": 0
+    "positive": 0,
+    "score": 0
   },
   {
     "sequence": "2363",
@@ -7453,7 +8384,8 @@
     "position": 0.953125,
     "negative": 1,
     "neutral": 0,
-    "positive": 0
+    "positive": 0,
+    "score": -1
   },
   {
     "sequence": "1F4EE",
@@ -7461,7 +8393,8 @@
     "position": 0.798319328,
     "negative": 1,
     "neutral": 0,
-    "positive": 0
+    "positive": 0,
+    "score": -1
   },
   {
     "sequence": "1F555",
@@ -7469,7 +8402,8 @@
     "position": 0.646153846,
     "negative": 1,
     "neutral": 0,
-    "positive": 0
+    "positive": 0,
+    "score": -1
   },
   {
     "sequence": "1F1ED",
@@ -7477,7 +8411,8 @@
     "position": 0.236363636,
     "negative": 0,
     "neutral": 1,
-    "positive": 0
+    "positive": 0,
+    "score": 0
   },
   {
     "sequence": "25DC",
@@ -7485,7 +8420,8 @@
     "position": 0.760330579,
     "negative": 0,
     "neutral": 1,
-    "positive": 0
+    "positive": 0,
+    "score": 0
   },
   {
     "sequence": "1F52F",
@@ -7493,7 +8429,8 @@
     "position": 1,
     "negative": 0,
     "neutral": 0,
-    "positive": 1
+    "positive": 1,
+    "score": 1
   },
   {
     "sequence": "27B8",
@@ -7501,7 +8438,8 @@
     "position": 0.364963504,
     "negative": 0,
     "neutral": 0,
-    "positive": 1
+    "positive": 1,
+    "score": 1
   },
   {
     "sequence": "A4B5",
@@ -7509,7 +8447,8 @@
     "position": 0.927007299,
     "negative": 0,
     "neutral": 0,
-    "positive": 1
+    "positive": 1,
+    "score": 1
   },
   {
     "sequence": "1F565",
@@ -7517,7 +8456,8 @@
     "position": 0.811965812,
     "negative": 1,
     "neutral": 0,
-    "positive": 0
+    "positive": 0,
+    "score": -1
   },
   {
     "sequence": "2659",
@@ -7525,7 +8465,8 @@
     "position": 0.342857143,
     "negative": 0,
     "neutral": 1,
-    "positive": 0
+    "positive": 0,
+    "score": 0
   },
   {
     "sequence": "25BF",
@@ -7533,7 +8474,8 @@
     "position": 0.432835821,
     "negative": 0,
     "neutral": 1,
-    "positive": 0
+    "positive": 0,
+    "score": 0
   },
   {
     "sequence": "2683",
@@ -7541,7 +8483,8 @@
     "position": 0.918918919,
     "negative": 0,
     "neutral": 1,
-    "positive": 0
+    "positive": 0,
+    "score": 0
   },
   {
     "sequence": "273D",
@@ -7549,7 +8492,8 @@
     "position": 0.99270073,
     "negative": 0,
     "neutral": 0,
-    "positive": 1
+    "positive": 1,
+    "score": 1
   },
   {
     "sequence": "1F4FC",
@@ -7557,7 +8501,8 @@
     "position": 1,
     "negative": 0,
     "neutral": 0,
-    "positive": 1
+    "positive": 1,
+    "score": 1
   },
   {
     "sequence": "1F550",
@@ -7565,7 +8510,8 @@
     "position": 1,
     "negative": 1,
     "neutral": 0,
-    "positive": 0
+    "positive": 0,
+    "score": -1
   },
   {
     "sequence": "1F004",
@@ -7573,7 +8519,8 @@
     "position": 1,
     "negative": 0,
     "neutral": 0,
-    "positive": 1
+    "positive": 1,
+    "score": 1
   },
   {
     "sequence": "273E",
@@ -7581,7 +8528,8 @@
     "position": 0.023255814,
     "negative": 0,
     "neutral": 1,
-    "positive": 0
+    "positive": 0,
+    "score": 0
   },
   {
     "sequence": "272C",
@@ -7589,7 +8537,8 @@
     "position": 0.955223881,
     "negative": 0,
     "neutral": 0,
-    "positive": 1
+    "positive": 1,
+    "score": 1
   },
   {
     "sequence": "1F191",
@@ -7597,7 +8546,8 @@
     "position": 0.983606557,
     "negative": 0,
     "neutral": 1,
-    "positive": 0
+    "positive": 0,
+    "score": 0
   },
   {
     "sequence": "272B",
@@ -7605,7 +8555,8 @@
     "position": 0.923728814,
     "negative": 0,
     "neutral": 0,
-    "positive": 1
+    "positive": 1,
+    "score": 1
   },
   {
     "sequence": "1F554",
@@ -7613,7 +8564,8 @@
     "position": 0.742424242,
     "negative": 1,
     "neutral": 0,
-    "positive": 0
+    "positive": 0,
+    "score": -1
   },
   {
     "sequence": "2763",
@@ -7621,7 +8573,8 @@
     "position": 0.471428571,
     "negative": 0,
     "neutral": 0,
-    "positive": 1
+    "positive": 1,
+    "score": 1
   },
   {
     "sequence": "27B1",
@@ -7629,7 +8582,8 @@
     "position": 0.704347826,
     "negative": 0,
     "neutral": 1,
-    "positive": 0
+    "positive": 0,
+    "score": 0
   },
   {
     "sequence": "1F195",
@@ -7637,7 +8591,8 @@
     "position": 0.669117647,
     "negative": 0,
     "neutral": 1,
-    "positive": 0
+    "positive": 0,
+    "score": 0
   },
   {
     "sequence": "27A2",
@@ -7645,7 +8600,8 @@
     "position": 0.242647059,
     "negative": 0,
     "neutral": 1,
-    "positive": 0
+    "positive": 0,
+    "score": 0
   },
   {
     "sequence": "2195",
@@ -7653,7 +8609,8 @@
     "position": 0.735632184,
     "negative": 0,
     "neutral": 1,
-    "positive": 0
+    "positive": 0,
+    "score": 0
   },
   {
     "sequence": "1F4EB",
@@ -7661,7 +8618,8 @@
     "position": 0.384615385,
     "negative": 0,
     "neutral": 0,
-    "positive": 1
+    "positive": 1,
+    "score": 1
   },
   {
     "sequence": "1F250",
@@ -7669,7 +8627,8 @@
     "position": 0.03125,
     "negative": 0,
     "neutral": 0,
-    "positive": 1
+    "positive": 1,
+    "score": 1
   },
   {
     "sequence": "264A",
@@ -7677,7 +8636,8 @@
     "position": 0.327586207,
     "negative": 0,
     "neutral": 1,
-    "positive": 0
+    "positive": 0,
+    "score": 0
   },
   {
     "sequence": "1F202",
@@ -7685,7 +8645,8 @@
     "position": 0.466666667,
     "negative": 1,
     "neutral": 0,
-    "positive": 0
+    "positive": 0,
+    "score": -1
   },
   {
     "sequence": "1F3B0",
@@ -7693,7 +8654,8 @@
     "position": 0.421686747,
     "negative": 1,
     "neutral": 0,
-    "positive": 0
+    "positive": 0,
+    "score": -1
   },
   {
     "sequence": "0482",
@@ -7701,7 +8663,8 @@
     "position": 0.519230769,
     "negative": 1,
     "neutral": 0,
-    "positive": 0
+    "positive": 0,
+    "score": -1
   },
   {
     "sequence": "2564",
@@ -7709,7 +8672,8 @@
     "position": 0.634615385,
     "negative": 1,
     "neutral": 0,
-    "positive": 0
+    "positive": 0,
+    "score": -1
   },
   {
     "sequence": "279B",
@@ -7717,7 +8681,8 @@
     "position": 0.011627907,
     "negative": 0,
     "neutral": 1,
-    "positive": 0
+    "positive": 0,
+    "score": 0
   },
   {
     "sequence": "265D",
@@ -7725,7 +8690,8 @@
     "position": 0.28,
     "negative": 0,
     "neutral": 1,
-    "positive": 0
+    "positive": 0,
+    "score": 0
   },
   {
     "sequence": "274B",
@@ -7733,7 +8699,8 @@
     "position": 0.888888889,
     "negative": 0,
     "neutral": 1,
-    "positive": 0
+    "positive": 0,
+    "score": 0
   },
   {
     "sequence": "2706",
@@ -7741,7 +8708,8 @@
     "position": 0.557251908,
     "negative": 0,
     "neutral": 1,
-    "positive": 0
+    "positive": 0,
+    "score": 0
   },
   {
     "sequence": "1F4D4",
@@ -7749,6 +8717,7 @@
     "position": 0.814814815,
     "negative": 0,
     "neutral": 0,
-    "positive": 1
+    "positive": 1,
+    "score": 1
   }
 ]

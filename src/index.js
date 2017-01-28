@@ -1,3 +1,3 @@
-import emojiSentimentDataImport from '../res/emoji-sentiment-data-v1.stable.json';
+import emojiSentimentDataImport from '../res/emoji-sentiment-data.stable.json';
 
 export const data = emojiSentimentDataImport; // eslint-disable-line import/prefer-default-export
