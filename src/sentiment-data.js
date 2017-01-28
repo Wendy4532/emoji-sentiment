@@ -12,6 +12,7 @@ const transformSentimentData = data => data.map(datum => ({
 	negative: datum.Negative,
 	neutral: datum.Neutral,
 	positive: datum.Positive,
+	score: ((datum.Negative * -1) + (datum.Neutral * 0) + (datum.Positive * 1)) / datum.Occurrences, // mean of probability distribution
 }));
 
 export const internals = {

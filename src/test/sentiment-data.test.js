@@ -18,6 +18,7 @@ const expectedSentimentData = [
 		negative: 3614,
 		neutral: 4163,
 		positive: 6845,
+		score: 0.22096840377513335,
 	},
 	{
 		sequence: '2764',
@@ -26,6 +27,7 @@ const expectedSentimentData = [
 		negative: 355,
 		neutral: 1334,
 		positive: 6361,
+		score: 0.7460869565217392,
 	},
 ];
 
