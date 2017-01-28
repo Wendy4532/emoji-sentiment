@@ -7,11 +7,9 @@ const defaultUrl = 'https://www.clarin.si/repository/xmlui/bitstream/handle/1135
 
 const transformSentimentData = data => data.map(datum => ({
 	sequence: leftPad(parseInt(datum['Unicode codepoint'], 16).toString(16), 4, 0).toUpperCase(),
-	occurrences: datum.Occurrences,
-	position: datum.Position,
-	negative: datum.Negative,
-	neutral: datum.Neutral,
-	positive: datum.Positive,
+	negative: datum.Negative / datum.Occurrences,
+	neutral: datum.Neutral / datum.Occurrences,
+	positive: datum.Positive / datum.Occurrences,
 	score: ((datum.Negative * -1) + (datum.Neutral * 0) + (datum.Positive * 1)) / datum.Occurrences, // mean of probability distribution
 }));
 

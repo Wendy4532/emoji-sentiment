@@ -12,8 +12,6 @@ describe('emoji-sentiment', () => {
 		data.forEach((datum) => {
 			expect(datum).to.have.all.keys(
 				'sequence',
-				'occurrences',
-				'position',
 				'negative',
 				'neutral',
 				'positive',
