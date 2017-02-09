@@ -16,6 +16,7 @@ describe('emoji-sentiment', () => {
 				'neutral',
 				'positive',
 				'score',
+				'sem',
 			);
 		});
 	});

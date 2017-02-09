@@ -13,17 +13,19 @@ const csvContentMock = `Emoji,Unicode codepoint,Occurrences,Position,Negative,Ne
 const expectedSentimentData = [
 	{
 		sequence: '1F602',
-		negative: 0.24716181096977158,
-		neutral: 0.28470797428532346,
-		positive: 0.46813021474490496,
-		score: 0.22096840377513335,
+		negative: 0.24717948717948718,
+		neutral: 0.2847179487179487,
+		positive: 0.4681025641025641,
+		score: 0.22092307692307694,
+		sem: 0.006751317877016391,
 	},
 	{
 		sequence: '2764',
-		negative: 0.044099378881987575,
-		neutral: 0.1657142857142857,
-		positive: 0.7901863354037267,
-		score: 0.7460869565217392,
+		negative: 0.04420712777846765,
+		neutral: 0.1657767291692537,
+		positive: 0.7900161430522786,
+		score: 0.7458090152738109,
+		sem: 0.005876494746464442,
 	},
 ];
 
