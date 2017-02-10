@@ -28,10 +28,11 @@ Example of an emoji sentiment datum:
   ...
   {
     "sequence": "1F602",
-    "negative": 0.24716181096977158,
-    "neutral": 0.28470797428532346,
-    "positive": 0.46813021474490496,
-    "score": 0.22096840377513335
+    "negative": 0.24717948717948718,
+    "neutral": 0.2847179487179487,
+    "positive": 0.4681025641025641,
+    "score": 0.22092307692307694,
+    "sem": 0.006751317877016391
   },
   ...
 ]
@@ -41,7 +42,7 @@ Properties of an emoji sentiment datum explained:
 
 - `sequence`
 
-  normalized code point sequence (sequence without any variation selector or modifier applied) e.g. `261D`; use it for mapping the sentiment datum to a specific (emoji) unicode character or connecting it with further meta data (e.g. [unicode-emoji-data](https://www.npmjs.com/package/unicode-emoji-data), [unicode-emoji-annotations](https://www.npmjs.com/package/unicode-emoji-annotations) or [emoji-datasource](https://www.npmjs.com/package/emoji-datasource))
+  normalized code point sequence (sequence without any variation selector or modifier applied) e.g. `1F602`; use it for mapping the sentiment datum to a specific (emoji) unicode character or connecting it with further meta data (e.g. [unicode-emoji-data](https://www.npmjs.com/package/unicode-emoji-data), [unicode-emoji-annotations](https://www.npmjs.com/package/unicode-emoji-annotations) or [emoji-datasource](https://www.npmjs.com/package/emoji-datasource))
 
 - `negative`
 
@@ -57,7 +58,14 @@ Properties of an emoji sentiment datum explained:
 
 - `score`
 
-  resulting sentiment score of the (emoji) unicode character, ranging from `-1` to `+1`, calculated as the mean of the sentiment distribution of `negative` (`-1`), `neutral` (`0`) and `positive` (`+1`)
+  resulting sentiment score of the (emoji) unicode character, ranging from `-1` to `+1`, calculated as the mean of the discrete sentiment distribution of `negative` (`-1`), `neutral` (`0`) and `positive` (`+1`)
+
+- `sem`
+
+  precalculated Standard Error Mean for further deriving the confidence interval, e.g. for 95%:
+  `[score − 1.96 * sem, score + 1.96 * sem]`
+
+The sum of `negative`, `neutral` and `positive` is 1.
 
 ## Usage
 
