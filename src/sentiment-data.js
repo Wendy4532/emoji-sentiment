@@ -34,11 +34,10 @@ export const internals = {
 
 export default function* SentimentData({ url = defaultUrl }) {
 	const content = yield fetch(url).then(res => res.text());
-	const csvParsed = new Promise((resolve) => {
+	const data = yield new Promise((resolve) => {
 		csvToJson({ noheader: false }).fromString(content)
 		.on('end_parsed', csvData => resolve(csvData));
 	});
-	const data = yield csvParsed;
 	const transformedData = transformSentimentData(data);
 	return { // API
 		data: transformedData,
