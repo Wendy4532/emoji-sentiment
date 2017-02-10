@@ -5,7 +5,9 @@
 - lightweight, easy to use JSON data with a minimalistic API
 - based on the work of Kralj Novak, Petra; Smailović, Jasmina; Sluban, Borut and Mozetič, Igor, 2015, *Emoji Sentiment Ranking 1.0*, Slovenian language resource repository CLARIN.SI, [http://hdl.handle.net/11356/1048](http://hdl.handle.net/11356/1048).
 - they engaged 83 human annotators to label over 1.6 million tweets in 13 european languages by sentiment polarity (negative, neutral or positive) while about 4% of the annotated tweets contained emoji
-- this repository provides [transformed and derived JSON data](https://github.com/dematerializer/emoji-sentiment/blob/master/res/emoji-sentiment-data.stable.json) based on the [original CSV data](https://www.clarin.si/repository/xmlui/bitstream/handle/11356/1048/Emoji_Sentiment_Data_v1.0.csv?sequence=8&isAllowed=y)
+- this repository provides [derived JSON data](https://github.com/dematerializer/emoji-sentiment/blob/master/res/emoji-sentiment-data.stable.json) based on the [original CSV data](https://www.clarin.si/repository/xmlui/bitstream/handle/11356/1048/Emoji_Sentiment_Data_v1.0.csv?sequence=8&isAllowed=y)
+
+Have a look at [this table to see an example](https://dematerializer.github.io/emoji-sentiment/emoji-sentiment.stable.html) of what data this library provides.
 
 ## API
 
