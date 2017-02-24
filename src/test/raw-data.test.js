@@ -1,41 +1,39 @@
 import fetchMock from 'fetch-mock';
-import buildSentimentData, { internals } from '../sentiment-data';
+import buildRawData, { internals } from '../raw-data';
 
 const {
 	defaultUrl,
-	transformSentimentData,
+	cherryPickOriginalDataProps,
 } = internals;
 
-const csvContentMock = `Emoji,Unicode codepoint,Occurrences,Position,Negative,Neutral,Positive,Unicode name,Unicode block
+const originalCsvDataContentMock = `Emoji,Unicode codepoint,Occurrences,Position,Negative,Neutral,Positive,Unicode name,Unicode block
 😂,0x1f602,14622,0.805100583,3614,4163,6845,FACE WITH TEARS OF JOY,Emoticons
 ❤,0x2764,8050,0.746943086,355,1334,6361,HEAVY BLACK HEART,Dingbats`;
 
-const expectedSentimentData = [
+const expectedRawData = [
 	{
 		sequence: '1F602',
-		negative: 0.24717948717948718,
-		neutral: 0.2847179487179487,
-		positive: 0.4681025641025641,
-		score: 0.22092307692307694,
-		sem: 0.006751317877016391,
+		occurrences: 14622,
+		negative: 3614,
+		neutral: 4163,
+		positive: 6845,
 	},
 	{
 		sequence: '2764',
-		negative: 0.04420712777846765,
-		neutral: 0.1657767291692537,
-		positive: 0.7900161430522786,
-		score: 0.7458090152738109,
-		sem: 0.005876494746464442,
+		occurrences: 8050,
+		negative: 355,
+		neutral: 1334,
+		positive: 6361,
 	},
 ];
 
-describe('sentiment-data', () => {
+describe('raw-data', () => {
 	it('should use a reasonable default url', () => {
 		expect(defaultUrl).to.equal('https://www.clarin.si/repository/xmlui/bitstream/handle/11356/1048/Emoji_Sentiment_Data_v1.0.csv?sequence=8&isAllowed=y');
 	});
 
-	it('should transform sentiment data', () => {
-		const data = [
+	it('should cherry pick original data props', () => {
+		const originalData = [
 			{
 				Emoji: '😂',
 				'Unicode codepoint': '0x1f602',
@@ -59,18 +57,18 @@ describe('sentiment-data', () => {
 				'Unicode block': 'Dingbats',
 			},
 		];
-		expect(transformSentimentData(data)).to.deep.equal(expectedSentimentData);
+		expect(cherryPickOriginalDataProps(originalData)).to.deep.equal(expectedRawData);
 	});
 
 	it('should generate an API', (done) => {
-		fetchMock.get('*', csvContentMock);
-		const step = buildSentimentData({});
+		fetchMock.get('*', originalCsvDataContentMock);
+		const step = buildRawData({});
 		step.next().value
 		.then(content => step.next(content).value)
 		.then((data) => {
 			const api = step.next(data).value;
 			expect(api).to.have.all.keys('data');
-			expect(api.data).to.deep.equal(expectedSentimentData);
+			expect(api.data).to.deep.equal(expectedRawData);
 			done();
 		});
 	});

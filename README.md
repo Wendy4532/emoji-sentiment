@@ -11,11 +11,7 @@ Have a look at [this table to see an example](https://dematerializer.github.io/e
 
 ## API
 
-Requiring/importing `emoji-sentiment` gives you the following API to work with:
-
-- `data`
-
-### `data`
+Requiring/importing `emoji-sentiment` gives you the following data structure to work with:
 
 ```javascript
 [..., { /* emoji sentiment datum */ }, ...]
@@ -30,9 +26,13 @@ Example of an emoji sentiment datum:
   ...
   {
     "sequence": "1F602",
-    "negative": 0.24717948717948718,
-    "neutral": 0.2847179487179487,
-    "positive": 0.4681025641025641,
+    "occurrences": 14622,
+    "negative": 3614,
+    "neutral": 4163,
+    "positive": 6845,
+    "pNegative": 0.24717948717948718,
+    "pNeutral": 0.2847179487179487,
+    "pPositive": 0.4681025641025641,
     "score": 0.22092307692307694,
     "sem": 0.006751317877016391
   },
@@ -46,17 +46,33 @@ Properties of an emoji sentiment datum explained:
 
   normalized code point sequence (sequence without any variation selector or modifier applied) e.g. `1F602`; use it for mapping the sentiment datum to a specific (emoji) unicode character or connecting it with further meta data (e.g. [unicode-emoji-data](https://www.npmjs.com/package/unicode-emoji-data), [unicode-emoji-annotations](https://www.npmjs.com/package/unicode-emoji-annotations) or [emoji-datasource](https://www.npmjs.com/package/emoji-datasource))
 
+- `occurrences`
+
+  absolute number of occurrences of the (emoji) unicode character in tweets
+
 - `negative`
 
-  negativity component of the sentiment distribution for those tweets associated with the (emoji) unicode character, ranging from `0` to `1`
+  absolute number of occurrences of the (emoji) unicode character in tweets labeled negative
 
 - `neutral`
 
-  neutrality component of the sentiment distribution for those tweets associated with the (emoji) unicode character, ranging from `0` to `1`
+  absolute number of occurrences of the (emoji) unicode character in tweets labeled neutral
 
 - `positive`
 
-  positivity component of the sentiment distribution for those tweets associated with the (emoji) unicode character, ranging from `0` to `1`
+  absolute number of occurrences of the (emoji) unicode character in tweets labeled positive
+
+- `pNegative`
+
+  relative negativity component of the sentiment distribution for those tweets associated with the (emoji) unicode character, ranging from `0` to `1`
+
+- `pNeutral`
+
+  relative neutrality component of the sentiment distribution for those tweets associated with the (emoji) unicode character, ranging from `0` to `1`
+
+- `pPositive`
+
+  relative positivity component of the sentiment distribution for those tweets associated with the (emoji) unicode character, ranging from `0` to `1`
 
 - `score`
 
@@ -67,7 +83,8 @@ Properties of an emoji sentiment datum explained:
   precalculated Standard Error Mean for further deriving the confidence interval, e.g. for 95%:
   `[score − 1.96 * sem, score + 1.96 * sem]`
 
-The sum of `negative`, `neutral` and `positive` is 1.
+The sum of `negative`, `neutral` and `positive` is `occurrences`.
+The sum of `pNegative`, `pNeutral` and `pPositive` is 1.
 
 ## Usage
 
@@ -75,13 +92,12 @@ The sum of `negative`, `neutral` and `positive` is 1.
 
 ```javascript
 const emojiSentiment = require('emoji-sentiment');
-const emojiSentimentData = emojiSentiment.data;
 ```
 
 ### ES6/babel
 
 ```javascript
-import { data } from 'emoji-sentiment';
+import emojiSentiment from 'emoji-sentiment';
 ```
 
 ## Install

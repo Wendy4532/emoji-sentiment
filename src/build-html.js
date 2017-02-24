@@ -3,7 +3,7 @@
 import fs from 'fs';
 import punycode from 'punycode';
 import round from 'lodash.round';
-import { data as sentimentData } from '.';
+import sentimentData from '.';
 import presetStable from './preset-stable';
 
 process.on('uncaughtException', (err) => { throw err; });
@@ -12,11 +12,11 @@ process.on('unhandledRejection', (err) => { throw err; });
 const buildForPreset = (preset) => {
 	const tableRows = sentimentData.map((datum, index) => {
 		const output = punycode.ucs2.encode(datum.sequence.split(' ').map(cp => parseInt(cp, 16)));
-		const negativePercent = datum.negative * 100;
-		const neutralPercent = datum.neutral * 100;
-		const positivePercent = datum.positive * 100;
+		const negativePercent = datum.pNegative * 100;
+		const neutralPercent = datum.pNeutral * 100;
+		const positivePercent = datum.pPositive * 100;
 		// NOTE: score and half of the confidence interval
-		//       need to be scale down by 0.5 to match
+		//       need to be scaled down by 0.5 to match
 		//       the coordinate system of the visualization:
 		//       100% of the sentiment bar space spans across 2
 		//       (0% = -1 to 100% = 1)
@@ -27,9 +27,13 @@ const buildForPreset = (preset) => {
 				<td><pre>${index + 1}</pre></td>
 				<td><pre>${datum.sequence}</pre></td>
 				<td><pre>${output}</pre></td>
-				<td><pre>${round(datum.negative, 3)}</pre></td>
-				<td><pre>${round(datum.neutral, 3)}</pre></td>
-				<td><pre>${round(datum.positive, 3)}</pre></td>
+				<td><pre>${datum.occurrences}</pre></td>
+				<td><pre>${datum.negative}</pre></td>
+				<td><pre>${datum.neutral}</pre></td>
+				<td><pre>${datum.positive}</pre></td>
+				<td><pre>${round(datum.pNegative, 3)}</pre></td>
+				<td><pre>${round(datum.pNeutral, 3)}</pre></td>
+				<td><pre>${round(datum.pPositive, 3)}</pre></td>
 				<td><pre>${round(datum.score, 3)}</pre></td>
 				<td><pre>${round(datum.sem, 3)}</pre></td>
 				<td><pre>${round(datum.score, 3)}±${round(1.96 * datum.sem, 3)}</pre></td>
@@ -37,17 +41,17 @@ const buildForPreset = (preset) => {
 					<div class="diagram">
 						<div
 							class="distribution negative"
-							title="negative: ${round(datum.negative, 3)}"
+							title="negative: ${round(datum.pNegative, 3)}"
 							style="left: 0; width: ${negativePercent}%;"
 						/></div>
 						<div
 							class="distribution neutral"
-							title="neutral: ${round(datum.neutral, 3)}"
+							title="neutral: ${round(datum.pNeutral, 3)}"
 							style="left: ${negativePercent}%; width: ${neutralPercent}%;"
 						/></div>
 						<div
 							class="distribution positive"
-							title="positive: ${round(datum.positive, 3)}"
+							title="positive: ${round(datum.pPositive, 3)}"
 							style="right: 0; width: ${positivePercent}%;"
 						/></div>
 						<div
@@ -113,13 +117,17 @@ const buildForPreset = (preset) => {
 						<th>#</th>
 						<th>Sequence</th>
 						<th>Output<br />(derived)</th>
-						<th>Negativity<br />[0...1]</th>
-						<th>Neutrality<br />[0...1]</th>
-						<th>Positivity<br />[0...1]</th>
-						<th>Score<br />[-1...+1]</th>
-						<th>SEM</th>
-						<th>Confidence Interval<br />(derived, c.i. 95%)</th>
-						<th style="width: 25%;">Visualization<br />(derived, c.i. 95%)</th>
+						<th>Occurrences</th>
+						<th>Negative</th>
+						<th>Neutral</th>
+						<th>Positive</th>
+						<th>Negativity<br />(derived)<br />[0...1]</th>
+						<th>Neutrality<br />(derived)<br />[0...1]</th>
+						<th>Positivity<br />(derived)<br />[0...1]</th>
+						<th>Score<br />(derived)<br />[-1...+1]</th>
+						<th>SEM<br />(derived)</th>
+						<th>Confidence Interval<br />(derived)<br />c.i. 95%</th>
+						<th style="width: 25%;">Visualization<br />(derived)<br />c.i. 95%</th>
 					</thead>
 					<tbody>
 						${tableRows}
