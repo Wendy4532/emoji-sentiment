@@ -18,7 +18,7 @@
     "url": "https://github.com/dematerializer/emoji-sentiment/issues"
   },
   "homepage": "https://github.com/dematerializer/emoji-sentiment#readme",
-  "main": "index.js",
+  "main": "lib/index.js",
   "files": [
     "lib",
     "res"
